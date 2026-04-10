@@ -3,6 +3,7 @@
 This snapshot contains the current BYDFI-related working set:
 - bydfi-agent-proxy: current web chat entry with Hermes bridge
 - bydfi-agent-work: previous live web prototype snapshot
+- hermes-agent: filtered local clone of the Hermes Agent repo used as the base engine
 - bydfi-audit-bot: filtered internship workspace (code, docs, reports, scripts, MCP)
 - references: hackathon source material
 

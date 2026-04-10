@@ -243,51 +243,68 @@ function consumeEventBlock(block, assistant) {
 function initParticles() {
   const canvas = $("particle-canvas");
   const ctx = canvas.getContext("2d");
-  const colors = [
-    "rgba(143,245,255,0.34)",
-    "rgba(214,116,255,0.28)",
-    "rgba(101,175,255,0.28)",
-    "rgba(255,179,106,0.2)"
-  ];
-  const mouse = { x: -9999, y: -9999, radius: 180 };
   const particles = [];
+  const mouse = { x: -1000, y: -1000, radius: 180 };
 
   function resize() {
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
     particles.length = 0;
-    const count = Math.max(90, Math.floor((canvas.width * canvas.height) / 12000));
+    const area = canvas.width * canvas.height;
+    const count = Math.min(2800, Math.max(600, Math.floor(area / 800)));
     for (let i = 0; i < count; i += 1) {
       particles.push({
         x: Math.random() * canvas.width,
         y: Math.random() * canvas.height,
-        vx: (Math.random() - 0.5) * 0.35,
-        vy: (Math.random() - 0.5) * 0.35,
-        size: Math.random() * 2 + 0.6,
-        color: colors[Math.floor(Math.random() * colors.length)]
+        baseX: 0,
+        baseY: 0,
+        vx: (Math.random() - 0.5) * 0.8,
+        vy: (Math.random() - 0.5) * 0.8,
+        size: Math.random() * 1.2 + 0.3,
+        density: Math.random() * 30 + 1,
+        color: Math.random() > 0.78
+          ? "rgba(143,245,255,0.42)"
+          : Math.random() > 0.52
+            ? "rgba(214,116,255,0.18)"
+            : Math.random() > 0.3
+              ? "rgba(101,175,255,0.2)"
+              : "rgba(255,179,106,0.12)"
       });
+      particles[particles.length - 1].baseX = particles[particles.length - 1].x;
+      particles[particles.length - 1].baseY = particles[particles.length - 1].y;
     }
   }
 
   function tick() {
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.fillStyle = "rgba(0, 0, 0, 0.2)";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
     for (const p of particles) {
       const dx = mouse.x - p.x;
       const dy = mouse.y - p.y;
-      const distance = Math.sqrt(dx * dx + dy * dy) || 1;
+      const distance = Math.sqrt(dx * dx + dy * dy) || 0.0001;
       if (distance < mouse.radius) {
         const force = (mouse.radius - distance) / mouse.radius;
-        p.vx -= (dx / distance) * force * 0.02;
-        p.vy -= (dy / distance) * force * 0.02;
+        const directionX = (dx / distance) * force * p.density;
+        const directionY = (dy / distance) * force * p.density;
+        p.vx += directionY * 0.05;
+        p.vy -= directionX * 0.05;
+        p.vx -= directionX * 0.1;
+        p.vy -= directionY * 0.1;
       }
+
+      p.vx *= 0.96;
+      p.vy *= 0.96;
       p.x += p.vx;
       p.y += p.vy;
-      p.vx *= 0.995;
-      p.vy *= 0.995;
-      if (p.x < -10) p.x = canvas.width + 10;
-      if (p.x > canvas.width + 10) p.x = -10;
-      if (p.y < -10) p.y = canvas.height + 10;
-      if (p.y > canvas.height + 10) p.y = -10;
+
+      p.x += (p.baseX - p.x) * 0.01;
+      p.y += (p.baseY - p.y) * 0.01;
+
+      if (p.x < 0) p.x = canvas.width;
+      if (p.x > canvas.width) p.x = 0;
+      if (p.y < 0) p.y = canvas.height;
+      if (p.y > canvas.height) p.y = 0;
+
       ctx.beginPath();
       ctx.fillStyle = p.color;
       ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
@@ -300,6 +317,16 @@ function initParticles() {
   window.addEventListener("mousemove", (event) => {
     mouse.x = event.clientX;
     mouse.y = event.clientY;
+  });
+  window.addEventListener("mouseleave", () => {
+    mouse.x = -1000;
+    mouse.y = -1000;
+  });
+  window.addEventListener("mousedown", () => {
+    mouse.radius = 400;
+    window.setTimeout(() => {
+      mouse.radius = 180;
+    }, 400);
   });
   resize();
   tick();
