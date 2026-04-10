@@ -612,6 +612,59 @@ body.has-messages .suggestion-list {
   color: var(--text-soft);
 }
 
+.trace-panel {
+  margin-top: 14px;
+  border: 1px solid rgba(143, 245, 255, 0.1);
+  border-radius: 18px;
+  background: rgba(7, 13, 18, 0.54);
+  overflow: hidden;
+}
+
+.trace-header {
+  padding: 10px 14px;
+  border-bottom: 1px solid rgba(143, 245, 255, 0.08);
+  color: rgba(143, 245, 255, 0.72);
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.trace-list {
+  display: grid;
+}
+
+.trace-row {
+  display: grid;
+  grid-template-columns: 128px minmax(0, 1fr);
+  gap: 12px;
+  padding: 10px 14px;
+  border-top: 1px solid rgba(255, 255, 255, 0.03);
+}
+
+.trace-row:first-child {
+  border-top: 0;
+}
+
+.trace-row.warn .trace-stage {
+  color: rgba(255, 179, 106, 0.88);
+}
+
+.trace-stage {
+  color: rgba(143, 245, 255, 0.88);
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.trace-text {
+  color: rgba(255, 255, 255, 0.72);
+  font-size: 13px;
+  line-height: 1.65;
+  word-break: break-word;
+}
+
 .action-btn {
   min-height: 36px;
   padding: 0 14px;

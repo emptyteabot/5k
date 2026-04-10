@@ -1,5 +1,4 @@
-const STORAGE_KEY = "bydfi-gpt-proxy:sessions";
-const CLIENT_KEY = "bydfi-gpt-proxy:client";
+﻿const CLIENT_KEY = "bydfi-gpt-proxy:client";
 
 const state = {
   messages: [],
@@ -40,6 +39,7 @@ function renderRichText(text) {
   const lines = String(text || "").replace(/\r/g, "").split("\n");
   const html = [];
   let inList = false;
+
   for (const rawLine of lines) {
     const line = rawLine.trimEnd();
     if (!line.trim()) {
@@ -49,6 +49,7 @@ function renderRichText(text) {
       }
       continue;
     }
+
     if (/^[-*•]\s+/.test(line)) {
       if (!inList) {
         html.push("<ul>");
@@ -57,12 +58,14 @@ function renderRichText(text) {
       html.push(`<li>${escapeHtml(line.replace(/^[-*•]\s+/, ""))}</li>`);
       continue;
     }
+
     if (inList) {
       html.push("</ul>");
       inList = false;
     }
     html.push(`<p>${escapeHtml(line)}</p>`);
   }
+
   if (inList) html.push("</ul>");
   return html.join("") || "<p></p>";
 }
@@ -95,6 +98,31 @@ function renderCitations(citations) {
   `;
 }
 
+function renderTrace(trace) {
+  if (!Array.isArray(trace) || !trace.length) return "";
+  const rows = trace
+    .slice(-8)
+    .map((item) => {
+      const stage = escapeHtml(item.stage || "trace");
+      const message = escapeHtml(item.message || "");
+      const level = /warn|error/i.test(String(item.level || "")) ? "warn" : "info";
+      return `
+        <div class="trace-row ${level}">
+          <div class="trace-stage">${stage}</div>
+          <div class="trace-text">${message}</div>
+        </div>
+      `;
+    })
+    .join("");
+
+  return `
+    <section class="trace-panel">
+      <div class="trace-header">执行轨迹</div>
+      <div class="trace-list">${rows}</div>
+    </section>
+  `;
+}
+
 function renderMessage(message) {
   const row = document.createElement("article");
   row.className = `message-row ${message.role}`;
@@ -110,7 +138,8 @@ function renderMessage(message) {
   card.className = `message-card ${message.role === "user" ? "user" : "assistant"}`;
   card.innerHTML = `
     <div class="message-body">${renderRichText(message.content)}</div>
-    ${message.streaming ? '<div class="message-meta"><div class="streaming-indicator"><span>思考中</span><span class="streaming-dots"><span></span><span></span><span></span></span></div></div>' : ""}
+    ${message.streaming ? '<div class="message-meta"><div class="streaming-indicator"><span>想</span><span class="streaming-dots"><span></span><span></span><span></span></span></div></div>' : ""}
+    ${renderTrace(message.trace)}
     ${renderCitations(message.citations)}
   `;
   row.appendChild(card);
@@ -132,7 +161,7 @@ function setBusy(busy) {
   state.busy = busy;
   const send = $("btnSend");
   send.disabled = busy;
-  send.textContent = busy ? "发送中..." : "发送";
+  send.textContent = busy ? "发送中" : "发送";
 }
 
 function autoResize() {
@@ -142,7 +171,7 @@ function autoResize() {
 }
 
 function addMessage(role, content, extra = {}) {
-  const message = { role, content, citations: [], streaming: false, ...extra };
+  const message = { role, content, citations: [], trace: [], streaming: false, ...extra };
   state.messages.push(message);
   render();
   return message;
@@ -200,8 +229,9 @@ async function sendPrompt() {
         boundary = buffer.indexOf("\n\n");
       }
     }
+
     if (buffer.trim()) consumeEventBlock(buffer, assistant);
-  } catch (error) {
+  } catch {
     assistant.content = "这次没有连上服务。请再发一次，我会继续接着答。";
     assistant.streaming = false;
   } finally {
@@ -219,6 +249,7 @@ function consumeEventBlock(block, assistant) {
     if (line.startsWith("data:")) dataText += `${line.slice(5).trim()}\n`;
   }
   if (!dataText.trim()) return;
+
   let payload;
   try {
     payload = JSON.parse(dataText.trim());
@@ -228,6 +259,14 @@ function consumeEventBlock(block, assistant) {
 
   if (eventName === "delta") {
     assistant.content += payload.delta || "";
+    render();
+    return;
+  }
+
+  if (eventName === "trace") {
+    if (!Array.isArray(assistant.trace)) assistant.trace = [];
+    assistant.trace.push(payload || {});
+    assistant.trace = assistant.trace.slice(-12);
     render();
     return;
   }
@@ -243,73 +282,113 @@ function consumeEventBlock(block, assistant) {
 function initParticles() {
   const canvas = $("particle-canvas");
   const ctx = canvas.getContext("2d");
-  const particles = [];
-  const mouse = { x: -1000, y: -1000, radius: 180 };
+  let width = 0;
+  let height = 0;
+  let particles = [];
+  const connectionDistance = 100;
+  const mouse = { x: -1000, y: -1000 };
+  const forceRadius = 200;
+  const repulsionStrength = 15;
+
+  class Particle {
+    constructor() {
+      this.init();
+    }
+
+    init() {
+      this.x = Math.random() * width;
+      this.y = Math.random() * height;
+      this.vx = (Math.random() - 0.5) * 1.2;
+      this.vy = (Math.random() - 0.5) * 1.2;
+      this.size = Math.random() * 1.5 + 0.5;
+      this.baseColor = Math.random() > 0.5 ? "#22D3EE" : "#06B6D4";
+      this.opacity = Math.random() * 0.4 + 0.1;
+      this.glow = 0;
+    }
+
+    update() {
+      this.x += this.vx;
+      this.y += this.vy;
+
+      if (this.x < 0) this.x = width;
+      if (this.x > width) this.x = 0;
+      if (this.y < 0) this.y = height;
+      if (this.y > height) this.y = 0;
+
+      const dx = mouse.x - this.x;
+      const dy = mouse.y - this.y;
+      const distance = Math.sqrt(dx * dx + dy * dy);
+
+      if (distance < forceRadius) {
+        const force = (forceRadius - distance) / forceRadius;
+        const angle = Math.atan2(dy, dx);
+        this.x -= Math.cos(angle) * force * repulsionStrength;
+        this.y -= Math.sin(angle) * force * repulsionStrength;
+        this.glow = force * 0.8;
+      } else {
+        this.glow *= 0.9;
+      }
+    }
+
+    draw() {
+      const currentOpacity = Math.min(1, this.opacity + this.glow);
+      ctx.beginPath();
+      ctx.fillStyle = this.baseColor;
+      ctx.globalAlpha = currentOpacity;
+      ctx.arc(this.x, this.y, this.size + this.glow * 2, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.globalAlpha = 1;
+    }
+  }
 
   function resize() {
-    canvas.width = window.innerWidth;
-    canvas.height = window.innerHeight;
-    particles.length = 0;
-    const area = canvas.width * canvas.height;
-    const count = Math.min(2800, Math.max(600, Math.floor(area / 800)));
-    for (let i = 0; i < count; i += 1) {
-      particles.push({
-        x: Math.random() * canvas.width,
-        y: Math.random() * canvas.height,
-        baseX: 0,
-        baseY: 0,
-        vx: (Math.random() - 0.5) * 0.8,
-        vy: (Math.random() - 0.5) * 0.8,
-        size: Math.random() * 1.2 + 0.3,
-        density: Math.random() * 30 + 1,
-        color: Math.random() > 0.78
-          ? "rgba(143,245,255,0.42)"
-          : Math.random() > 0.52
-            ? "rgba(214,116,255,0.18)"
-            : Math.random() > 0.3
-              ? "rgba(101,175,255,0.2)"
-              : "rgba(255,179,106,0.12)"
-      });
-      particles[particles.length - 1].baseX = particles[particles.length - 1].x;
-      particles[particles.length - 1].baseY = particles[particles.length - 1].y;
+    width = window.innerWidth;
+    height = window.innerHeight;
+    canvas.width = width;
+    canvas.height = height;
+
+    const particleCount = Math.max(500, Math.min(1200, Math.floor((width * height) / 1800)));
+    particles = [];
+    for (let i = 0; i < particleCount; i += 1) {
+      particles.push(new Particle());
+    }
+  }
+
+  function drawLines() {
+    const stride = 2;
+    for (let i = 0; i < particles.length; i += stride) {
+      for (let j = i + 1; j < i + 10 && j < particles.length; j += 1) {
+        const p1 = particles[i];
+        const p2 = particles[j];
+        const dx = p1.x - p2.x;
+        const dy = p1.y - p2.y;
+        const distSq = dx * dx + dy * dy;
+
+        if (distSq < connectionDistance * connectionDistance) {
+          const dist = Math.sqrt(distSq);
+          const opacity = (1 - dist / connectionDistance) * 0.15;
+          const combinedGlow = (p1.glow + p2.glow) * 0.5;
+          ctx.beginPath();
+          ctx.strokeStyle = `rgba(34, 211, 238, ${opacity + combinedGlow * 0.4})`;
+          ctx.lineWidth = 0.5;
+          ctx.moveTo(p1.x, p1.y);
+          ctx.lineTo(p2.x, p2.y);
+          ctx.stroke();
+        }
+      }
     }
   }
 
   function tick() {
-    ctx.fillStyle = "rgba(0, 0, 0, 0.2)";
-    ctx.fillRect(0, 0, canvas.width, canvas.height);
-    for (const p of particles) {
-      const dx = mouse.x - p.x;
-      const dy = mouse.y - p.y;
-      const distance = Math.sqrt(dx * dx + dy * dy) || 0.0001;
-      if (distance < mouse.radius) {
-        const force = (mouse.radius - distance) / mouse.radius;
-        const directionX = (dx / distance) * force * p.density;
-        const directionY = (dy / distance) * force * p.density;
-        p.vx += directionY * 0.05;
-        p.vy -= directionX * 0.05;
-        p.vx -= directionX * 0.1;
-        p.vy -= directionY * 0.1;
-      }
+    ctx.fillStyle = "rgba(13, 14, 19, 0.2)";
+    ctx.fillRect(0, 0, width, height);
 
-      p.vx *= 0.96;
-      p.vy *= 0.96;
-      p.x += p.vx;
-      p.y += p.vy;
+    particles.forEach((particle) => {
+      particle.update();
+      particle.draw();
+    });
 
-      p.x += (p.baseX - p.x) * 0.01;
-      p.y += (p.baseY - p.y) * 0.01;
-
-      if (p.x < 0) p.x = canvas.width;
-      if (p.x > canvas.width) p.x = 0;
-      if (p.y < 0) p.y = canvas.height;
-      if (p.y > canvas.height) p.y = 0;
-
-      ctx.beginPath();
-      ctx.fillStyle = p.color;
-      ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
-      ctx.fill();
-    }
+    drawLines();
     requestAnimationFrame(tick);
   }
 
@@ -322,12 +401,7 @@ function initParticles() {
     mouse.x = -1000;
     mouse.y = -1000;
   });
-  window.addEventListener("mousedown", () => {
-    mouse.radius = 400;
-    window.setTimeout(() => {
-      mouse.radius = 180;
-    }, 400);
-  });
+
   resize();
   tick();
 }

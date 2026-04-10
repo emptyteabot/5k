@@ -1,31 +1,36 @@
 ﻿const fs = require("fs");
 const path = require("path");
-const { execFile } = require("child_process");
+const { spawn } = require("child_process");
+const { config } = require("./_config");
 
-const HERMES_HOME = process.env.BYDFI_HERMES_HOME || "C:\\temp\\hermes-home";
-const HERMES_BIN =
-  process.env.BYDFI_HERMES_BIN || "C:\\temp\\hermes-venv\\Scripts\\hermes.exe";
-const SESSION_MAP_PATH = path.join(HERMES_HOME, "web-session-map.json");
+function isPathLike(value) {
+  return /[\\/]/.test(String(value || "")) || /^[A-Za-z]:/.test(String(value || ""));
+}
+
+function hasHermesRuntime() {
+  if (!config.hermesBin) return false;
+  if (!isPathLike(config.hermesBin)) return true;
+  return fs.existsSync(config.hermesBin);
+}
 
 function readSessionMap() {
   try {
-    return JSON.parse(fs.readFileSync(SESSION_MAP_PATH, "utf8"));
+    return JSON.parse(fs.readFileSync(config.sessionMapPath, "utf8"));
   } catch {
     return {};
   }
 }
 
 function writeSessionMap(map) {
-  fs.mkdirSync(path.dirname(SESSION_MAP_PATH), { recursive: true });
-  fs.writeFileSync(SESSION_MAP_PATH, JSON.stringify(map, null, 2), "utf8");
+  fs.mkdirSync(path.dirname(config.sessionMapPath), { recursive: true });
+  fs.writeFileSync(config.sessionMapPath, JSON.stringify(map, null, 2), "utf8");
 }
 
 function sanitizeAnswer(text) {
-  const value = String(text || "")
+  return String(text || "")
     .replace(/\r/g, "")
-    .replace(/\nsession_id:\s*[^\n]+$/i, "")
+    .replace(/\n+\s*session_id:\s*[^\n]+$/i, "")
     .trim();
-  return value;
 }
 
 function parseHermesOutput(stdout) {
@@ -38,53 +43,127 @@ function parseHermesOutput(stdout) {
   };
 }
 
-function execHermes(args, options = {}) {
-  return new Promise((resolve, reject) => {
-    execFile(
-      HERMES_BIN,
-      args,
-      {
-        windowsHide: true,
-        timeout: options.timeoutMs || 240000,
-        maxBuffer: 1024 * 1024 * 8,
-        cwd: options.cwd || path.dirname(path.dirname(__filename)),
-        env: {
-          ...process.env,
-          HERMES_HOME,
-          PYTHONUTF8: "1",
-          PYTHONIOENCODING: "utf-8"
-        }
-      },
-      (error, stdout, stderr) => {
-        if (error) {
-          error.stdout = stdout;
-          error.stderr = stderr;
-          reject(error);
-          return;
-        }
-        resolve({ stdout, stderr });
-      }
-    );
+function emitTrace(onEvent, stage, message, extra = {}) {
+  if (typeof onEvent !== "function") return;
+  onEvent({
+    type: "trace",
+    stage,
+    message,
+    level: extra.level || "info",
+    ts: new Date().toISOString(),
+    ...extra
   });
 }
 
-async function callHermes(message, sessionId = "") {
-  const args = ["chat", "-q", message, "-Q"];
-  if (sessionId) {
-    args.push("--resume", sessionId);
-  }
-  return execHermes(args);
+function summarizeChunk(chunk, fallback) {
+  const text = sanitizeAnswer(chunk)
+    .replace(/\s*session_id:\s*\S+\s*$/i, "")
+    .replace(/\s+/g, " ")
+    .trim();
+  if (!text) return fallback;
+  return text.length > 160 ? `${text.slice(0, 157)}...` : text;
 }
 
-async function buildHermesAnswer(message, clientId = "public-web") {
-  if (!fs.existsSync(HERMES_BIN)) {
+function waitForChild(child, { onEvent, signal } = {}) {
+  return new Promise((resolve, reject) => {
+    let stdout = "";
+    let stderr = "";
+    let finished = false;
+
+    const cleanupAbort = () => {
+      if (signal) signal.removeEventListener("abort", onAbort);
+    };
+
+    const finish = (fn, value) => {
+      if (finished) return;
+      finished = true;
+      cleanupAbort();
+      fn(value);
+    };
+
+    const onAbort = () => {
+      emitTrace(onEvent, "abort", "前端连接已关闭，已终止 Hermes 子进程。", { level: "warn" });
+      child.kill();
+    };
+
+    if (signal) signal.addEventListener("abort", onAbort, { once: true });
+
+    child.stdout?.setEncoding("utf8");
+    child.stderr?.setEncoding("utf8");
+
+    child.stdout?.on("data", (chunk) => {
+      stdout += chunk;
+      if (!String(chunk || "").trim()) return;
+      emitTrace(onEvent, "stdout", summarizeChunk(chunk, "Hermes 有新输出。"), {
+        source: "stdout"
+      });
+    });
+
+    child.stderr?.on("data", (chunk) => {
+      stderr += chunk;
+      if (!String(chunk || "").trim()) return;
+      emitTrace(onEvent, "stderr", summarizeChunk(chunk, "Hermes 有新错误输出。"), {
+        source: "stderr",
+        level: "warn"
+      });
+    });
+
+    child.on("error", (error) => finish(reject, error));
+
+    child.on("close", (code, closeSignal) => {
+      if (code === 0) {
+        finish(resolve, { stdout, stderr, code, signal: closeSignal || "" });
+        return;
+      }
+
+      const error = new Error(`hermes_exit_${code ?? "unknown"}`);
+      error.code = code;
+      error.signal = closeSignal || "";
+      error.stdout = stdout;
+      error.stderr = stderr;
+      finish(reject, error);
+    });
+  });
+}
+
+function spawnHermes(args, { onEvent, signal, cwd } = {}) {
+  emitTrace(onEvent, "spawn", "正在启动 Hermes 进程。", {
+    cwd: cwd || config.projectRoot,
+    command: `${config.hermesBin} chat -q <message> -Q --source tool`
+  });
+
+  const child = spawn(config.hermesBin, args, {
+    cwd: cwd || config.projectRoot,
+    windowsHide: true,
+    env: {
+      ...process.env,
+      HERMES_HOME: config.hermesHome,
+      PYTHONUTF8: "1",
+      PYTHONIOENCODING: "utf-8"
+    }
+  });
+
+  return waitForChild(child, { onEvent, signal });
+}
+
+async function runHermesQuery(message, sessionId = "", options = {}) {
+  const args = ["chat", "-q", message, "-Q", "--source", "tool"];
+  if (sessionId) args.push("--resume", sessionId);
+  return spawnHermes(args, options);
+}
+
+async function streamHermesAnswer(message, clientId = "public-web", options = {}) {
+  if (!hasHermesRuntime()) {
+    emitTrace(options.onEvent, "missing-runtime", "本地 Hermes 运行时未找到，已跳过桥接。", {
+      level: "warn"
+    });
     return null;
   }
 
   const cleanMessage = String(message || "").trim();
   if (!cleanMessage) {
     return {
-      title: "BYDFI AgentOS",
+      title: "BYDFI GPT",
       answer: "直接把问题发出来。",
       citations: [],
       engine: "hermes-empty"
@@ -93,20 +172,30 @@ async function buildHermesAnswer(message, clientId = "public-web") {
 
   const sessions = readSessionMap();
   const previousSessionId = sessions[clientId] || "";
+  emitTrace(
+    options.onEvent,
+    previousSessionId ? "resume" : "session",
+    previousSessionId ? `准备恢复会话 ${previousSessionId}` : "准备创建新的 Hermes 会话。"
+  );
 
   let result;
   try {
-    result = await callHermes(cleanMessage, previousSessionId);
+    result = await runHermesQuery(cleanMessage, previousSessionId, options);
   } catch (error) {
-    if (!previousSessionId) {
-      throw error;
-    }
-    result = await callHermes(cleanMessage, "");
+    if (!previousSessionId) throw error;
+    emitTrace(options.onEvent, "resume-failed", "恢复旧会话失败，回退到新会话。", {
+      level: "warn",
+      stderr: String(error.stderr || "").trim()
+    });
+    result = await runHermesQuery(cleanMessage, "", options);
   }
 
   const parsed = parseHermesOutput(result.stdout || "");
   if (!parsed.answer) {
-    throw new Error(`hermes_empty_response:${result.stderr || ""}`.trim());
+    const error = new Error(`hermes_empty_response:${result.stderr || ""}`.trim());
+    error.stdout = result.stdout || "";
+    error.stderr = result.stderr || "";
+    throw error;
   }
 
   if (parsed.sessionId) {
@@ -114,8 +203,12 @@ async function buildHermesAnswer(message, clientId = "public-web") {
     writeSessionMap(sessions);
   }
 
+  emitTrace(options.onEvent, "complete", "Hermes 响应完成，准备回传前端。", {
+    sessionId: parsed.sessionId || previousSessionId || ""
+  });
+
   return {
-    title: "BYDFI AgentOS",
+    title: "BYDFI GPT",
     answer: parsed.answer,
     citations: [],
     engine: "hermes",
@@ -123,7 +216,13 @@ async function buildHermesAnswer(message, clientId = "public-web") {
   };
 }
 
+async function buildHermesAnswer(message, clientId = "public-web") {
+  return streamHermesAnswer(message, clientId);
+}
+
 module.exports = {
   buildHermesAnswer,
-  parseHermesOutput
+  hasHermesRuntime,
+  parseHermesOutput,
+  streamHermesAnswer
 };

@@ -1,14 +1,14 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="color-scheme" content="dark" />
-  <title>BYDFI AgentOS</title>
+  <title>BYDFI GPT</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;700&family=Inter:wght@100;200;300;400;700&family=Noto+Sans+SC:wght@100;300;400;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="/styles.css?v=20260410-1" />
+  <link rel="stylesheet" href="/styles.css?v=20260410-4" />
 </head>
 <body>
   <div class="fluid-canvas" aria-hidden="true"></div>
@@ -26,11 +26,10 @@
       <section id="emptyState" class="empty-state">
         <div class="hero-copy">
           <h1>今天要处理什么？</h1>
-          <p class="hero-subtitle">贴一段群聊、需求、工单或数据，我直接给你结论、责任人和下一步。</p>
         </div>
-        <div class="suggestion-list" aria-label="演示入口">
-          <button class="suggestion-chip" type="button" data-prompt="韩国召回活动一直卡住，帮我判断问题、找出卡点，并给出最短推进路径。">活动为什么卡住</button>
-          <button class="suggestion-chip" type="button" data-prompt="下面是一段群聊，请帮我整理问题、责任人、优先级和行动清单：韩国活动还没上线，产品排期没锁，技术 ETA 未确认，法务词条还没收口，运营明天要给结果。">整理群聊与行动项</button>
+        <div class="suggestion-list" aria-label="快捷入口">
+          <button class="suggestion-chip" type="button" data-prompt="韩国活动一直卡住，帮我判断问题、找出卡点，并给出最短推进路径。">活动为什么卡住了</button>
+          <button class="suggestion-chip" type="button" data-prompt="下面是一段群聊，请帮我整理问题、责任人、优先级和行动清单：韩国活动还没上线，产品排期没锁，技术 ETA 未确认，法务条款还没收口，运营明天要结果。">整理群聊与行动项</button>
           <button class="suggestion-chip" type="button" data-prompt="帮我写一封中文邮件催进度，语气直接一点，但不要冒犯。">起草推进邮件</button>
         </div>
       </section>
@@ -41,7 +40,7 @@
         <section class="composer-shell hyper-glass animate-organic">
           <div class="input-stage">
             <label class="sr-only" for="promptInput">输入问题</label>
-            <textarea id="promptInput" class="prompt-input" rows="1" placeholder="直接说问题、项目、材料或你要的结果"></textarea>
+            <textarea id="promptInput" class="prompt-input" rows="1" placeholder="直接说问题、项目、材料，或者把群聊贴进来"></textarea>
             <button id="btnSend" class="send-btn" type="button">发送</button>
           </div>
         </section>
@@ -49,6 +48,6 @@
     </main>
   </div>
 
-  <script type="module" src="/app.js?v=20260410-2"></script>
+  <script type="module" src="/app.js?v=20260410-4"></script>
 </body>
 </html>

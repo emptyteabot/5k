@@ -1,50 +1,88 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="color-scheme" content="dark" />
-  <title>BYDFI GPT</title>
+  <title>BYDFI Sentinel</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;700&family=Inter:wght@100;200;300;400;700&family=Noto+Sans+SC:wght@100;300;400;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="./agent-styles.css?v=20260407-5" />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./agent-styles-live.css?v=20260410-1" />
 </head>
 <body>
-  <div class="fluid-canvas" aria-hidden="true"></div>
   <canvas id="particle-canvas" aria-hidden="true"></canvas>
-  <div class="grain-overlay" aria-hidden="true"></div>
+  <div class="noise" aria-hidden="true"></div>
 
-  <div class="page-shell">
-    <nav class="topbar">
-      <div class="topbar-actions">
-        <button id="btnNewChat" class="nav-btn" type="button">�¶Ի�</button>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-kicker">BYDFI AgentOS</div>
+        <div class="brand-title">BYDFI Sentinel</div>
       </div>
-    </nav>
+      <div class="engine-status">
+        <span class="dot"></span>
+        <span>AI ENGINE: ACTIVE</span>
+      </div>
+      <button id="btnReset" class="ghost-btn" type="button">新会话</button>
+    </header>
 
-    <main class="main-shell">
-      <section id="emptyState" class="empty-state">
-        <div class="hero-copy">
-          <h1>����������ʲô��</h1>
+    <main class="board">
+      <section class="panel panel-intent">
+        <div class="panel-head">
+          <h2>Intent Console</h2>
+          <p>输入人话任务，Sentinel 自动拆解并执行。</p>
+        </div>
+        <div class="chip-list" id="quickActions"></div>
+        <div class="hint-card">
+          <div class="hint-title">演示路径</div>
+          <ol>
+            <li>输入自然语言任务</li>
+            <li>右侧查看 Thought Trace</li>
+            <li>中间看结果流式生成</li>
+            <li>生成 PDF 后可弹窗预览</li>
+          </ol>
         </div>
       </section>
 
-      <section id="chatFeed" class="chat-feed" aria-live="polite"></section>
-
-      <section class="composer-wrap">
-        <section class="composer-shell hyper-glass animate-organic">
-          <div class="input-stage">
-            <label class="sr-only" for="promptInput">��������</label>
-            <textarea id="promptInput" class="prompt-input" rows="1" placeholder="�� BYDFI GPT ������Ϣ"></textarea>
-            <button id="btnSend" class="send-btn" type="button">����</button>
+      <section class="panel panel-result">
+        <div class="panel-head row">
+          <div>
+            <h2 id="resultTitle">Result Stream</h2>
+            <p>最终交付结果会在这里落地。</p>
           </div>
+          <button id="btnPreviewPdf" class="ghost-btn" type="button" disabled>预览 PDF</button>
+        </div>
+        <article id="resultBox" class="result-box">等待任务开始...</article>
+        <section id="citationBox" class="citation-box"></section>
+      </section>
 
-          <div id="suggestionList" class="suggestion-list"></div>
-        </section>
+      <section class="panel panel-trace">
+        <div class="panel-head">
+          <h2>Thought Trace</h2>
+          <p>SSE 实时日志流</p>
+        </div>
+        <div id="traceBox" class="trace-box">
+          <div class="trace-empty">等待 Agent 日志...</div>
+        </div>
       </section>
     </main>
+
+    <footer class="composer">
+      <label class="sr-only" for="promptInput">输入任务</label>
+      <textarea id="promptInput" rows="1" placeholder="例如：帮我审计上周交易并生成 CEO 级别盈亏分析。"></textarea>
+      <button id="btnSend" class="run-btn" type="button">Activate BYDFI Sentinel</button>
+    </footer>
   </div>
 
-  <script type="module" src="./agent-app.js?v=20260407-5"></script>
+  <dialog id="pdfModal" class="pdf-modal">
+    <div class="pdf-modal-head">
+      <div>PDF Preview</div>
+      <button id="btnClosePdf" class="ghost-btn" type="button">关闭</button>
+    </div>
+    <iframe id="pdfFrame" title="PDF Preview"></iframe>
+  </dialog>
+
+  <script type="module" src="./agent-app-live.js?v=20260410-1"></script>
 </body>
 </html>
