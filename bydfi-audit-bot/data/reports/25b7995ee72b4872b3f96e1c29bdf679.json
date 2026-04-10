@@ -1,0 +1,1028 @@
+{
+  "title": "日周报分析助手：群汇总分析（8人）",
+  "chatId": "external_web_7849c39c5be3c22c",
+  "startAt": "2025-10-24T00:44:54.414196+00:00",
+  "endAt": "2026-04-08T16:44:54.414196+00:00",
+  "peopleCount": 8,
+  "reportCount": 22,
+  "documentCount": 0,
+  "sourceDistribution": [
+    {
+      "key": "external_document_message",
+      "label": "文档全文",
+      "value": 8,
+      "color": "#00f5c4"
+    },
+    {
+      "key": "external_text_message",
+      "label": "文字汇报",
+      "value": 14,
+      "color": "#7cff5f"
+    }
+  ],
+  "riskStats": {
+    "delivered": 1,
+    "testing": 0,
+    "review": 0,
+    "developing": 0,
+    "blocked": 0
+  },
+  "dailyActivity": [
+    {
+      "day": "04-08",
+      "value": 22
+    }
+  ],
+  "events": [
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Owen",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Owen",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7623360449582026461",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Liam",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Liam",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7595484241555672795",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Liam",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Liam",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7601080353234996960",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Ascen",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Ascen",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7594753411153661660",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Frank",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Frank",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7589941856872484573",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Frank",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Frank",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7581452374980431583",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Owen",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Owen",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7582069765196353245",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Frank",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Frank",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7585388723798298338",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Frank",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Frank",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7581361966573162204",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Ascen",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Ascen",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7581376208269479643",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Frank",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Frank",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7578772024487595744",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Ian",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Ian",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7573893566833938145",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Frank",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Frank",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7576119504724365023",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Anthony",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Anthony",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7572127218743135965",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Ian",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Ian",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7572397509218176737",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Frank",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Frank",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7569879453044592350",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Rsii",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Rsii",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7568317387800334045",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Han",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Han",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7568688089204281052",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Anthony",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Anthony",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7566151230343352033",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Anthony",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Anthony",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7566475668268158684",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Anthony",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Anthony",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7561351633167191768",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporter": "Ian",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Ian",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7554986098108141274",
+      "status": "parsed",
+      "error": ""
+    }
+  ],
+  "peopleCards": [
+    {
+      "reporterId": "baa31bcd2580",
+      "reporterName": "Owen",
+      "reportCount": 2,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T16:44:54.414196+00:00",
+      "latestTitle": "Owen",
+      "latestAnchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7582069765196353245",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 1,
+          "color": "#00f5c4"
+        },
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Owen",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7623360449582026461"
+        },
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Owen",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7582069765196353245"
+        }
+      ]
+    },
+    {
+      "reporterId": "2c7b6821719d",
+      "reporterName": "Liam",
+      "reportCount": 2,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T16:44:54.414196+00:00",
+      "latestTitle": "Liam",
+      "latestAnchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7601080353234996960",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 2,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Liam",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7595484241555672795"
+        },
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Liam",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7601080353234996960"
+        }
+      ]
+    },
+    {
+      "reporterId": "4ac4c41fe44c",
+      "reporterName": "Ascen",
+      "reportCount": 2,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T16:44:54.414196+00:00",
+      "latestTitle": "Ascen",
+      "latestAnchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7581376208269479643",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 2,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Ascen",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7594753411153661660"
+        },
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Ascen",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7581376208269479643"
+        }
+      ]
+    },
+    {
+      "reporterId": "db605e8f7191",
+      "reporterName": "Frank",
+      "reportCount": 7,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T16:44:54.414196+00:00",
+      "latestTitle": "Frank",
+      "latestAnchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7569879453044592350",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 6,
+          "color": "#00f5c4"
+        },
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Frank",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7589941856872484573"
+        },
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Frank",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7581452374980431583"
+        },
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Frank",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7585388723798298338"
+        },
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Frank",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7581361966573162204"
+        },
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Frank",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7578772024487595744"
+        },
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Frank",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7576119504724365023"
+        },
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Frank",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7569879453044592350"
+        }
+      ]
+    },
+    {
+      "reporterId": "5dfaaebff3e8",
+      "reporterName": "Ian",
+      "reportCount": 3,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T16:44:54.414196+00:00",
+      "latestTitle": "Ian",
+      "latestAnchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7554986098108141274",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 3,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Ian",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7573893566833938145"
+        },
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Ian",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7572397509218176737"
+        },
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Ian",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7554986098108141274"
+        }
+      ]
+    },
+    {
+      "reporterId": "3090ad7f5b83",
+      "reporterName": "Anthony",
+      "reportCount": 4,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T16:44:54.414196+00:00",
+      "latestTitle": "Anthony",
+      "latestAnchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7561351633167191768",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 3,
+          "color": "#7cff5f"
+        },
+        {
+          "label": "文档全文",
+          "value": 1,
+          "color": "#00f5c4"
+        }
+      ],
+      "statusMix": {
+        "delivered": 1,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Anthony",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7572127218743135965"
+        },
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Anthony",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7566151230343352033"
+        },
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Anthony",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7566475668268158684"
+        },
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Anthony",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7561351633167191768"
+        }
+      ]
+    },
+    {
+      "reporterId": "cc77000ba2b5",
+      "reporterName": "Rsii",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T16:44:54.414196+00:00",
+      "latestTitle": "Rsii",
+      "latestAnchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7568317387800334045",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Rsii",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7568317387800334045"
+        }
+      ]
+    },
+    {
+      "reporterId": "861af54f72de",
+      "reporterName": "Han",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T16:44:54.414196+00:00",
+      "latestTitle": "Han",
+      "latestAnchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7568688089204281052",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T16:44:54.414196+00:00",
+          "title": "Han",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7568688089204281052"
+        }
+      ]
+    }
+  ],
+  "evidenceIndex": {
+    "msg:webmsg_external_web_7849c39c5be3c22c_7623360449582026461": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7623360449582026461",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7623360449582026461",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Owen",
+      "senderId": "baa31bcd2580",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Owen",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Owen 3月31日 18:12 【后端】token和pair的税率 @Owen 需求文档：需求文档—>Koen 你可阅读 https://psgu4di0f9uu.sg.larksuite.com/docx/EQqOdQnSqoUwGvxOtOtlVL4Rgle MoonX Koen 需求文档—>Koen 外部 添加快捷方式 最近修改: 4月6日 22:58 分享 3.3 K线数据保留时间 3.4 K线成交金额精度 4、流动性池子 竞..."
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7595484241555672795": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7595484241555672795",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7595484241555672795",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Liam",
+      "senderId": "2c7b6821719d",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Liam",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Liam 1月15日 15:18 【后端】跟单接入Meteora DAMM V2池子 需求：「1月OKr」跟单接入Meteora Damm V2池子 - Meegle 产品： @Saber 开发：@Liam 测试：@Jick https://project.larksuite.com/ps4xc5/story/detail/9524029?parentUrl=%2Fps4xc5%2Fstory%2Fhomepage&openScene=..."
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7601080353234996960": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7601080353234996960",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7601080353234996960",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Liam",
+      "senderId": "2c7b6821719d",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Liam",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Liam 1月30日 17:13 【后端】meteora dlmm新增swap2 开发：@Liam 测试：@Jick https://project.larksuite.com/ps4xc5/story/detail/10178438?parentUrl=%2Fps4xc5%2Fstory%2Fhomepage&openScene=1&tabKey=detail#detail"
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7594753411153661660": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7594753411153661660",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7594753411153661660",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Ascen",
+      "senderId": "4ac4c41fe44c",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Ascen",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Ascen 1月13日 16:02 【后端】Meteora本地打包 需求：https://project.larksuite.com/ps4xc5/story/detail/9638178 产品： @Saber 开发：@Ascen @Owen 测试：@Jick"
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7589941856872484573": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7589941856872484573",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7589941856872484573",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Frank",
+      "senderId": "db605e8f7191",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Frank",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Frank 2025年12月31日 16:50 【后端】跟单全局配置 产品：@Saber 测试：@Jick 客户端：@Ascen @Nilu 后端：@Frank @Jacky @Owen 产品文档：MoonX需求文档 - saber 2.0 （已编辑） 你可阅读 展开 https://psgu4di0f9uu.sg.larksuite.com/wiki/JIqxwwun8iMQbMkFeq8lrtPVgrb Lark云文档 S Sabe..."
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7581452374980431583": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7581452374980431583",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7581452374980431583",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Frank",
+      "senderId": "db605e8f7191",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Frank",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Frank 2025年12月8日 19:47 【后端】Bsc交易错误码相关需求 产品：@Saber 后端：@Frank 客户端：@Nilu @Ascen 测试：@Jick 错误码链接： 错误码整理 需求链接： MoonX需求文档 - saber 2.0 错误码规范技术方案文档：https://wiki.codetech.pro/pages/viewpage.action?pageId=16585530 https://psgu4di0f..."
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7582069765196353245": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7582069765196353245",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7582069765196353245",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Owen",
+      "senderId": "baa31bcd2580",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Owen",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Owen 2025年12月10日 11:43 【后端】回收Solana链账户租金 @Owen 产品：@Saber 后端：@Owen 客户端： @Ascen @Relly 测试：@Charlie 需求： moonx需求--saber moonx需求--saber 打开 Figma https://www.figma.com/design/rjw3UDnsfwkVZ19IozD3IV/moonx%E9%9C%80%E6%B1%82--sab..."
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7585388723798298338": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7585388723798298338",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7585388723798298338",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Frank",
+      "senderId": "db605e8f7191",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Frank",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Frank 2025年12月19日 10:22 【后端】跟单极速卖出 产品：@Saber 测试：@Jick 客户端：@Ascen @Nilu 后端：@Liam @Frank 产品文档：MoonX需求文档 - saber 2.0 技术方案：https://wiki.codetech.pro/pages/viewpage.action?pageId=16586132 你可阅读 展开 https://psgu4di0f9uu.sg.larks..."
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7581361966573162204": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7581361966573162204",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7581361966573162204",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Frank",
+      "senderId": "db605e8f7191",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Frank",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Frank 2025年12月8日 13:56 【后端】交易ws通知耗时 后端：@Frank 客户端：@Ascen @Nilu 产品：@Saber 测试：@Jick prd：MoonX需求文档 - saber 2.0 设计稿：Dex-App-02 https://psgu4di0f9uu.sg.larksuite.com/wiki/JIqxwwun8iMQbMkFeq8lrtPVgrb#share-ZYOEdT8uno2uBBxw5NIl..."
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7581376208269479643": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7581376208269479643",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7581376208269479643",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Ascen",
+      "senderId": "4ac4c41fe44c",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Ascen",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Ascen 2025年12月8日 14:51 【后端】PumpAMM池子本地化打包 后端：@Ascen @Frank 产品：@Saber 测试：@Jick 需求：https://project.larksuite.com/ps4xc5/story/detail/9019376"
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7578772024487595744": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7578772024487595744",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7578772024487595744",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Frank",
+      "senderId": "db605e8f7191",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Frank",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Frank 2025年12月1日 14:26 【后端】「优化」App｜资产&持仓模块优化 后端：@Frank app：@Tony 产品：@Saber 测试：@Charlie prd：MoonX需求文档 - saber 2.0 技术方案：https://wiki.codetech.pro/pages/viewpage.action?pageId=16584764 MoonX需求文档 - saber 2.0 你可阅读 https://psg..."
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7573893566833938145": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7573893566833938145",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7573893566833938145",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Ian",
+      "senderId": "5dfaaebff3e8",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Ian",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Ian 2025年11月18日 10:55 【链上】pumpfun 解析调整@Luke 1.create流动性处理: 目前如果同时有买指令，会用买的数量替换首次流动性，逻辑有问题需修改。默认创建时baseBalanceUI，quoteBalanceUI都是sol 0 token 1000000000 2.通过create的cpi获取is_mayhem_mode，存到payload里isMayhemMode 3.isMayhemMode为..."
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7576119504724365023": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7576119504724365023",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7576119504724365023",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Frank",
+      "senderId": "db605e8f7191",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Frank",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Frank 2025年11月24日 10:53 【后端】 根据transfer更新持仓及资产数据 prd：MoonX需求文档 - saber 2.0 技术方案：https://wiki.codetech.pro/pages/viewpage.action?pageId=16583240 开发 @Frank @Bender 产品 @Saber 测试 @Jick 你可阅读 展开 https://psgu4di0f9uu.sg.larksui..."
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7572127218743135965": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7572127218743135965",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7572127218743135965",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Anthony",
+      "senderId": "3090ad7f5b83",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Anthony",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Anthony 2025年11月13日 16:40 「后端」PumpFun 实现本地打包 nodejs 版本 @Liam @Frank @Saber @Ascen"
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7572397509218176737": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7572397509218176737",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7572397509218176737",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Ian",
+      "senderId": "5dfaaebff3e8",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Ian",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Ian 2025年11月14日 10:09 【链上】meteora dbc ,dlmm pumpswap pumfun合约更新解析兼容 合约更新时间 11.4 meteora dbc ,dlmm 11.6 pumpswap pumfun 11.13 pumfun（已编辑）"
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7569879453044592350": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7569879453044592350",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7569879453044592350",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Frank",
+      "senderId": "db605e8f7191",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Frank",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Frank 2025年11月7日 15:18 【后端】跟单四期开发 @Ascen @Nilu @Relly @Anthony @Liam @Saber @Jick"
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7568317387800334045": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7568317387800334045",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7568317387800334045",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Rsii",
+      "senderId": "cc77000ba2b5",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Rsii",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Rsii 2025年11月3日 10:16 GJvLcMvQwznh1gAonWnqbqdSRrNCQmVzhfsZVvQdtM4b 麻烦 下架 并 拉黑 这个币，避免再次抓取到"
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7568688089204281052": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7568688089204281052",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7568688089204281052",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Han",
+      "senderId": "861af54f72de",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Han",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Han 2025年11月4日 10:15 【链上】signal bot 歡迎語、驗證流程添加多語言 需求:"
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7566151230343352033": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7566151230343352033",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7566151230343352033",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Anthony",
+      "senderId": "3090ad7f5b83",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Anthony",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Anthony 2025年10月28日 14:11 「后端」增加 Grpc 订单状态通知优化 @Anthony @Frank @Saber @Nilu @Ascen MoonX- 1.2 需求文档 你可编辑 https://psgu4di0f9uu.sg.larksuite.com/wiki/ICnKw898xid7m3kAr62lr8hMgcg Lark云文档 S Saber的云文档 外部 搜索 与我分享 MoonX- 1.2 需求文..."
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7566475668268158684": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7566475668268158684",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7566475668268158684",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Anthony",
+      "senderId": "3090ad7f5b83",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Anthony",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Anthony 2025年10月29日 11:10 「后端」线上移除 MPC 钱包功能 @Anthony @Frank @Saber @Owen @Jick @Bruce @Fenrir"
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7561351633167191768": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7561351633167191768",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7561351633167191768",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Anthony",
+      "senderId": "3090ad7f5b83",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Anthony",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Anthony 2025年10月15日 15:46 「后端」关注分组增加总人数统计 @Ascen @Saber @Bruce 接口文档：https://yapi.codetech.pro/project/171/interface/api/21423 这个总人数是后端返回，需要后端发布，@Saber 看看在哪个版本发布 @Bruce 这里需要进行测试"
+    },
+    "msg:webmsg_external_web_7849c39c5be3c22c_7554986098108141274": {
+      "anchorId": "msg:webmsg_external_web_7849c39c5be3c22c_7554986098108141274",
+      "messageId": "webmsg_external_web_7849c39c5be3c22c_7554986098108141274",
+      "chatId": "external_web_7849c39c5be3c22c",
+      "time": "2026-04-08T16:44:54.414196+00:00",
+      "reporterName": "Ian",
+      "senderId": "5dfaaebff3e8",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Ian",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Ian 2025年9月28日 12:04 【链上】【优化】solana_motion舍弃生产config.yaml可配置模式 1.直接copy config.yaml入容器， 2.producer构建多节点dockerfile（已编辑）"
+    }
+  },
+  "summaryText": "BYDFi 产研跨源对账单 (Cross-Check Report)\n\n一、高危断链项（AI双向核查确权）\n当前未发现可直接确权的高危断链项。\n二、待核对项（证据不足，不下重判）\n事件1：麻烦 下架 并 拉黑 这个币，避免再次抓取到\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_7849c39c5be3c22c_7568317387800334045\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n三、本周必须落地动作（最多3条）\n1. 请直接@产品负责人，本周内把“麻烦 下架 并 拉黑 这个币，避免再次抓取到”写入需求池与版本进度表并锁定研发排期。\n2. 补齐本周新增问题的 owner、ETA、验收口径，并同步到版本进度表。\n3. 补齐本周新增问题的 owner、ETA、验收口径，并同步到版本进度表。"
+}

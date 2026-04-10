@@ -1,0 +1,996 @@
+{
+  "title": "日周报分析助手：群汇总分析（6人）",
+  "chatId": "external_web_36b11b598d95c7ad",
+  "startAt": "2026-04-05T16:39:08.602174+00:00",
+  "endAt": "2026-04-08T16:39:08.602174+00:00",
+  "peopleCount": 6,
+  "reportCount": 23,
+  "documentCount": 0,
+  "sourceDistribution": [
+    {
+      "key": "external_text_message",
+      "label": "文字汇报",
+      "value": 23,
+      "color": "#7cff5f"
+    }
+  ],
+  "riskStats": {
+    "delivered": 1,
+    "testing": 0,
+    "review": 0,
+    "developing": 0,
+    "blocked": 0
+  },
+  "dailyActivity": [
+    {
+      "day": "04-06",
+      "value": 20
+    },
+    {
+      "day": "04-08",
+      "value": 3
+    }
+  ],
+  "events": [
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Gavin",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Gavin 撤回了一条消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7624746822916919006",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Gavin",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Gavin 撤回了一条消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7615880191247683297",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater 撤回了一条消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7612866766838009565",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Gavin",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Gavin 邀请 Monica 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7610624874834317019",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Han",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Han 邀请 Han 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7604668640872435419",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater 邀请 Ella，Martin 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7603281496085909217",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Will",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Will 邀请 Avery 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7603318805699268315",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Will",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Will 邀请 Yiwen，Lorena 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7595486685266202331",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Gavin",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Gavin 邀请 Lucky 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7595874272791285469",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Gavin",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Gavin 置顶了内容",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7596956850164256477",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Gavin",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Gavin 邀请 多维表格助手 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7598398482252074717",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater 邀请 Grace 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7598445414120525533",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater 邀请 Han 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7603221433602281184",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater 将群名称“运营能效需求”修改为“三部门效能优化需求”",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591758763569188573",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater 邀请 Winni，Kevin，Aria 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591758852895379166",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater 邀请 Chloe，Gavin 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591759457139347164",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Gavin",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Gavin 邀请 Abel 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591771527171870429",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater 邀请 Jacky 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591729867582901984",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Fred",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Fred 发起群聊，并邀请 Kater，Will 加入此群",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591727220469599969",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporter": "Fred",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Fred 将群名称“Fred, Kater, Will”修改为“运营能效需求”",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591727327277485791",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T07:36:00+00:00",
+      "reporter": "Gavin",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Gavin",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7626289085736390368",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T07:40:00+00:00",
+      "reporter": "unknown",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "https://jenkinsci.codetech.pro/view/SEO/job/SEO-Index-Monitor/",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7626290033910730462",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T07:48:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7626292130264207072",
+      "status": "parsed",
+      "error": ""
+    }
+  ],
+  "peopleCards": [
+    {
+      "reporterId": "58a8ddbdd8ff",
+      "reporterName": "Gavin",
+      "reportCount": 8,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T07:36:00+00:00",
+      "latestTitle": "Gavin",
+      "latestAnchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7626289085736390368",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 8,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 1,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Gavin 撤回了一条消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7624746822916919006"
+        },
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Gavin 撤回了一条消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7615880191247683297"
+        },
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Gavin 邀请 Monica 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7610624874834317019"
+        },
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Gavin 邀请 Lucky 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7595874272791285469"
+        },
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Gavin 置顶了内容",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7596956850164256477"
+        },
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Gavin 邀请 多维表格助手 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7598398482252074717"
+        },
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Gavin 邀请 Abel 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591771527171870429"
+        },
+        {
+          "time": "2026-04-08T07:36:00+00:00",
+          "title": "Gavin",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7626289085736390368"
+        }
+      ]
+    },
+    {
+      "reporterId": "10fa70cad6b4",
+      "reporterName": "Kater",
+      "reportCount": 9,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T07:48:00+00:00",
+      "latestTitle": "Kater",
+      "latestAnchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7626292130264207072",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 9,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Kater 撤回了一条消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7612866766838009565"
+        },
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Kater 邀请 Ella，Martin 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7603281496085909217"
+        },
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Kater 邀请 Grace 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7598445414120525533"
+        },
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Kater 邀请 Han 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7603221433602281184"
+        },
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Kater 将群名称“运营能效需求”修改为“三部门效能优化需求”",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591758763569188573"
+        },
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Kater 邀请 Winni，Kevin，Aria 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591758852895379166"
+        },
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Kater 邀请 Chloe，Gavin 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591759457139347164"
+        },
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Kater 邀请 Jacky 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591729867582901984"
+        },
+        {
+          "time": "2026-04-08T07:48:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7626292130264207072"
+        }
+      ]
+    },
+    {
+      "reporterId": "861af54f72de",
+      "reporterName": "Han",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T19:02:29.034797+00:00",
+      "latestTitle": "Han 邀请 Han 加入此群，新成员入群可查看所有历史消息",
+      "latestAnchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7604668640872435419",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Han 邀请 Han 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7604668640872435419"
+        }
+      ]
+    },
+    {
+      "reporterId": "6cef4ccc1019",
+      "reporterName": "Will",
+      "reportCount": 2,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T19:02:29.034797+00:00",
+      "latestTitle": "Will 邀请 Yiwen，Lorena 加入此群，新成员入群可查看所有历史消息",
+      "latestAnchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7595486685266202331",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 2,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Will 邀请 Avery 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7603318805699268315"
+        },
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Will 邀请 Yiwen，Lorena 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7595486685266202331"
+        }
+      ]
+    },
+    {
+      "reporterId": "401f1721a42a",
+      "reporterName": "Fred",
+      "reportCount": 2,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T19:02:29.034797+00:00",
+      "latestTitle": "Fred 将群名称“Fred, Kater, Will”修改为“运营能效需求”",
+      "latestAnchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591727327277485791",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 2,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Fred 发起群聊，并邀请 Kater，Will 加入此群",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591727220469599969"
+        },
+        {
+          "time": "2026-04-06T19:02:29.034797+00:00",
+          "title": "Fred 将群名称“Fred, Kater, Will”修改为“运营能效需求”",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591727327277485791"
+        }
+      ]
+    },
+    {
+      "reporterId": "b23a6a8439c0",
+      "reporterName": "unknown",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T07:40:00+00:00",
+      "latestTitle": "https://jenkinsci.codetech.pro/view/SEO/job/SEO-Index-Monitor/",
+      "latestAnchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7626290033910730462",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T07:40:00+00:00",
+          "title": "https://jenkinsci.codetech.pro/view/SEO/job/SEO-Index-Monitor/",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7626290033910730462"
+        }
+      ]
+    }
+  ],
+  "evidenceIndex": {
+    "msg:webmsg_external_web_36b11b598d95c7ad_7624746822916919006": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7624746822916919006",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7624746822916919006",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Gavin",
+      "senderId": "58a8ddbdd8ff",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Gavin 撤回了一条消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Gavin 撤回了一条消息"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7615880191247683297": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7615880191247683297",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7615880191247683297",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Gavin",
+      "senderId": "58a8ddbdd8ff",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Gavin 撤回了一条消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Gavin 撤回了一条消息"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7612866766838009565": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7612866766838009565",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7612866766838009565",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater 撤回了一条消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 撤回了一条消息"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7610624874834317019": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7610624874834317019",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7610624874834317019",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Gavin",
+      "senderId": "58a8ddbdd8ff",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Gavin 邀请 Monica 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Gavin 邀请 Monica 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7604668640872435419": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7604668640872435419",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7604668640872435419",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Han",
+      "senderId": "861af54f72de",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Han 邀请 Han 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Han 邀请 Han 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7603281496085909217": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7603281496085909217",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7603281496085909217",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater 邀请 Ella，Martin 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 邀请 Ella，Martin 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7603318805699268315": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7603318805699268315",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7603318805699268315",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Will",
+      "senderId": "6cef4ccc1019",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Will 邀请 Avery 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Will 邀请 Avery 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7595486685266202331": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7595486685266202331",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7595486685266202331",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Will",
+      "senderId": "6cef4ccc1019",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Will 邀请 Yiwen，Lorena 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Will 邀请 Yiwen，Lorena 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7595874272791285469": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7595874272791285469",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7595874272791285469",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Gavin",
+      "senderId": "58a8ddbdd8ff",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Gavin 邀请 Lucky 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Gavin 邀请 Lucky 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7596956850164256477": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7596956850164256477",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7596956850164256477",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Gavin",
+      "senderId": "58a8ddbdd8ff",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Gavin 置顶了内容",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Gavin 置顶了内容"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7598398482252074717": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7598398482252074717",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7598398482252074717",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Gavin",
+      "senderId": "58a8ddbdd8ff",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Gavin 邀请 多维表格助手 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Gavin 邀请 多维表格助手 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7598445414120525533": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7598445414120525533",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7598445414120525533",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater 邀请 Grace 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 邀请 Grace 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7603221433602281184": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7603221433602281184",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7603221433602281184",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater 邀请 Han 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 邀请 Han 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7591758763569188573": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591758763569188573",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7591758763569188573",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater 将群名称“运营能效需求”修改为“三部门效能优化需求”",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 将群名称“运营能效需求”修改为“三部门效能优化需求”"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7591758852895379166": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591758852895379166",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7591758852895379166",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater 邀请 Winni，Kevin，Aria 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 邀请 Winni，Kevin，Aria 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7591759457139347164": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591759457139347164",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7591759457139347164",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater 邀请 Chloe，Gavin 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 邀请 Chloe，Gavin 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7591771527171870429": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591771527171870429",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7591771527171870429",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Gavin",
+      "senderId": "58a8ddbdd8ff",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Gavin 邀请 Abel 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Gavin 邀请 Abel 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7591729867582901984": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591729867582901984",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7591729867582901984",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater 邀请 Jacky 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 邀请 Jacky 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7591727220469599969": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591727220469599969",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7591727220469599969",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Fred",
+      "senderId": "401f1721a42a",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Fred 发起群聊，并邀请 Kater，Will 加入此群",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Fred 发起群聊，并邀请 Kater，Will 加入此群"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7591727327277485791": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7591727327277485791",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7591727327277485791",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-06T19:02:29.034797+00:00",
+      "reporterName": "Fred",
+      "senderId": "401f1721a42a",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Fred 将群名称“Fred, Kater, Will”修改为“运营能效需求”",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Fred 将群名称“Fred, Kater, Will”修改为“运营能效需求”"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7626289085736390368": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7626289085736390368",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7626289085736390368",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-08T07:36:00+00:00",
+      "reporterName": "Gavin",
+      "senderId": "58a8ddbdd8ff",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Gavin",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Gavin 72h索引率处理任务 已交付：提效前：每周处理约15小时， 提效后：仅需约3分钟，整体效率提升约300倍 cc@Kater @Lorena Lorena"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7626290033910730462": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7626290033910730462",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7626290033910730462",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-08T07:40:00+00:00",
+      "reporterName": "unknown",
+      "senderId": "b23a6a8439c0",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "https://jenkinsci.codetech.pro/view/SEO/job/SEO-Index-Monitor/",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "https://jenkinsci.codetech.pro/view/SEO/job/SEO-Index-Monitor/"
+    },
+    "msg:webmsg_external_web_36b11b598d95c7ad_7626292130264207072": {
+      "anchorId": "msg:webmsg_external_web_36b11b598d95c7ad_7626292130264207072",
+      "messageId": "webmsg_external_web_36b11b598d95c7ad_7626292130264207072",
+      "chatId": "external_web_36b11b598d95c7ad",
+      "time": "2026-04-08T07:48:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater https://gitee.com/mingyu87/seo-insight Gavin 之前 公司 git 连接不上，用的 外部 gitee 去推上去的 Kater 不可以的，必须用公司的哈 Gavin 现在能连上了，我改回来 Kater 包括你之前做的，都一并迁移过来吧 Gavin 好的 回复话题"
+    }
+  },
+  "summaryText": "BYDFi 产研跨源对账单 (Cross-Check Report)\n\n一、高危断链项（AI双向核查确权）\n当前未发现可直接确权的高危断链项。\n二、待核对项（证据不足，不下重判）\n事件1：72h索引率处理任务 已交付：提效前：每周处理约15小时， 提效后：仅需约3分钟，整体效率提升约300倍  cc@Kater @Lorena\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_36b11b598d95c7ad_7626289085736390368\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n三、本周必须落地动作（最多3条）\n1. 请直接@产品负责人，本周内把“72h索引率处理任务 已交付：提效前：每周处理约”写入需求池与版本进度表并锁定研发排期。\n2. 补齐本周新增问题的 owner、ETA、验收口径，并同步到版本进度表。\n3. 补齐本周新增问题的 owner、ETA、验收口径，并同步到版本进度表。"
+}

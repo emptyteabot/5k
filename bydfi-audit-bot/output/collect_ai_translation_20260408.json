@@ -1,0 +1,79 @@
+{
+  "registry_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\config\\lark_group_registry.json",
+  "db_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\audit_records.sqlite3",
+  "discover_output": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\lark_discover_latest.json",
+  "resolved_external_collector_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py",
+  "resolved_storage_state_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\data\\playwright\\lark_storage_state.json",
+  "targets": [
+    "AI翻译交流"
+  ],
+  "runs": [
+    {
+      "title": "AI翻译交流",
+      "hours": 4380,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: 056dbe4b568c4762a41fec0fe07fc669\nChat ID: external_web_9444faae87ac3647\nCurrent chat: AI翻译交流\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 6\nNew messages: 0\nUpdated messages: 6\nFetched documents: 0\nPeople: 7\nReport text path: C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\530ad629848c4ced83c99e832e171cdc.md\nReport json path: C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\530ad629848c4ced83c99e832e171cdc.json",
+      "stderr": ""
+    }
+  ],
+  "before": {
+    "required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 7,
+    "all_collection_stale_count": 9,
+    "required_collection_stale_titles": [
+      "BYDFi·MoonX业务大群",
+      "三部门效能优化需求",
+      "中心研发任务",
+      "产研周报发送群",
+      "永续研发任务",
+      "血战到底",
+      "AI翻译交流"
+    ],
+    "unregistered_discovered_count": 0,
+    "suspicious_discovered_count": 0
+  },
+  "after": {
+    "required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 6,
+    "all_collection_stale_count": 8,
+    "required_collection_stale_titles": [
+      "BYDFi·MoonX业务大群",
+      "三部门效能优化需求",
+      "中心研发任务",
+      "产研周报发送群",
+      "永续研发任务",
+      "血战到底"
+    ],
+    "unregistered_discovered_count": 0,
+    "suspicious_discovered_count": 0
+  }
+}

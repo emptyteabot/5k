@@ -1,0 +1,134 @@
+{
+  "registry_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\config\\lark_group_registry.json",
+  "db_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\audit_records.sqlite3",
+  "discover_output": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\lark_discover_latest.json",
+  "resolved_external_collector_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py",
+  "resolved_storage_state_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\data\\playwright\\lark_storage_state.json",
+  "targets": [
+    "BYDFi·MoonX业务大群",
+    "三部门效能优化需求",
+    "中心研发任务",
+    "产研周报发送群",
+    "永续研发任务",
+    "血战到底",
+    "AI翻译交流"
+  ],
+  "runs": [
+    {
+      "title": "BYDFi·MoonX业务大群",
+      "hours": 48,
+      "ok": false,
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1714, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1675, in main\n    payload = collect_group_reports(\n              ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1297, in collect_group_reports\n    current_url, current_chat_name = _open_target_chat(\n                                     ^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1254, in _open_target_chat\n    raise RuntimeError(f\"没有在 messenger 中找到群：{group_name}\")\nRuntimeError: 没有在 messenger 中找到群：BYDFi·MoonX业务大群"
+    },
+    {
+      "title": "三部门效能优化需求",
+      "hours": 48,
+      "ok": false,
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1714, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1675, in main\n    payload = collect_group_reports(\n              ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1297, in collect_group_reports\n    current_url, current_chat_name = _open_target_chat(\n                                     ^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1254, in _open_target_chat\n    raise RuntimeError(f\"没有在 messenger 中找到群：{group_name}\")\nRuntimeError: 没有在 messenger 中找到群：三部门效能优化需求"
+    },
+    {
+      "title": "中心研发任务",
+      "hours": 48,
+      "ok": false,
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1714, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1675, in main\n    payload = collect_group_reports(\n              ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1297, in collect_group_reports\n    current_url, current_chat_name = _open_target_chat(\n                                     ^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1254, in _open_target_chat\n    raise RuntimeError(f\"没有在 messenger 中找到群：{group_name}\")\nRuntimeError: 没有在 messenger 中找到群：中心研发任务"
+    },
+    {
+      "title": "产研周报发送群",
+      "hours": 48,
+      "ok": false,
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1714, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1675, in main\n    payload = collect_group_reports(\n              ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1297, in collect_group_reports\n    current_url, current_chat_name = _open_target_chat(\n                                     ^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1254, in _open_target_chat\n    raise RuntimeError(f\"没有在 messenger 中找到群：{group_name}\")\nRuntimeError: 没有在 messenger 中找到群：产研周报发送群"
+    },
+    {
+      "title": "永续研发任务",
+      "hours": 48,
+      "ok": false,
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1714, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1675, in main\n    payload = collect_group_reports(\n              ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1297, in collect_group_reports\n    current_url, current_chat_name = _open_target_chat(\n                                     ^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1254, in _open_target_chat\n    raise RuntimeError(f\"没有在 messenger 中找到群：{group_name}\")\nRuntimeError: 没有在 messenger 中找到群：永续研发任务"
+    },
+    {
+      "title": "血战到底",
+      "hours": 48,
+      "ok": false,
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1714, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1675, in main\n    payload = collect_group_reports(\n              ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1297, in collect_group_reports\n    current_url, current_chat_name = _open_target_chat(\n                                     ^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1254, in _open_target_chat\n    raise RuntimeError(f\"没有在 messenger 中找到群：{group_name}\")\nRuntimeError: 没有在 messenger 中找到群：血战到底"
+    },
+    {
+      "title": "AI翻译交流",
+      "hours": 48,
+      "ok": false,
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1714, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1675, in main\n    payload = collect_group_reports(\n              ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1297, in collect_group_reports\n    current_url, current_chat_name = _open_target_chat(\n                                     ^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1254, in _open_target_chat\n    raise RuntimeError(f\"没有在 messenger 中找到群：{group_name}\")\nRuntimeError: 没有在 messenger 中找到群：AI翻译交流"
+    }
+  ],
+  "before": {
+    "required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 7,
+    "all_collection_stale_count": 9,
+    "required_collection_stale_titles": [
+      "BYDFi·MoonX业务大群",
+      "三部门效能优化需求",
+      "中心研发任务",
+      "产研周报发送群",
+      "永续研发任务",
+      "血战到底",
+      "AI翻译交流"
+    ],
+    "unregistered_discovered_count": 0,
+    "suspicious_discovered_count": 0
+  },
+  "after": {
+    "required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 7,
+    "all_collection_stale_count": 9,
+    "required_collection_stale_titles": [
+      "BYDFi·MoonX业务大群",
+      "三部门效能优化需求",
+      "中心研发任务",
+      "产研周报发送群",
+      "永续研发任务",
+      "血战到底",
+      "AI翻译交流"
+    ],
+    "unregistered_discovered_count": 0,
+    "suspicious_discovered_count": 0
+  }
+}

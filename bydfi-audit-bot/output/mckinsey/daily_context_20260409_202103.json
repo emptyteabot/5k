@@ -1,0 +1,145 @@
+{
+  "generated_at": "2026-04-09T20:21:03.456781+08:00",
+  "period": "daily",
+  "runner": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\run_mckinsey_ceo_cycle.py",
+  "cycle": {
+    "ok": false,
+    "period": "daily",
+    "generated_at": "2026-04-09T20:21:01.252583+08:00",
+    "one_liner": "今日采集链路还没闭环，先补齐必管群覆盖，再看管理判断。",
+    "coverage_required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 1,
+      "unverified": 0
+    },
+    "publish_guard": {
+      "period": "daily",
+      "publishable": false,
+      "review_deliverable": false,
+      "guard_status": "blocked",
+      "checks": {
+        "run_discover": false,
+        "discover_selected_count": 12,
+        "required_missing": 0,
+        "required_stale": 1,
+        "required_unverified": 0,
+        "required_collection_stale_count": 0,
+        "manual_ceo_source_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\ceo_brief_final_send.md",
+        "manual_ceo_same_day": false
+      },
+      "hard_reasons": [
+        "必管群仍存在 missing / stale / unverified，不能对外发送。"
+      ],
+      "review_notes": [
+        "本次日常运行沿用了最近一次 discover 结果，适合先发给你审阅，不建议直接当作最终对外版。",
+        "不存在同日人工校准 CEO 源稿，本次自动发送仅供你审阅，不建议直接转发 CEO。"
+      ],
+      "reasons": [
+        "必管群仍存在 missing / stale / unverified，不能对外发送。",
+        "本次日常运行沿用了最近一次 discover 结果，适合先发给你审阅，不建议直接当作最终对外版。",
+        "不存在同日人工校准 CEO 源稿，本次自动发送仅供你审阅，不建议直接转发 CEO。"
+      ]
+    },
+    "json_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\scheduled\\daily_ops_digest_20260409_202102.json",
+    "md_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\scheduled\\daily_ops_digest_20260409_202102.md",
+    "latest_json_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\scheduled\\daily_ops_digest_latest.json",
+    "latest_md_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\scheduled\\daily_ops_digest_latest.md",
+    "automation_errors": [],
+    "digest_pdf": {
+      "pdf_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\scheduled\\daily_ops_digest_20260409_202102.pdf",
+      "latest_pdf_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\scheduled\\daily_ops_digest_latest.pdf"
+    },
+    "delivery": null,
+    "ceo_render": {
+      "period": "daily",
+      "md_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\scheduled\\daily_ceo_brief_20260409_202101.md",
+      "pdf_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\scheduled\\daily_ceo_brief_20260409_202101.pdf",
+      "latest_md_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\scheduled\\daily_ceo_brief_latest.md",
+      "latest_pdf_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\scheduled\\daily_ceo_brief_latest.pdf",
+      "validate": {
+        "ok": true,
+        "returncode": 0,
+        "stdout": "CEO brief validation passed.",
+        "stderr": "",
+        "command": [
+          "C:\\Users\\cyh\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+          "-X",
+          "utf8",
+          "C:\\Users\\cyh\\.codex\\skills\\bydfi-ceo-brief\\scripts\\verify_ceo_brief.py",
+          "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\scheduled\\daily_ceo_brief_20260409_202101.md"
+        ]
+      },
+      "render": {
+        "ok": true,
+        "returncode": 0,
+        "stdout": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\scheduled\\daily_ceo_brief_20260409_202101.pdf",
+        "stderr": "",
+        "command": [
+          "C:\\Users\\cyh\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+          "-X",
+          "utf8",
+          "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\generate_ceo_brief_pdf.py",
+          "--source",
+          "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\scheduled\\daily_ceo_brief_20260409_202101.md",
+          "--output",
+          "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\scheduled\\daily_ceo_brief_20260409_202101.pdf",
+          "--no-desktop-copy"
+        ]
+      }
+    }
+  },
+  "final_md_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\ceo_brief_final_send.md",
+  "final_pdf_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\高层决策报告_终版.pdf",
+  "desktop_targets": [
+    "C:\\Users\\cyh\\Desktop\\高层决策报告_终版.pdf",
+    "E:\\UserData\\cyh\\Desktop\\高层决策报告_终版.pdf"
+  ],
+  "final_render": {
+    "source_md_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\ceo_brief_final_send.md",
+    "output_pdf_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\高层决策报告_终版.pdf",
+    "desktop_targets": [
+      "C:\\Users\\cyh\\Desktop\\高层决策报告_终版.pdf",
+      "E:\\UserData\\cyh\\Desktop\\高层决策报告_终版.pdf"
+    ],
+    "validate": {
+      "ok": true,
+      "returncode": 0,
+      "stdout": "CEO brief validation passed.",
+      "stderr": "",
+      "command": [
+        "C:\\Users\\cyh\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+        "-X",
+        "utf8",
+        "C:\\Users\\cyh\\.codex\\skills\\bydfi-ceo-brief\\scripts\\verify_ceo_brief.py",
+        "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\ceo_brief_final_send.md"
+      ]
+    },
+    "render": {
+      "ok": true,
+      "returncode": 0,
+      "stdout": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\高层决策报告_终版.pdf",
+      "stderr": "",
+      "command": [
+        "C:\\Users\\cyh\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+        "-X",
+        "utf8",
+        "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\generate_ceo_brief_pdf.py",
+        "--source",
+        "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\ceo_brief_final_send.md",
+        "--output",
+        "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\高层决策报告_终版.pdf",
+        "--desktop-target",
+        "C:\\Users\\cyh\\Desktop\\高层决策报告_终版.pdf",
+        "--desktop-target",
+        "E:\\UserData\\cyh\\Desktop\\高层决策报告_终版.pdf"
+      ]
+    }
+  },
+  "one_line_requests": [
+    "跑今天增量 CEO 报告",
+    "跑今天麦肯锡版管理报告",
+    "先补抓再重写终版 PDF",
+    "跑本周周日报告"
+  ]
+}

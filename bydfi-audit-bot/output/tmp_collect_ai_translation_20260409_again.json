@@ -1,0 +1,72 @@
+{
+  "registry_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\config\\lark_group_registry.json",
+  "db_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\audit_records.sqlite3",
+  "discover_output": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\lark_discover_latest.json",
+  "resolved_external_collector_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py",
+  "resolved_storage_state_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\data\\playwright\\lark_storage_state.json",
+  "targets": [
+    "AI翻译交流"
+  ],
+  "runs": [
+    {
+      "title": "AI翻译交流",
+      "hours": 168,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: 1bb23874c7744136bb93596da6de6256\nChat ID: external_web_9444faae87ac3647\nCurrent chat: AI翻译交流\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 6\nNew messages: 2\nUpdated messages: 4\nFetched documents: 0\nPeople: 6\nReport text path: C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\3ebbb020762443e5ab2664eb6fb025cf.md\nReport json path: C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\3ebbb020762443e5ab2664eb6fb025cf.json",
+      "stderr": ""
+    }
+  ],
+  "before": {
+    "required": {
+      "covered": 6,
+      "missing": 0,
+      "stale": 2,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 6,
+      "missing": 0,
+      "stale": 4,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [
+      "产研周报发送群",
+      "永续研发任务"
+    ],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 1,
+    "all_collection_stale_count": 1,
+    "required_collection_stale_titles": [
+      "AI翻译交流"
+    ],
+    "unregistered_discovered_count": 1,
+    "suspicious_discovered_count": 1
+  },
+  "after": {
+    "required": {
+      "covered": 6,
+      "missing": 0,
+      "stale": 2,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 6,
+      "missing": 0,
+      "stale": 4,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [
+      "产研周报发送群",
+      "永续研发任务"
+    ],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 0,
+    "all_collection_stale_count": 0,
+    "required_collection_stale_titles": [],
+    "unregistered_discovered_count": 1,
+    "suspicious_discovered_count": 1
+  }
+}

@@ -1,0 +1,412 @@
+[
+  {
+    "ordinal": 0,
+    "messageId": "7624556991322574557",
+    "text": "Liam\n本周周报【3.30~4.3】- Liam\nMoonX\n一、本周工作\n【后端】稳定币稳定币列表接口 （100%）\n【后端】兑换/跨链桥缓存OKx支持的token（100%）\n【后端】兑换/跨链桥定时更新OKx支持的token（100%）\n【后端】兑换/跨链桥对接Okx quote接口（100%）\n【后端】兑换/跨链桥对接Okx approve接口（100%）\n【后端】兑换/跨链桥对接Okx swap接口（100%）\n\n二、下周计划\n兑换/跨链桥其余接口",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read text-message",
+    "timestampHint": "4月3日 23:35",
+    "senderCandidates": [
+      "Liam"
+    ],
+    "links": [],
+    "top": -6702,
+    "height": 304,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00pb_44136d68-3f63-4bed-9652-c17b8b3c34hu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Liam</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">4月3日 23:35</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left message-section-newFileCard\" data-element=\"message-section-left\" id=\"7624556991322574557\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-content-container\"><div class=\"catch-resize-observer-dom message-content\"><div role=\"text-message\" class=\"MessageActionPermissionWrapper message-text\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"limit-height-container\"><div><div class=\"wrapper\"><div class=\"\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><pre><div dir=\"auto\" class=\"richTextContainer text-align-left\" data-partial-quote-enabled=\"true\"><span class=\"text-o"
+  },
+  {
+    "ordinal": 1,
+    "messageId": "7624775692940496613",
+    "text": "Lori\n【03.30-04.03】本周MoonX-UI工作内容\n验收\nWeb链上预测UI验收 90%\nweb\n链上预测：\n历史成交筛选与排序调整 100%\n时间循环交互优化 100%\n我的预测、排行榜单自适应设计，细节改动同步 100%\n导航：限时0费率&预测入口 20%\nApp\n链上预测：\n排行榜与用户详情设计 100%\n用户持仓与我的预测持仓交互调整 100%\n事件详情-多市场详情细节修改 100%\n其他需求：\nApp盈利地址设计 100%\n流动性池变化设计 100%\n其他\n主站增加链上预测入口设计(两端) 60%\n下周计划\n主站预测入口设计\n导航：限时0费率&预测入口\nmeme交易-增加稳定币\nWeb链上预测UI验收",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read post-message",
+    "timestampHint": "4月4日 13:43",
+    "senderCandidates": [
+      "Lori"
+    ],
+    "links": [],
+    "top": -6350,
+    "height": 570,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00km_8924a6ab-cf35-41cb-ac05-8c87a8487ehu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Lori</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">4月4日 13:43</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left message-section-newFileCard\" data-element=\"message-section-left\" id=\"7624775692940496613\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-content catch-resize-observer-dom\"><div class=\"messagePost_container\"><div class=\"limit-height-container\"><div><div class=\"wrapper\"><div class=\"message-post\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><pre><div dir=\"auto\" class=\"richTextContainer text-align-left\" data-partial-quote-enabled=\"true\"><div class=\"richTextDocs\" data-eleid=\"1"
+  },
+  {
+    "ordinal": 2,
+    "messageId": "7625096862944464605",
+    "text": "Night\n本周工作：「3.30 ~ 4.3」  -  Night\n  Moonx：      \n【Polymarket】订单轮询重试机制、事件发布失败补偿 - 完成   \n【Polymarket】添加从 Polymarket 同步仓位逻辑，支持 open/closed 状态过滤 - 完成\n【Polymarket】实现仓位轮询机制：轮询10次，间隔2秒，成功则更新 - 完成\n【Polymarket】修复限价单、市价单处理 order、trade、position 的完整逻辑 - 完成\n【Polymarket】处理 remote 无数据但 local 有数据时，将 localSize置为 0、status 置为 closed - 完成\n【Polymarket】修复 outcome 入库大小写问题，根据outcomePirce判断预测结果输赢 - 完成\n【Polymarket】优化 ws 订阅行情推送 - 完成\n【Polymarket】Bug 修复 10余个包括：订单，仓位以及列表显示等 - 完成\n下周计划：\n【Polymarket】polymarket上线准备。\n【Polymarket】下单流程，仓位，订单数据同步逻辑优化。\n【Polymarket】优化仓位数据延迟问题。",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read post-message",
+    "timestampHint": "4月5日 10:30",
+    "senderCandidates": [
+      "Night"
+    ],
+    "links": [],
+    "top": -5732,
+    "height": 366,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00u5_694026fd-2ac0-4274-80ae-e9d0e65976hu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Night</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">4月5日 10:30</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left message-section-newFileCard\" data-element=\"message-section-left\" id=\"7625096862944464605\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-content catch-resize-observer-dom\"><div class=\"messagePost_container\"><div class=\"limit-height-container\"><div><div class=\"wrapper\"><div class=\"message-post\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><pre><div dir=\"auto\" class=\"richTextContainer text-align-left\" data-partial-quote-enabled=\"true\"><div class=\"rich-text-paragraph\" data-"
+  },
+  {
+    "ordinal": 3,
+    "messageId": "7625247851970301659",
+    "text": "Bender\n本周周报【3.30~4.3】-Bender\n本周工作\nweb3数据需求\nevm链税费合约开发自测，web3-toen侧税费数据入库，与后端对接(100%)\nweb3-token侧流动性变化数据开发，自测，输入后端对接文档(100%)\nweb3-token修复bse链 h24 热门榜logo缺失(100%)\n预测市场爬链部分上线(100%)\n预测市场排查数据覆盖问题\npump agenet合约事件解析(100%)\n排查解决生产相关异常\n 下周计划 \nweb3数据需求\n预测市场内侧支持\nevm链工具合约测试\n联调税费相关\n联调流动性变化相关\n排查解决数据相关异常",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read post-message",
+    "timestampHint": "4月5日 20:16",
+    "senderCandidates": [
+      "Bender"
+    ],
+    "links": [],
+    "top": -5366,
+    "height": 432,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00o1_aa6b6980-b2ce-4dd9-a146-3da8483d2dhu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Bender</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">4月5日 20:16</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left message-section-newFileCard\" data-element=\"message-section-left\" id=\"7625247851970301659\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-content catch-resize-observer-dom\"><div class=\"messagePost_container\"><div class=\"limit-height-container\"><div><div class=\"wrapper\"><div class=\"message-post\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><pre><div dir=\"auto\" class=\"richTextContainer text-align-left\" data-partial-quote-enabled=\"true\"><div class=\"richTextDocs\" data-eleid="
+  },
+  {
+    "ordinal": 4,
+    "messageId": "7625259076607299301",
+    "text": "Relly\n本周周报【03.30~04.03】- Relly\nMoonx（PC 端）\nPolymarket\n排行榜\n榜单详情页已提测（100%）\nUi 样式\n p0 问题已修改（100%）\n排行榜列表支持多端（50%）\n链上预测\n热门预测列表开发、联调进度（90%）\n突发新闻列表开发、联调进度（10%）\n交易详情\n新增交易税费显示功能，已提测（100%）\n\n\n下周计划\nPolymarket\n排行榜列表支持多端\n交易详情\n原生代币指向包装代币处理\n流动性池列表优化\n新增盈利地址列表\n支持稳定币计价交易\nSEO 优化\n修改无文本内容，纯数据页面\n提升页面的 LCP 指标",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read post-message",
+    "timestampHint": "4月5日 20:59",
+    "senderCandidates": [
+      "Relly"
+    ],
+    "links": [],
+    "top": -4934,
+    "height": 606,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00i9_ba1e8483-04c0-48e3-9ac5-32fa6ec2ddhu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Relly</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">4月5日 20:59</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left message-section-newFileCard\" data-element=\"message-section-left\" id=\"7625259076607299301\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-content catch-resize-observer-dom\"><div class=\"messagePost_container\"><div class=\"limit-height-container\"><div><div class=\"wrapper\"><div class=\"message-post\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><pre><div dir=\"auto\" class=\"richTextContainer text-align-left\" data-partial-quote-enabled=\"true\"><div class=\"richTextDocs\" data-eleid=\""
+  },
+  {
+    "ordinal": 5,
+    "messageId": "7625472994411859678",
+    "text": "Nilu\n【03.30~04.03】- nilu\n  Polymarkets\n优化市场列表展开交互，修复状态错乱并添加展开动画\n优化订单簿组件性能，解决高频 WS 消息导致的频繁渲染问题\n优化订单簿累计金额计算逻辑，修复卖单列表滚动跟随问题\n修复订单簿切换 YES/NO 时价格显示错误问题\n优化交易面板状态管理与主题颜色同步\n添加 Polygonscan 交易详情查看功能\n为加密货币系列事件添加 live dot 标识\n优化系列事件标签组件，重构为 antd Dropdown 并优化事件排序与时间显示\n根据标签类型动态调整图表时间间隔\n增强 UMA 决议状态显示与时间线\n扩展事件标签时间格式支持 sports 场景\n优化交易面板代码结构与精度计算\n修复polymarket测试bug\n  SEO / i18n\n更新 moonx 多语言翻译文件\n优化翻译缺失标记逻辑与更新多语言资源文件\n优化 LANG 函数在未加载翻译场景下的缓存策略\n  Performance\n优化 polymarkets 页面组件加载性能与样式\n  UI\n优化事件详情页 UI 样式与布局细节\n优化事件详情页图表展示逻辑与空状态处理\n优化事件页面组件样式与空状态处理\n为 dropdown 组件添加固定高度样式\n下周计划\n继续修复polymarket详情页bug\nUI问题修复\nSEO meme学院 SSR开发",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read post-message",
+    "timestampHint": "4月6日 10:49",
+    "senderCandidates": [
+      "Nilu"
+    ],
+    "links": [],
+    "top": -4280,
+    "height": 712,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00i6_0f3e7ed3-98f7-4fbb-8ced-c1596e22achu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Nilu</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">4月6日 10:49</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left message-section-newFileCard\" data-element=\"message-section-left\" id=\"7625472994411859678\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-content catch-resize-observer-dom\"><div class=\"messagePost_container\"><div class=\"limit-height-container\"><div><div class=\"wrapper\"><div class=\"message-post\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><pre><div dir=\"auto\" class=\"richTextContainer text-align-left\" data-partial-quote-enabled=\"true\"><div class=\"richTextDocs\" data-eleid=\"1"
+  },
+  {
+    "ordinal": 6,
+    "messageId": "7625625502761373405",
+    "text": "Owen\n本周工作【03.30~04.03】- Owen\nMoonX\n预测市场可用资产和总资产计算问题修复 - 已完成\n预测市场聪明钱排行榜接口字段处理和优化 - 已完成\n预测市场列表数据多标签组合搜索优化 - 已完成\n预测市场新增单个仓位赎回接口 - 已完成\n预测市场冲提资产屏蔽tron链 - 已完成\n预测市场增加服务重启加载进行中的交易进行轮询和状态更新 - 已完成\n预测市场资产变更transfer事件增加polymarket支持的合约地址校验 - 已完成\n预测市场管理后台分区分页失效排查解决&客户端分区国际化筛选 - 已完成\ntoken税率&dex税率功能开发 - 已完成\nweb3项目敏感配置迁移nacos - 已发布线上\nClaude code 生成seo 新闻爬虫抓取和AI创作 - 进行中 50%\n下周计划\n预测市场上线及内测问题跟进\ntoken池子流动性变化功能开发\n预测市场增加safe地址定时和增加更新缓存&对接链上polymarket trade交易事件\n预测市场资产快照开发",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read post-message",
+    "timestampHint": "4月6日 20:41",
+    "senderCandidates": [
+      "Owen"
+    ],
+    "links": [],
+    "top": -3568,
+    "height": 456,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00vu_8f5c30fb-e390-4469-8044-c2d5e8101ahu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Owen</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">4月6日 20:41</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left message-section-newFileCard\" data-element=\"message-section-left\" id=\"7625625502761373405\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-content catch-resize-observer-dom\"><div class=\"messagePost_container\"><div class=\"limit-height-container\"><div><div class=\"wrapper\"><div class=\"message-post\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><pre><div dir=\"auto\" class=\"richTextContainer text-align-left\" data-partial-quote-enabled=\"true\"><div class=\"richTextDocs\" data-eleid=\"1"
+  },
+  {
+    "ordinal": 7,
+    "messageId": "7625639392186486496",
+    "text": "Kelly\n本周周报【3.30~4.3】\n 一、代理渠道    \n- KOL 外联：已外联 1000+ KOL，已谈好7 个，谈判中 5 个，13 个已回复持续跟进\n- 线上活动：代理奖励方案待预算确认（同上周，等定预算）\n- 直客/代理-媒体：媒体库建立中 \n二、直客渠道  \n- 邮件营销：宣发方案执行中\n- 全球社群增长：本周新增17+报名，审核通过1人，沟通联系中\n- SEO 优化：第二版方案跟进中\n下周重点\n1. KOL 已签约 7 个进入 Brief + 内容审核流程，推动首批内容发布\n2. 重点跟进已回复的 13 个 KOL，推进谈判签约\n3. 预测上线邮件活动社媒宣发流程跟进\n4. 代理线上活动方案待预算到位后启动   \n5. 外链媒体继续跟进 \n6.seo跟进",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read text-message",
+    "timestampHint": "4月6日 21:35",
+    "senderCandidates": [
+      "Kelly"
+    ],
+    "links": [],
+    "top": -3112,
+    "height": 384,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00ni_5d883ace-5bca-4dab-945f-4a9265ae6fhu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Kelly</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">4月6日 21:35</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left message-section-newFileCard\" data-element=\"message-section-left\" id=\"7625639392186486496\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-content-container\"><div class=\"catch-resize-observer-dom message-content\"><div role=\"text-message\" class=\"MessageActionPermissionWrapper message-text\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"limit-height-container\"><div><div class=\"wrapper\"><div class=\"\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><pre><div dir=\"auto\" class=\"richTextContainer text-align-left\" data-partial-quote-enabled=\"true\"><span class=\"text-"
+  },
+  {
+    "ordinal": 8,
+    "messageId": "7625642474072968933",
+    "text": "Charlie\n本周周报【3.30~4.3】\n跟进的需求\n1、polymarket行情相关测试\n2、web端地址标签上线，测试回归\n3、2026.3.16 meteora dbc 2026.3.13 dammv2 合约更新兼容\n4、 OTT Token 用户ws登录校验\n下周代办\n1、polymarket行情相关bug回归\n2、app端polymarket接入测试\n3、原生代币指向包装代币处理\n4、流动性池子变化",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read text-message",
+    "timestampHint": "4月6日 21:47",
+    "senderCandidates": [
+      "Charlie"
+    ],
+    "links": [],
+    "top": -2728,
+    "height": 284,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00sc_8ed9dedc-252c-4f8b-9524-d5e546c321hu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Charlie</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">4月6日 21:47</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left message-section-newFileCard\" data-element=\"message-section-left\" id=\"7625642474072968933\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-content-container\"><div class=\"catch-resize-observer-dom message-content\"><div role=\"text-message\" class=\"MessageActionPermissionWrapper message-text\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"limit-height-container\"><div><div class=\"wrapper\"><div class=\"\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><pre><div dir=\"auto\" class=\"richTextContainer text-align-left\" data-partial-quote-enabled=\"true\"><span class=\"tex"
+  },
+  {
+    "ordinal": 9,
+    "messageId": "7625647398622072546",
+    "text": "Rsii\n本周工作 0330-0405\n1. MoonX社媒运营 （本周共发27条推文）\n2. 预测市场新手教程梳理\n3. 特斯拉交易S4活动收尾/奖励派发\n（报名721人，有效交易174人，118人获奖)\n4.预测市场活动/主站入口对接\n5.预测市场上线活动方案调整\n(复合活动，预测+meme交易）\n6.1季度活动数据汇总\n7.预测市场邮件排期及内容\n\n下周工作\n1.MoonX社媒运营\n2.官网新手教程/社媒、代理教程图\n3.预测市场活动上线预告/竞猜活动\n4.渠道/社区增粉拓展\n5.预测功能素材需求",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read text-message",
+    "timestampHint": "4月6日 22:06",
+    "senderCandidates": [
+      "Rsii"
+    ],
+    "links": [],
+    "top": -2444,
+    "height": 404,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00uc_f01a82b5-829e-40d9-ba0e-887f10f4fchu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Rsii</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">4月6日 22:06</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left message-section-newFileCard\" data-element=\"message-section-left\" id=\"7625647398622072546\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-content-container\"><div class=\"catch-resize-observer-dom message-content\"><div role=\"text-message\" class=\"MessageActionPermissionWrapper message-text\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"limit-height-container\"><div><div class=\"wrapper\"><div class=\"\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><pre><div dir=\"auto\" class=\"richTextContainer text-align-left\" data-partial-quote-enabled=\"true\"><span class=\"text-o"
+  },
+  {
+    "ordinal": 10,
+    "messageId": "7625667023187496677",
+    "text": "Luke\n本周周报【3.30.~4.3】-Luke\n本周工作\nweb3数据需求\n预测市场榜单数据定时任务同步数据\n 预测市场缺陷内bug修复\n预测市场规则梳理统计\n聪明钱榜单测试bug修复\n预测市场排查数据覆盖问题\n排查解决生产相关异常\n 下周计划 \nweb3数据需求\n预测市场内测支持\n预测市场相关跟进",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read post-message",
+    "timestampHint": "4月6日 23:22",
+    "senderCandidates": [
+      "Luke"
+    ],
+    "links": [],
+    "top": -2040,
+    "height": 344,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00li_6cfbd218-558f-467e-a1ef-afb11eb3a4hu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Luke</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">4月6日 23:22</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left message-section-newFileCard\" data-element=\"message-section-left\" id=\"7625667023187496677\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-content catch-resize-observer-dom\"><div class=\"messagePost_container\"><div class=\"limit-height-container\"><div><div class=\"wrapper\"><div class=\"message-post\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><pre><div dir=\"auto\" class=\"richTextContainer text-align-left\" data-partial-quote-enabled=\"true\"><div class=\"rich-text-paragraph\" data-e"
+  },
+  {
+    "ordinal": 11,
+    "messageId": "7625673391680278238",
+    "text": "Sunday\n本周周报【3.30~4.3】- Sunday\n本周工作\n1. 聪明钱\n    a. 自研系统聪明钱bug修复\n    b. 盈利地址需求开发完成\n    c. 生产数据holding表pg同步selectdb完成\n    d. 生产持仓买入为0 bug排查\n    e. 持仓一致性优化\n\n下周计划 \n3. 聪明钱\n    a. 盈利地址自测、联调\n    b. 持仓一致性优化自测",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read text-message",
+    "timestampHint": "4月6日 23:47",
+    "senderCandidates": [
+      "Sunday"
+    ],
+    "links": [],
+    "top": -1696,
+    "height": 324,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00m1_d2ff2a7d-c68e-4754-b0ca-e7f7007e91hu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Sunday</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">4月6日 23:47</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left message-section-newFileCard\" data-element=\"message-section-left\" id=\"7625673391680278238\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-content-container\"><div class=\"catch-resize-observer-dom message-content\"><div role=\"text-message\" class=\"MessageActionPermissionWrapper message-text\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"limit-height-container\"><div><div class=\"wrapper\"><div class=\"\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><pre><div dir=\"auto\" class=\"richTextContainer text-align-left\" data-partial-quote-enabled=\"true\"><span class=\"text"
+  },
+  {
+    "ordinal": 12,
+    "messageId": "7626217831593053922",
+    "text": "Kevin\nhttps://gitlab-1.codetech.pro/wiki/cc-report\n这是cc周报，大家clone本地，在/cc-report仓库目录下打开claude, 执行/getcc命令，会自动生成报告并上传\n大家发周报的同时，将cc周报也一并执行上传，moonx必须全员参与（cex上周已经开始）\n没有gitlab账号的可以找我开通\n@所有人\nKoen\nAscen\nTony\nIan\nJick\nRelly\nKater\nOwen\nNilu\n5 条回复",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read message-has-reactions text-message",
+    "timestampHint": "11:00",
+    "senderCandidates": [
+      "Kevin"
+    ],
+    "links": [
+      "https://gitlab-1.codetech.pro/wiki/cc-report"
+    ],
+    "top": -1324,
+    "height": 232,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_009q_8ac78a93-5715-4285-820b-ab9cab5489hu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Kevin</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">11:00</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left message-section-newFileCard\" data-element=\"message-section-left\" id=\"7626217831593053922\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-content-container\"><div class=\"catch-resize-observer-dom message-content\"><div role=\"text-message\" class=\"MessageActionPermissionWrapper message-text\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"limit-height-container\"><div><div class=\"wrapper\"><div class=\"\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><pre><div dir=\"auto\" class=\"richTextContainer text-align-left\" data-partial-quote-enabled=\"true\"><a contenteditable=\"fal"
+  },
+  {
+    "ordinal": 13,
+    "messageId": "7626218435059470047",
+    "text": "Teemo\n回复 Kevin: \nhttps://gitlab-1.codetech.pro/wiki/cc-report 这是cc周报，大家clone本地，在/cc-report仓库目录下打开claude, 执行/getcc命令，会自动生成报告并上传 大家发周报的同时，将cc周报也一并执行上传，moonx必须全员参与（cex上周已经开始） 没有gitlab账号的可以找我开通 @所有人\n@Kevin 仓库没权限\nAscen\nBruce\nIan\nSunday\nOwen\n+3 人",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read message-has-reactions message-comment text-message",
+    "timestampHint": "11:02",
+    "senderCandidates": [
+      "Teemo",
+      "回复 Kevin:"
+    ],
+    "links": [
+      "https://gitlab-1.codetech.pro/wiki/cc-report"
+    ],
+    "top": -1092,
+    "height": 144,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00m1_07774a01-677c-49f4-82e8-101d36cc67hu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Teemo</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">11:02</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left is-reply message-section-newFileCard\" data-element=\"message-section-left\" id=\"7626218435059470047\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-header reply-header\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><div class=\"quote_reply_title referencePreviewTitle__wrapper\"><div class=\"referencePreviewTitle__name\"><span>回复 Kevin:&nbsp;</span></div><div class=\"referencePreviewTitle__message\"><span><span class=\"b2dab1bd\"><a contenteditable=\"false\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"link rich-text-anchor __anchor-intercept-flag__\" data-eleid=\"0\" data-lark-is-custom=\"true\" href=\"https://gitlab-"
+  },
+  {
+    "ordinal": 14,
+    "messageId": "7626219022102630107",
+    "text": "Ascen\ncc额度已经用完了，后面上传也没数据\n[捂脸]",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read text-message",
+    "timestampHint": "11:04",
+    "senderCandidates": [
+      "Ascen"
+    ],
+    "links": [],
+    "top": -948,
+    "height": 84,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00i5_514e630e-8661-49b5-abb1-0c0678560ahu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Ascen</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">11:04</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left message-section-newFileCard\" data-element=\"message-section-left\" id=\"7626219022102630107\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-content-container\"><div class=\"catch-resize-observer-dom message-content\"><div role=\"text-message\" class=\"MessageActionPermissionWrapper message-text\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"limit-height-container\"><div><div class=\"wrapper\"><div class=\"\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><pre><div dir=\"auto\" class=\"richTextContainer text-align-left\" data-partial-quote-enabled=\"true\"><span class=\"text-only\""
+  },
+  {
+    "ordinal": 15,
+    "messageId": "7626225113418993374",
+    "text": "Kevin\n回复 Teemo: \n@Kevin 仓库没权限\n权限已经加了",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read message-comment text-message",
+    "timestampHint": "11:28",
+    "senderCandidates": [
+      "Kevin",
+      "回复 Teemo:"
+    ],
+    "links": [],
+    "top": -864,
+    "height": 112,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_009q_8ac78a93-5715-4285-820b-ab9cab5489hu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Kevin</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">11:28</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left is-reply message-section-newFileCard\" data-element=\"message-section-left\" id=\"7626225113418993374\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-header reply-header\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><div class=\"quote_reply_title referencePreviewTitle__wrapper\"><div class=\"referencePreviewTitle__name\"><span>回复 Teemo:&nbsp;</span></div><div class=\"referencePreviewTitle__message\"><span><span class=\"b2dab1bd\"><span class=\"text-only\" data-eleid=\"0\">@Kevin</span><span class=\"text-only\" data-eleid=\"1\"> 仓库没权限</span></span></span></div></div></div><div class=\"message-content-container\"><div class=\"c"
+  },
+  {
+    "ordinal": 16,
+    "messageId": "7626225244411285213",
+    "text": "Kater\n额度找crads\nAscen",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read message-has-reactions text-message",
+    "timestampHint": "11:28",
+    "senderCandidates": [
+      "Kater"
+    ],
+    "links": [],
+    "top": -752,
+    "height": 116,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00lg_ed4e7e7e-3579-46a3-afc4-4e6f53e7c1hu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Kater</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">11:28</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left message-section-newFileCard\" data-element=\"message-section-left\" id=\"7626225244411285213\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-content-container\"><div class=\"catch-resize-observer-dom message-content\"><div role=\"text-message\" class=\"MessageActionPermissionWrapper message-text\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"limit-height-container\"><div><div class=\"wrapper\"><div class=\"\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><pre><div dir=\"auto\" class=\"richTextContainer text-align-left\" data-partial-quote-enabled=\"true\"><span class=\"text-only\""
+  },
+  {
+    "ordinal": 17,
+    "messageId": "7626225314481311451",
+    "text": "Nilu\n回复 Kevin: \nhttps://gitlab-1.codetech.pro/wiki/cc-report 这是cc周报，大家clone本地，在/cc-report仓库目录下打开claude, 执行/getcc命令，会自动生成报告并上传 大家发周报的同时，将cc周报也一并执行上传，moonx必须全员参与（cex上周已经开始） 没有gitlab账号的可以找我开通 @所有人\n@Kevin 已经用完了一个了  再上传就是新的了",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read message-comment text-message",
+    "timestampHint": "11:29",
+    "senderCandidates": [
+      "Nilu",
+      "回复 Kevin:"
+    ],
+    "links": [
+      "https://gitlab-1.codetech.pro/wiki/cc-report"
+    ],
+    "top": -636,
+    "height": 112,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00i6_0f3e7ed3-98f7-4fbb-8ced-c1596e22achu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Nilu</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">11:29</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left is-reply message-section-newFileCard\" data-element=\"message-section-left\" id=\"7626225314481311451\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-header reply-header\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><div class=\"quote_reply_title referencePreviewTitle__wrapper\"><div class=\"referencePreviewTitle__name\"><span>回复 Kevin:&nbsp;</span></div><div class=\"referencePreviewTitle__message\"><span><span class=\"b2dab1bd\"><a contenteditable=\"false\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"link rich-text-anchor __anchor-intercept-flag__\" data-eleid=\"0\" data-lark-is-custom=\"true\" href=\"https://gitlab-1"
+  },
+  {
+    "ordinal": 18,
+    "messageId": "7626225695202496219",
+    "text": "Kevin\n回复 Nilu: \n@Kevin 已经用完了一个了 再上传就是新的了\n@Nilu 什么意思，重新生成当周的会覆盖的\nNilu\n就是已经换了一个apikey 了 现在提交应该是提交新的 旧的应该没了\nKevin\n就按新的提交\n回复话题",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read message-comment message-thread-container text-message",
+    "timestampHint": "11:30",
+    "senderCandidates": [
+      "Kevin",
+      "回复 Nilu:",
+      "Nilu"
+    ],
+    "links": [],
+    "top": -524,
+    "height": 203,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_009q_8ac78a93-5715-4285-820b-ab9cab5489hu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Kevin</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">11:30</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"message-thread-wrapper\" data-message-descendant-bounded=\"true\"><div class=\"message-thread-content\" data-message-content=\"true\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left is-reply message-section-newFileCard\" data-element=\"message-section-left\" id=\"7626225695202496219\" receivepolicystatus=\"allow\" data-message-descendant-index=\"0\" data-message-descendant-bounded=\"false\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-header reply-header\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><div class=\"quote_reply_title referencePreviewTitle__wrapper\"><div class=\"referencePreviewTitle__name\"><span>回复 Nilu:&nbsp;</span></div><div class=\"referencePreviewTitle__message\"><span><span class=\"b2dab1bd\"><span class=\"te"
+  },
+  {
+    "ordinal": 19,
+    "messageId": "7626225907329634016",
+    "text": "Kelly\n回复 Kevin: \nhttps://gitlab-1.codetech.pro/wiki/cc-report 这是cc周报，大家clone本地，在/cc-report仓库目录下打开claude, 执行/getcc命令，会自动生成报告并上传 大家发周报的同时，将cc周报也一并执行上传，moonx必须全员参与（cex上周已经开始） 没有gitlab账号的可以找我开通 @所有人\n打开出现这个怎么办",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read message-comment post-message",
+    "timestampHint": "11:31",
+    "senderCandidates": [
+      "Kelly",
+      "回复 Kevin:"
+    ],
+    "links": [
+      "https://gitlab-1.codetech.pro/wiki/cc-report"
+    ],
+    "top": -321,
+    "height": 452,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00ni_5d883ace-5bca-4dab-945f-4a9265ae6fhu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Kelly</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">11:31</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left is-reply message-section-newFileCard\" data-element=\"message-section-left\" id=\"7626225907329634016\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-header reply-header\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><div class=\"quote_reply_title referencePreviewTitle__wrapper\"><div class=\"referencePreviewTitle__name\"><span>回复 Kevin:&nbsp;</span></div><div class=\"referencePreviewTitle__message\"><span><span class=\"b2dab1bd\"><a contenteditable=\"false\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"link rich-text-anchor __anchor-intercept-flag__\" data-eleid=\"0\" data-lark-is-custom=\"true\" href=\"https://gitlab-"
+  },
+  {
+    "ordinal": 20,
+    "messageId": "7626226000690417375",
+    "text": "Kevin\n用vpn\n3 条回复",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read text-message",
+    "timestampHint": "11:31",
+    "senderCandidates": [
+      "Kevin"
+    ],
+    "links": [],
+    "top": 131,
+    "height": 120,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_009q_8ac78a93-5715-4285-820b-ab9cab5489hu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Kevin</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">11:31</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left message-section-newFileCard\" data-element=\"message-section-left\" id=\"7626226000690417375\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-content-container\"><div class=\"catch-resize-observer-dom message-content\"><div role=\"text-message\" class=\"MessageActionPermissionWrapper message-text\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"limit-height-container\"><div><div class=\"wrapper\"><div class=\"\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><pre><div dir=\"auto\" class=\"richTextContainer text-align-left\" data-partial-quote-enabled=\"true\"><span class=\"text-only\""
+  },
+  {
+    "ordinal": 21,
+    "messageId": "7626226119146032869",
+    "text": "Kelly\n回复 Kevin: \n用vpn\n@Kevin 我用了，需要用公司的vpn才可以吗？\nKevin",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read message-has-reactions message-comment text-message",
+    "timestampHint": "11:32",
+    "senderCandidates": [
+      "Kelly",
+      "回复 Kevin:"
+    ],
+    "links": [],
+    "top": 251,
+    "height": 144,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00ni_5d883ace-5bca-4dab-945f-4a9265ae6fhu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Kelly</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">11:32</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left is-reply message-section-newFileCard\" data-element=\"message-section-left\" id=\"7626226119146032869\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-header reply-header\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><div class=\"quote_reply_title referencePreviewTitle__wrapper\"><div class=\"referencePreviewTitle__name\"><span>回复 Kevin:&nbsp;</span></div><div class=\"referencePreviewTitle__message\"><span><span class=\"b2dab1bd\"><span class=\"text-only\" data-eleid=\"0\">用vpn</span></span></span></div></div></div><div class=\"message-content-container\"><div class=\"catch-resize-observer-dom message-content\"><div role=\"t"
+  },
+  {
+    "ordinal": 22,
+    "messageId": "7626226420078972639",
+    "text": "Koen\n回复 Kelly: \n@Kevin 我用了，需要用公司的vpn才可以吗？\n用了也不行",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read message-comment post-message",
+    "timestampHint": "11:33",
+    "senderCandidates": [
+      "Koen",
+      "回复 Kelly:"
+    ],
+    "links": [],
+    "top": 395,
+    "height": 440,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00ka_45c43e4b-12d8-4155-b19c-a1963ef2d3hu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Koen</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">11:33</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left is-reply message-section-newFileCard\" data-element=\"message-section-left\" id=\"7626226420078972639\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-header reply-header\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><div class=\"quote_reply_title referencePreviewTitle__wrapper\"><div class=\"referencePreviewTitle__name\"><span>回复 Kelly:&nbsp;</span></div><div class=\"referencePreviewTitle__message\"><span><span class=\"b2dab1bd\"><span class=\"text-only\" data-eleid=\"0\">@Kevin</span><span class=\"text-only\" data-eleid=\"1\"> 我用了，需要用公司的vpn才可以吗？</span></span></span></div></div></div><div data-im-copy-permission-invalid=\"fa"
+  },
+  {
+    "ordinal": 23,
+    "messageId": "7626226526228319963",
+    "text": "Ascen\n不用打开，直接 git clone https://gitlab-1.codetech.pro/wiki/cc-report",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read text-message",
+    "timestampHint": "11:33",
+    "senderCandidates": [
+      "Ascen"
+    ],
+    "links": [
+      "https://gitlab-1.codetech.pro/wiki/cc-report"
+    ],
+    "top": 835,
+    "height": 84,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_00i5_514e630e-8661-49b5-abb1-0c0678560ahu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Ascen</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">11:33</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left message-section-newFileCard\" data-element=\"message-section-left\" id=\"7626226526228319963\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-content-container\"><div class=\"catch-resize-observer-dom message-content\"><div role=\"text-message\" class=\"MessageActionPermissionWrapper message-text\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"limit-height-container\"><div><div class=\"wrapper\"><div class=\"\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><pre><div dir=\"auto\" class=\"richTextContainer text-align-left\" data-partial-quote-enabled=\"true\"><span class=\"text-only\""
+  },
+  {
+    "ordinal": 24,
+    "messageId": "7626228225988529888",
+    "text": "Kevin 邀请 Crads 加入此群，新成员入群可查看所有历史消息",
+    "ariaLabel": "",
+    "className": "js-message-item system-text-background message-not-self message-item-first",
+    "timestampHint": "",
+    "senderCandidates": [
+      "Kevin",
+      "Crads"
+    ],
+    "links": [],
+    "top": 919,
+    "height": 44,
+    "htmlPreview": "<div class=\"system-text\"><div><span class=\"user-name\">Kevin</span> 邀请 <span class=\"user-name\">Crads</span> 加入此群，新成员入群可查看所有历史消息</div></div>"
+  },
+  {
+    "ordinal": 25,
+    "messageId": "7626228464961457887",
+    "text": "Kevin\n回复 Koen: \n用了也不行[图片]\nv2raytun换日本节点试下 @Koen（已编辑）\nKoen",
+    "ariaLabel": "",
+    "className": "js-message-item message-item message-not-self message-item-first message-me-read message-has-reactions message-comment text-message",
+    "timestampHint": "11:41",
+    "senderCandidates": [
+      "Kevin",
+      "回复 Koen:"
+    ],
+    "links": [],
+    "top": 963,
+    "height": 144,
+    "htmlPreview": "<div data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"保密模式已开启，禁止复制、转发消息\" style=\"display: contents;\"><div class=\"message-left\"><div class=\"message-avatar\"><div class=\"cursor-pointer noselect\" data-lock-ui=\"true\"><span class=\"ud__avatar ud__avatar-filled ud__avatar-circle ud__avatar-image larkc-avatar larkw-avatar\" style=\"width: 32px; height: 32px;\"><img class=\"ud__avatar__image\" src=\"https://internal-api-lark-file-sg.larksuite.com/static-resource/v1/v3_009q_8ac78a93-5715-4285-820b-ab9cab5489hu~?image_size=48x48&amp;cut_type=&amp;quality=&amp;format=webp&amp;sticker_format=.webp\" alt=\"\"></span></div></div></div><div class=\"message-right\" style=\"position: relative;\"><div class=\"message-info\" style=\"width: max-content;\"><div class=\"message-info__inner\"><span class=\"message-info-name message-info-name--clickable\" data-lock-ui=\"true\">Kevin</span></div><span class=\"message-timestamp noselect message-layout-time-tip\" data-lock-ui=\"true\" data-disable-copy=\"true\">11:41</span></div><div class=\"message-section\" style=\"position: relative;\"><div class=\"NewMessageContextMenuTrigger MessageContextMenuTrigger MessageContextMenuTrigger--scene-chat message-section-left is-reply message-section-newFileCard\" data-element=\"message-section-left\" id=\"7626228464961457887\" receivepolicystatus=\"allow\" data-message-descendant-bounded=\"true\"><div class=\"MessageActionPermissionWrapper\" data-im-copy-permission-invalid=\"false\" data-im-copy-permission-invalid-toast=\"\"><div class=\"message-header reply-header\" data-message-descendant-index=\"0\" data-message-descendant-block=\"true\"><div class=\"reply-post quote_reply_title referencePreviewTitle__wrapper\"><div class=\"referencePreviewTitle__name\"><span>回复 Koen:&nbsp;</span></div><div class=\"referencePreviewTitle__message\"><span><span class=\"b2dab1bd\"><span class=\"text-only\" data-eleid=\"0\">用了也不行</span><span class=\"text-only\" data-eleid=\"1\">[图片]</span></span></span></div></div></div><div class=\"message-content-container\"><div c"
+  }
+]

@@ -1,0 +1,9 @@
+SHELL=/bin/bash
+PATH=/usr/local/bin:/usr/bin:/bin
+TZ=Asia/Shanghai
+
+# BYDFI 管理日报
+0 8 * * * cd /opt/bydfi-ops-report && bash scripts/start_ops_cycle.sh daily >> output/logs/cron_daily.log 2>&1
+
+# BYDFI 周报
+0 20 * * 0 cd /opt/bydfi-ops-report && bash scripts/start_ops_cycle.sh weekly >> output/logs/cron_weekly.log 2>&1

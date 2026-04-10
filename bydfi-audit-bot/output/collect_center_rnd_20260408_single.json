@@ -1,0 +1,74 @@
+{
+  "registry_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\config\\lark_group_registry.json",
+  "db_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\audit_records.sqlite3",
+  "discover_output": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\lark_discover_latest.json",
+  "resolved_external_collector_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py",
+  "resolved_storage_state_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\data\\playwright\\lark_storage_state.json",
+  "targets": [
+    "中心研发任务"
+  ],
+  "runs": [
+    {
+      "title": "中心研发任务",
+      "hours": 4380,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: c4d86667e49847a69a1cbc6478e8ded5\nChat ID: external_web_268b46e9007e1874\nCurrent chat: 中心研发任务\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 38\nNew messages: 3\nUpdated messages: 35\nFetched documents: 0\nPeople: 14\nReport text path: C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\d9668236b2f5438391c98008160ddca8.md\nReport json path: C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\d9668236b2f5438391c98008160ddca8.json",
+      "stderr": ""
+    }
+  ],
+  "before": {
+    "required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 4,
+    "all_collection_stale_count": 6,
+    "required_collection_stale_titles": [
+      "中心研发任务",
+      "产研周报发送群",
+      "永续研发任务",
+      "血战到底"
+    ],
+    "unregistered_discovered_count": 2,
+    "suspicious_discovered_count": 1
+  },
+  "after": {
+    "required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 4,
+    "all_collection_stale_count": 6,
+    "required_collection_stale_titles": [
+      "三部门效能优化需求",
+      "产研周报发送群",
+      "永续研发任务",
+      "血战到底"
+    ],
+    "unregistered_discovered_count": 2,
+    "suspicious_discovered_count": 1
+  }
+}

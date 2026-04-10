@@ -1,0 +1,21 @@
+﻿# Local excludes
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
+node_modules/
+.vercel/
+__pycache__/
+.pytest_cache/
+*.sqlite3
+*.db
+*.wal
+*.shm
+*.tar.gz
+*.zip
+.playwright-cli/
+tmp_browser_profiles/
+tmp_edge_profile/
+chrome_History_copy
+edge_History_copy
+*.pyc

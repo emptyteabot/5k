@@ -1,0 +1,134 @@
+{
+  "registry_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\config\\lark_group_registry.json",
+  "db_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\audit_records.sqlite3",
+  "discover_output": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\lark_discover_latest.json",
+  "resolved_external_collector_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py",
+  "resolved_storage_state_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\data\\playwright\\lark_storage_state.json",
+  "targets": [
+    "BYDFi·MoonX业务大群",
+    "web3研发任务",
+    "三部门效能优化需求",
+    "中心研发任务",
+    "血战到底",
+    "AI翻译交流",
+    "产研周报发送群",
+    "永续研发任务"
+  ],
+  "runs": [
+    {
+      "title": "BYDFi·MoonX业务大群",
+      "hours": 48,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: 8d56283c870a454896aca66f79a8fb01\nChat ID: external_web_d2fb6467e40966f8\nCurrent chat: BYDFi·MoonX业务大群\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 8\nNew messages: 0\nUpdated messages: 8\nFetched documents: 0",
+      "stderr": ""
+    },
+    {
+      "title": "web3研发任务",
+      "hours": 48,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: 6bb4efa515bd45b88fce1d8edc3bfdc0\nChat ID: external_web_7849c39c5be3c22c\nCurrent chat: web3研发任务\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 22\nNew messages: 0\nUpdated messages: 22\nFetched documents: 0",
+      "stderr": ""
+    },
+    {
+      "title": "三部门效能优化需求",
+      "hours": 48,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: b6b555fc92d946bbb6b0ae260d999496\nChat ID: external_web_36b11b598d95c7ad\nCurrent chat: 三部门效能优化需求\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 4\nNew messages: 0\nUpdated messages: 4\nFetched documents: 0",
+      "stderr": ""
+    },
+    {
+      "title": "中心研发任务",
+      "hours": 48,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: 1d3f8926ad044191a48fa87d383e9e37\nChat ID: external_web_268b46e9007e1874\nCurrent chat: 中心研发任务\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 37\nNew messages: 1\nUpdated messages: 36\nFetched documents: 0",
+      "stderr": ""
+    },
+    {
+      "title": "血战到底",
+      "hours": 48,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: a5387fa40fad43bfaa7bc2ca0aed2fe2\nChat ID: external_web_8f1d770b453adcdf\nCurrent chat: 血战到底\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 2\nNew messages: 0\nUpdated messages: 2\nFetched documents: 0",
+      "stderr": ""
+    },
+    {
+      "title": "AI翻译交流",
+      "hours": 48,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: 3a86b97ed08042e19995404bf6a947ce\nChat ID: external_web_9444faae87ac3647\nCurrent chat: AI翻译交流\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 4\nNew messages: 1\nUpdated messages: 3\nFetched documents: 0",
+      "stderr": ""
+    },
+    {
+      "title": "产研周报发送群",
+      "hours": 48,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: 797adae701d5462c91cf11a28d896858\nChat ID: external_web_725d8280a3bdef9f\nCurrent chat: 产研周报发送群\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 0\nNew messages: 0\nUpdated messages: 0\nFetched documents: 0",
+      "stderr": ""
+    },
+    {
+      "title": "永续研发任务",
+      "hours": 48,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: e416a80bcace4a52a1a1c68865ea9333\nChat ID: external_web_bca8f11f98365cd0\nCurrent chat: 永续研发任务\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 34\nNew messages: 1\nUpdated messages: 33\nFetched documents: 0",
+      "stderr": ""
+    }
+  ],
+  "before": {
+    "required": {
+      "covered": 6,
+      "missing": 0,
+      "stale": 2,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 6,
+      "missing": 0,
+      "stale": 4,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [
+      "产研周报发送群",
+      "永续研发任务"
+    ],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 1,
+    "all_collection_stale_count": 2,
+    "required_collection_stale_titles": [
+      "永续研发任务"
+    ],
+    "unregistered_discovered_count": 1,
+    "suspicious_discovered_count": 1
+  },
+  "after": {
+    "required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 1,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 3,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [
+      "产研周报发送群"
+    ],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 0,
+    "all_collection_stale_count": 1,
+    "required_collection_stale_titles": [],
+    "unregistered_discovered_count": 1,
+    "suspicious_discovered_count": 1
+  }
+}

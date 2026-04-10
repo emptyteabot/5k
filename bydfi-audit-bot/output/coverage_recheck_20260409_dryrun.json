@@ -1,0 +1,82 @@
+{
+  "registry_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\config\\lark_group_registry.json",
+  "db_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\audit_records.sqlite3",
+  "discover_output": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\lark_discover_latest.json",
+  "resolved_external_collector_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py",
+  "resolved_storage_state_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\data\\playwright\\lark_storage_state.json",
+  "targets": [
+    "web3研发任务"
+  ],
+  "runs": [
+    {
+      "title": "web3研发任务",
+      "hours": 4000,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "dry-run",
+      "stderr": ""
+    }
+  ],
+  "before": {
+    "required": {
+      "covered": 7,
+      "missing": 1,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 1,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [
+      "web3研发任务"
+    ],
+    "required_stale_titles": [],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 6,
+    "all_collection_stale_count": 7,
+    "required_collection_stale_titles": [
+      "BYDFi·MoonX业务大群",
+      "三部门效能优化需求",
+      "中心研发任务",
+      "产研周报发送群",
+      "血战到底",
+      "web3研发任务"
+    ],
+    "unregistered_discovered_count": 0,
+    "suspicious_discovered_count": 1
+  },
+  "after": {
+    "required": {
+      "covered": 7,
+      "missing": 1,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 1,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [
+      "web3研发任务"
+    ],
+    "required_stale_titles": [],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 6,
+    "all_collection_stale_count": 7,
+    "required_collection_stale_titles": [
+      "BYDFi·MoonX业务大群",
+      "三部门效能优化需求",
+      "中心研发任务",
+      "产研周报发送群",
+      "血战到底",
+      "web3研发任务"
+    ],
+    "unregistered_discovered_count": 0,
+    "suspicious_discovered_count": 1
+  }
+}

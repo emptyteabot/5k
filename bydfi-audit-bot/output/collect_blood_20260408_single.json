@@ -1,0 +1,68 @@
+{
+  "registry_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\config\\lark_group_registry.json",
+  "db_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\audit_records.sqlite3",
+  "discover_output": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\lark_discover_latest.json",
+  "resolved_external_collector_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py",
+  "resolved_storage_state_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\data\\playwright\\lark_storage_state.json",
+  "targets": [
+    "血战到底"
+  ],
+  "runs": [
+    {
+      "title": "血战到底",
+      "hours": 4380,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: a0f7ea4f4df84acfad353260b45023ff\nChat ID: external_web_8f1d770b453adcdf\nCurrent chat: 血战到底\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 40\nNew messages: 1\nUpdated messages: 39\nFetched documents: 0\nPeople: 19\nReport text path: C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\8f1110ff31b6413fa1aa30c1926c13bf.md\nReport json path: C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\8f1110ff31b6413fa1aa30c1926c13bf.json",
+      "stderr": ""
+    }
+  ],
+  "before": {
+    "required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 1,
+    "all_collection_stale_count": 3,
+    "required_collection_stale_titles": [
+      "永续研发任务"
+    ],
+    "unregistered_discovered_count": 2,
+    "suspicious_discovered_count": 1
+  },
+  "after": {
+    "required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 1,
+    "all_collection_stale_count": 3,
+    "required_collection_stale_titles": [
+      "永续研发任务"
+    ],
+    "unregistered_discovered_count": 2,
+    "suspicious_discovered_count": 1
+  }
+}

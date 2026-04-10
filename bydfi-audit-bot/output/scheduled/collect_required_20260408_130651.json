@@ -1,0 +1,118 @@
+{
+  "registry_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\config\\lark_group_registry.json",
+  "db_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\audit_records.sqlite3",
+  "discover_output": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\lark_discover_latest.json",
+  "resolved_external_collector_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py",
+  "resolved_storage_state_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\data\\playwright\\lark_storage_state.json",
+  "targets": [
+    "BYDFi·MoonX业务大群",
+    "三部门效能优化需求",
+    "中心研发任务",
+    "产研周报发送群",
+    "永续研发任务",
+    "血战到底",
+    "AI翻译交流"
+  ],
+  "runs": [
+    {
+      "title": "BYDFi·MoonX业务大群",
+      "hours": 48,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: b330b92f32374be3a3a34e95709bb561\nChat ID: external_web_d2fb6467e40966f8\nCurrent chat: BYDFi·MoonX业务大群\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 12\nNew messages: 0\nUpdated messages: 12\nFetched documents: 0",
+      "stderr": ""
+    },
+    {
+      "title": "三部门效能优化需求",
+      "hours": 48,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: d68853220cf8451aafc86a087703eccd\nChat ID: external_web_36b11b598d95c7ad\nCurrent chat: 三部门效能优化需求\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 0\nNew messages: 0\nUpdated messages: 0\nFetched documents: 0",
+      "stderr": ""
+    },
+    {
+      "title": "中心研发任务",
+      "hours": 48,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: a81616581e7f48f8bc38f361fc9cd4c1\nChat ID: external_web_268b46e9007e1874\nCurrent chat: 中心研发任务\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 38\nNew messages: 0\nUpdated messages: 38\nFetched documents: 0",
+      "stderr": ""
+    },
+    {
+      "title": "产研周报发送群",
+      "hours": 48,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: 8fe115b8823543babd8bb8ceaf9c84ec\nChat ID: external_web_725d8280a3bdef9f\nCurrent chat: 产研周报发送群\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 2\nNew messages: 0\nUpdated messages: 2\nFetched documents: 0",
+      "stderr": ""
+    },
+    {
+      "title": "永续研发任务",
+      "hours": 48,
+      "ok": false,
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1970, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1931, in main\n    payload = collect_group_reports(\n              ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1553, in collect_group_reports\n    current_url, current_chat_name = _open_target_chat(\n                                     ^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1510, in _open_target_chat\n    raise RuntimeError(f\"没有在 messenger 中找到群：{group_name}\")\nRuntimeError: 没有在 messenger 中找到群：永续研发任务"
+    },
+    {
+      "title": "血战到底",
+      "hours": 48,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: a23c19aaf763484db40c7e75de5fe366\nChat ID: external_web_8f1d770b453adcdf\nCurrent chat: 血战到底\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 0\nNew messages: 0\nUpdated messages: 0\nFetched documents: 0",
+      "stderr": ""
+    },
+    {
+      "title": "AI翻译交流",
+      "hours": 48,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: b2a9c34b3bbd45e59d59da84c1702a42\nChat ID: external_web_9444faae87ac3647\nCurrent chat: AI翻译交流\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 1\nNew messages: 0\nUpdated messages: 1\nFetched documents: 0",
+      "stderr": ""
+    }
+  ],
+  "before": {
+    "required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 0,
+    "all_collection_stale_count": 0,
+    "required_collection_stale_titles": [],
+    "unregistered_discovered_count": 2,
+    "suspicious_discovered_count": 1
+  },
+  "after": {
+    "required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 0,
+    "all_collection_stale_count": 0,
+    "required_collection_stale_titles": [],
+    "unregistered_discovered_count": 2,
+    "suspicious_discovered_count": 1
+  }
+}

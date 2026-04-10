@@ -1,0 +1,841 @@
+{
+  "generated_at": "2026-04-09T20:21:01.252583+08:00",
+  "period": "daily",
+  "period_label": "今日",
+  "one_liner": "今日采集链路还没闭环，先补齐必管群覆盖，再看管理判断。",
+  "db_stats": {
+    "audit_records_count": 2244,
+    "source_documents_count": 113,
+    "collection_runs_count": 211,
+    "latest_message_timestamp": "2026-04-09T12:18:46.350974+00:00",
+    "latest_document_fetch": "2026-04-09T07:57:02.038522+00:00",
+    "collection_status": {
+      "completed": 203,
+      "failed": 6,
+      "running": 2
+    }
+  },
+  "coverage": {
+    "generated_at": "2026-04-09T12:21:00.781738+00:00",
+    "db_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\audit_records.sqlite3",
+    "stale_hours": 48,
+    "collection_fresh_hours": 4,
+    "registry_count": 10,
+    "discover_selected_count": 12,
+    "summary": {
+      "required": {
+        "covered": 7,
+        "missing": 0,
+        "stale": 1,
+        "unverified": 0
+      },
+      "all": {
+        "covered": 7,
+        "missing": 0,
+        "stale": 3,
+        "unverified": 0
+      },
+      "required_missing_titles": [],
+      "required_stale_titles": [
+        "产研周报发送群"
+      ],
+      "required_unverified_titles": [],
+      "required_collection_stale_count": 0,
+      "all_collection_stale_count": 1,
+      "required_collection_stale_titles": [],
+      "unregistered_discovered_count": 1,
+      "suspicious_discovered_count": 1
+    },
+    "unregistered_discovered": [
+      {
+        "title": "BYDFi & Codeforce 全面合作群",
+        "badge": "外部",
+        "time_hint": "17:51",
+        "preview_text": ""
+      }
+    ],
+    "suspicious_discovered": [
+      {
+        "title": "Yohan: 大家好，过去四十八小时，按 4/1 会议结论我来同步当前目前进展： 历史翻译遗留问题拟按 P0/P1 分层推进，当前优先 P0（主要是一些专业术语、footer、法律页术语）。 核心交易词（如 Price/Buy），未确认前还不进入大模型。 内容团队给出的筛出的 3500+ 缺口清单，Claude自动化补齐脚本我已就绪。 当前有一些卡点仍是 口径确认，我按会议分工确认，辛苦负责的小伙伴明天查阅： @Stone 辛苦请看 2.xlsx（核心冲突词确认清单），逐个确认 Approved 或最终翻译。 @Christina 辛苦请看 1.xlsx，确认小语种 UI 长度与场景约束，该建议翻译结果是否可行。 至于法务部门 法律词条目前保持待定，待明确结论后推进。 收到确定后，我会推进用Claude全量核对未翻译词条，并在群内持续同步进度~",
+        "badge": "",
+        "time_hint": "4月2日",
+        "preview_text": "Yohan: 没问题节后来 @Stone"
+      }
+    ],
+    "groups": [
+      {
+        "title": "BYDFi·MoonX业务大群",
+        "aliases": [
+          "BYDFI·MoonX业务大群"
+        ],
+        "category": "经营主群",
+        "required": true,
+        "priority": "p0",
+        "notes": "业务主线群，直接决定高层判断基准。",
+        "status": "covered",
+        "discover_seen": true,
+        "discover_time_hint": "昨天",
+        "discover_recent_activity": false,
+        "message_count": 196,
+        "chat_ids": [
+          "external_web_d2fb6467e40966f8"
+        ],
+        "oldest_message_timestamp": "2026-01-09T11:30:00+00:00",
+        "latest_message_timestamp": "2026-04-09T09:40:00+00:00",
+        "latest_age_hours": 2.7,
+        "last_collection_finished_at": "2026-04-09T12:14:23.029029+00:00",
+        "last_collection_age_hours": 0.1,
+        "collection_fresh": true,
+        "last_collection_run": {
+          "run_id": "8d56283c870a454896aca66f79a8fb01",
+          "chat_id": "external_web_d2fb6467e40966f8",
+          "started_at": "2026-04-09T12:14:19.327077+00:00",
+          "finished_at": "2026-04-09T12:14:23.029029+00:00",
+          "status": "completed",
+          "error_message": ""
+        }
+      },
+      {
+        "title": "web3研发任务",
+        "aliases": [],
+        "category": "研发任务",
+        "required": true,
+        "priority": "p0",
+        "notes": "新增研发任务群，直接影响跨链与新业务线交付节奏。",
+        "status": "covered",
+        "discover_seen": true,
+        "discover_time_hint": "4月7日",
+        "discover_recent_activity": false,
+        "message_count": 22,
+        "chat_ids": [
+          "external_web_7849c39c5be3c22c"
+        ],
+        "oldest_message_timestamp": "2026-04-09T12:14:27.289237+00:00",
+        "latest_message_timestamp": "2026-04-09T12:14:27.289237+00:00",
+        "latest_age_hours": 0.1,
+        "last_collection_finished_at": "2026-04-09T12:15:22.404387+00:00",
+        "last_collection_age_hours": 0.1,
+        "collection_fresh": true,
+        "last_collection_run": {
+          "run_id": "6bb4efa515bd45b88fce1d8edc3bfdc0",
+          "chat_id": "external_web_7849c39c5be3c22c",
+          "started_at": "2026-04-09T12:14:58.198432+00:00",
+          "finished_at": "2026-04-09T12:15:22.404387+00:00",
+          "status": "completed",
+          "error_message": ""
+        }
+      },
+      {
+        "title": "三部门效能优化需求",
+        "aliases": [],
+        "category": "效能需求",
+        "required": true,
+        "priority": "p0",
+        "notes": "跨产品、研发、测试的效能问题汇总群。",
+        "status": "covered",
+        "discover_seen": true,
+        "discover_time_hint": "昨天",
+        "discover_recent_activity": false,
+        "message_count": 319,
+        "chat_ids": [
+          "external_web_36b11b598d95c7ad"
+        ],
+        "oldest_message_timestamp": "2026-01-05T04:21:00+00:00",
+        "latest_message_timestamp": "2026-04-09T07:48:00+00:00",
+        "latest_age_hours": 4.6,
+        "last_collection_finished_at": "2026-04-09T12:16:01.603405+00:00",
+        "last_collection_age_hours": 0.1,
+        "collection_fresh": true,
+        "last_collection_run": {
+          "run_id": "b6b555fc92d946bbb6b0ae260d999496",
+          "chat_id": "external_web_36b11b598d95c7ad",
+          "started_at": "2026-04-09T12:15:52.645030+00:00",
+          "finished_at": "2026-04-09T12:16:01.603405+00:00",
+          "status": "completed",
+          "error_message": ""
+        }
+      },
+      {
+        "title": "中心研发任务",
+        "aliases": [],
+        "category": "研发任务",
+        "required": true,
+        "priority": "p0",
+        "notes": "新增研发任务群，必须纳管并补采历史消息。",
+        "status": "covered",
+        "discover_seen": true,
+        "discover_time_hint": "20:00",
+        "discover_recent_activity": true,
+        "message_count": 43,
+        "chat_ids": [
+          "external_web_268b46e9007e1874"
+        ],
+        "oldest_message_timestamp": "2026-04-08T05:08:00.069939+00:00",
+        "latest_message_timestamp": "2026-04-09T12:16:03.539094+00:00",
+        "latest_age_hours": 0.1,
+        "last_collection_finished_at": "2026-04-09T12:16:54.287641+00:00",
+        "last_collection_age_hours": 0.1,
+        "collection_fresh": true,
+        "last_collection_run": {
+          "run_id": "1d3f8926ad044191a48fa87d383e9e37",
+          "chat_id": "external_web_268b46e9007e1874",
+          "started_at": "2026-04-09T12:16:32.603359+00:00",
+          "finished_at": "2026-04-09T12:16:54.287641+00:00",
+          "status": "completed",
+          "error_message": ""
+        }
+      },
+      {
+        "title": "永续研发任务",
+        "aliases": [],
+        "category": "研发任务",
+        "required": true,
+        "priority": "p0",
+        "notes": "核心版本任务线，直接影响版本推进和上线风险。",
+        "status": "covered",
+        "discover_seen": true,
+        "discover_time_hint": "18:24",
+        "discover_recent_activity": true,
+        "message_count": 40,
+        "chat_ids": [
+          "external_web_bca8f11f98365cd0"
+        ],
+        "oldest_message_timestamp": "2026-04-06T19:27:41.342794+00:00",
+        "latest_message_timestamp": "2026-04-09T12:18:46.350974+00:00",
+        "latest_age_hours": 0.0,
+        "last_collection_finished_at": "2026-04-09T12:19:43.481126+00:00",
+        "last_collection_age_hours": 0.0,
+        "collection_fresh": true,
+        "last_collection_run": {
+          "run_id": "e416a80bcace4a52a1a1c68865ea9333",
+          "chat_id": "external_web_bca8f11f98365cd0",
+          "started_at": "2026-04-09T12:19:20.826175+00:00",
+          "finished_at": "2026-04-09T12:19:43.481126+00:00",
+          "status": "completed",
+          "error_message": ""
+        }
+      },
+      {
+        "title": "血战到底",
+        "aliases": [],
+        "category": "会议与经营",
+        "required": true,
+        "priority": "p0",
+        "notes": "关键会议结论和临时决策经常集中在这里。",
+        "status": "covered",
+        "discover_seen": true,
+        "discover_time_hint": "00:29",
+        "discover_recent_activity": false,
+        "message_count": 93,
+        "chat_ids": [
+          "external_web_8f1d770b453adcdf"
+        ],
+        "oldest_message_timestamp": "2026-01-05T15:20:00+00:00",
+        "latest_message_timestamp": "2026-04-08T16:29:00+00:00",
+        "latest_age_hours": 19.9,
+        "last_collection_finished_at": "2026-04-09T12:17:28.148208+00:00",
+        "last_collection_age_hours": 0.1,
+        "collection_fresh": true,
+        "last_collection_run": {
+          "run_id": "a5387fa40fad43bfaa7bc2ca0aed2fe2",
+          "chat_id": "external_web_8f1d770b453adcdf",
+          "started_at": "2026-04-09T12:17:25.595203+00:00",
+          "finished_at": "2026-04-09T12:17:28.148208+00:00",
+          "status": "completed",
+          "error_message": ""
+        }
+      },
+      {
+        "title": "AI翻译交流",
+        "aliases": [],
+        "category": "翻译项目",
+        "required": true,
+        "priority": "p1",
+        "notes": "Kater 相关翻译推进线，和表格任务串联有关。",
+        "status": "covered",
+        "discover_seen": true,
+        "discover_time_hint": "16:03",
+        "discover_recent_activity": false,
+        "message_count": 35,
+        "chat_ids": [
+          "external_web_9444faae87ac3647",
+          "external_web_ai_translation"
+        ],
+        "oldest_message_timestamp": "2026-04-01T01:57:00+00:00",
+        "latest_message_timestamp": "2026-04-09T12:17:29.971810+00:00",
+        "latest_age_hours": 0.1,
+        "last_collection_finished_at": "2026-04-09T12:18:08.039851+00:00",
+        "last_collection_age_hours": 0.0,
+        "collection_fresh": true,
+        "last_collection_run": {
+          "run_id": "3a86b97ed08042e19995404bf6a947ce",
+          "chat_id": "external_web_9444faae87ac3647",
+          "started_at": "2026-04-09T12:17:59.431150+00:00",
+          "finished_at": "2026-04-09T12:18:08.039851+00:00",
+          "status": "completed",
+          "error_message": ""
+        }
+      },
+      {
+        "title": "产研周报发送群",
+        "aliases": [],
+        "category": "周报汇总",
+        "required": true,
+        "priority": "p0",
+        "notes": "跨角色周报聚合入口，管理判断优先级高。",
+        "status": "stale",
+        "discover_seen": true,
+        "discover_time_hint": "昨天",
+        "discover_recent_activity": false,
+        "message_count": 206,
+        "chat_ids": [
+          "external_web_725d8280a3bdef9f"
+        ],
+        "oldest_message_timestamp": "2026-03-06T11:20:00+00:00",
+        "latest_message_timestamp": "2026-04-06T19:07:14.707198+00:00",
+        "latest_age_hours": 65.2,
+        "last_collection_finished_at": "2026-04-09T12:18:44.594035+00:00",
+        "last_collection_age_hours": 0.0,
+        "collection_fresh": true,
+        "last_collection_run": {
+          "run_id": "797adae701d5462c91cf11a28d896858",
+          "chat_id": "external_web_725d8280a3bdef9f",
+          "started_at": "2026-04-09T12:18:42.136675+00:00",
+          "finished_at": "2026-04-09T12:18:44.594035+00:00",
+          "status": "completed",
+          "error_message": ""
+        }
+      },
+      {
+        "title": "AI Reforge Hackathon竞赛",
+        "aliases": [],
+        "category": "AI 探索",
+        "required": false,
+        "priority": "p2",
+        "notes": "探索性项目，默认纳入发现但不强制纳入 CEO 每日报告。",
+        "status": "stale",
+        "discover_seen": true,
+        "discover_time_hint": "17:50",
+        "discover_recent_activity": true,
+        "message_count": 46,
+        "chat_ids": [
+          "external_web_a366b3838b034a3b"
+        ],
+        "oldest_message_timestamp": "2026-03-30T02:42:00+00:00",
+        "latest_message_timestamp": "2026-04-06T19:22:24.578468+00:00",
+        "latest_age_hours": 65.0,
+        "last_collection_finished_at": "2026-04-06T19:23:19.764580+00:00",
+        "last_collection_age_hours": 65.0,
+        "collection_fresh": false,
+        "last_collection_run": {
+          "run_id": "ac76f3e719b7488db0a9a2438d0e5975",
+          "chat_id": "external_web_a366b3838b034a3b",
+          "started_at": "2026-04-06T19:22:51.917770+00:00",
+          "finished_at": "2026-04-06T19:23:19.764580+00:00",
+          "status": "completed",
+          "error_message": ""
+        }
+      },
+      {
+        "title": "测试",
+        "aliases": [],
+        "category": "测试",
+        "required": false,
+        "priority": "p2",
+        "notes": "群名过短，后续需要结合人工确认避免误匹配。",
+        "status": "stale",
+        "discover_seen": true,
+        "discover_time_hint": "3月23日",
+        "discover_recent_activity": false,
+        "message_count": 19,
+        "chat_ids": [
+          "external_web_6aa8f49cc992dfd7"
+        ],
+        "oldest_message_timestamp": "2026-03-20T10:08:00+00:00",
+        "latest_message_timestamp": "2026-04-06T19:27:41.358848+00:00",
+        "latest_age_hours": 64.9,
+        "last_collection_finished_at": "2026-04-06T19:28:41.244229+00:00",
+        "last_collection_age_hours": 64.9,
+        "collection_fresh": true,
+        "last_collection_run": {
+          "run_id": "4f7c230b710b400386f613e57fa2352b",
+          "chat_id": "external_web_6aa8f49cc992dfd7",
+          "started_at": "2026-04-06T19:28:16.474274+00:00",
+          "finished_at": "2026-04-06T19:28:41.244229+00:00",
+          "status": "completed",
+          "error_message": ""
+        }
+      }
+    ],
+    "registry_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\config\\lark_group_registry.json",
+    "discover_output": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\lark_discover_latest.json",
+    "resolved_external_collector_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py",
+    "resolved_storage_state_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\data\\playwright\\lark_storage_state.json"
+  },
+  "automation_actions": [
+    {
+      "step": "coverage_audit",
+      "ok": true,
+      "returncode": 0,
+      "stdout": "{\n  \"generated_at\": \"2026-04-09T12:21:00.781738+00:00\",\n  \"db_path\": \"C:\\\\Users\\\\cyh\\\\Desktop\\\\交易所实习\\\\bydfi-audit-bot\\\\data\\\\audit_records.sqlite3\",\n  \"stale_hours\": 48,\n  \"collection_fresh_hours\": 4,\n  \"registry_count\": 10,\n  \"discover_selected_count\": 12,\n  \"summary\": {\n    \"required\": {\n      \"covered\": 7,\n      \"missing\": 0,\n      \"stale\": 1,\n      \"unverified\": 0\n    },\n    \"all\": {\n      \"covered\": 7,\n      \"missing\": 0,\n      \"stale\": 3,\n      \"unverified\": 0\n    },\n    \"required_missing_",
+      "stderr": ""
+    }
+  ],
+  "automation_errors": [],
+  "focus_groups": [
+    {
+      "group_title": "产研周报发送群",
+      "chat_id": "external_web_725d8280a3bdef9f",
+      "file": "97805b196e3f4a51b3dbe724b61449a5.json",
+      "latest_time": "2026-04-08T04:47:02.759520+00:00",
+      "people_count": 52,
+      "report_count": 206,
+      "document_count": 0,
+      "recent_event_count": 0,
+      "recent_titles": [],
+      "risk_stats": {
+        "delivered": 440,
+        "testing": 166,
+        "review": 29,
+        "developing": 71,
+        "blocked": 15
+      },
+      "activity_score": 385.8,
+      "delay_score": 228.8,
+      "reason": "阻塞项偏多"
+    },
+    {
+      "group_title": "产研周报发送群",
+      "chat_id": "external_web_725d8280a3bdef9f",
+      "file": "01cd592c89c4466d91224b1585a523f5.json",
+      "latest_time": "2026-04-06T19:07:14.707198+00:00",
+      "people_count": 52,
+      "report_count": 204,
+      "document_count": 0,
+      "recent_event_count": 0,
+      "recent_titles": [],
+      "risk_stats": {
+        "delivered": 440,
+        "testing": 166,
+        "review": 29,
+        "developing": 71,
+        "blocked": 15
+      },
+      "activity_score": 384.7,
+      "delay_score": 228.8,
+      "reason": "阻塞项偏多；最近更新偏旧"
+    },
+    {
+      "group_title": "BYDFi·MoonX业务大群",
+      "chat_id": "external_web_d2fb6467e40966f8",
+      "file": "ae7b7e49059f4b8892bde217885092d8.json",
+      "latest_time": "2026-04-08T04:42:09.454504+00:00",
+      "people_count": 25,
+      "report_count": 194,
+      "document_count": 0,
+      "recent_event_count": 6,
+      "recent_titles": [],
+      "risk_stats": {
+        "delivered": 123,
+        "testing": 110,
+        "review": 1,
+        "developing": 55,
+        "blocked": 22
+      },
+      "activity_score": 207.4,
+      "delay_score": 244.2,
+      "reason": "阻塞项偏多；开发/测试堆积高于已交付"
+    },
+    {
+      "group_title": "BYDFi·MoonX业务大群",
+      "chat_id": "external_web_d2fb6467e40966f8",
+      "file": "7b791991e49745a19c50f1bc04072c7f.json",
+      "latest_time": "2026-04-06T18:58:52.901615+00:00",
+      "people_count": 24,
+      "report_count": 181,
+      "document_count": 0,
+      "recent_event_count": 0,
+      "recent_titles": [],
+      "risk_stats": {
+        "delivered": 113,
+        "testing": 109,
+        "review": 1,
+        "developing": 52,
+        "blocked": 22
+      },
+      "activity_score": 187.4,
+      "delay_score": 240.4,
+      "reason": "阻塞项偏多；开发/测试堆积高于已交付；最近更新偏旧"
+    },
+    {
+      "group_title": "产研周报发送群",
+      "chat_id": "external_web_725d8280a3bdef9f",
+      "file": "103c3d3d763c4791882121dfe532e264.json",
+      "latest_time": "2026-04-09T04:32:15.296493+00:00",
+      "people_count": 46,
+      "report_count": 46,
+      "document_count": 0,
+      "recent_event_count": 0,
+      "recent_titles": [],
+      "risk_stats": {
+        "delivered": 118,
+        "testing": 30,
+        "review": 4,
+        "developing": 19,
+        "blocked": 4
+      },
+      "activity_score": 91.8,
+      "delay_score": 46.7,
+      "reason": "阻塞项偏多"
+    }
+  ],
+  "delay_risk_groups": [
+    {
+      "group_title": "BYDFi·MoonX业务大群",
+      "chat_id": "external_web_d2fb6467e40966f8",
+      "file": "ae7b7e49059f4b8892bde217885092d8.json",
+      "latest_time": "2026-04-08T04:42:09.454504+00:00",
+      "people_count": 25,
+      "report_count": 194,
+      "document_count": 0,
+      "recent_event_count": 6,
+      "recent_titles": [],
+      "risk_stats": {
+        "delivered": 123,
+        "testing": 110,
+        "review": 1,
+        "developing": 55,
+        "blocked": 22
+      },
+      "activity_score": 207.4,
+      "delay_score": 244.2,
+      "reason": "阻塞项偏多；开发/测试堆积高于已交付"
+    },
+    {
+      "group_title": "BYDFi·MoonX业务大群",
+      "chat_id": "external_web_d2fb6467e40966f8",
+      "file": "7b791991e49745a19c50f1bc04072c7f.json",
+      "latest_time": "2026-04-06T18:58:52.901615+00:00",
+      "people_count": 24,
+      "report_count": 181,
+      "document_count": 0,
+      "recent_event_count": 0,
+      "recent_titles": [],
+      "risk_stats": {
+        "delivered": 113,
+        "testing": 109,
+        "review": 1,
+        "developing": 52,
+        "blocked": 22
+      },
+      "activity_score": 187.4,
+      "delay_score": 240.4,
+      "reason": "阻塞项偏多；开发/测试堆积高于已交付；最近更新偏旧"
+    },
+    {
+      "group_title": "产研周报发送群",
+      "chat_id": "external_web_725d8280a3bdef9f",
+      "file": "01cd592c89c4466d91224b1585a523f5.json",
+      "latest_time": "2026-04-06T19:07:14.707198+00:00",
+      "people_count": 52,
+      "report_count": 204,
+      "document_count": 0,
+      "recent_event_count": 0,
+      "recent_titles": [],
+      "risk_stats": {
+        "delivered": 440,
+        "testing": 166,
+        "review": 29,
+        "developing": 71,
+        "blocked": 15
+      },
+      "activity_score": 384.7,
+      "delay_score": 228.8,
+      "reason": "阻塞项偏多；最近更新偏旧"
+    },
+    {
+      "group_title": "产研周报发送群",
+      "chat_id": "external_web_725d8280a3bdef9f",
+      "file": "97805b196e3f4a51b3dbe724b61449a5.json",
+      "latest_time": "2026-04-08T04:47:02.759520+00:00",
+      "people_count": 52,
+      "report_count": 206,
+      "document_count": 0,
+      "recent_event_count": 0,
+      "recent_titles": [],
+      "risk_stats": {
+        "delivered": 440,
+        "testing": 166,
+        "review": 29,
+        "developing": 71,
+        "blocked": 15
+      },
+      "activity_score": 385.8,
+      "delay_score": 228.8,
+      "reason": "阻塞项偏多"
+    },
+    {
+      "group_title": "血战到底",
+      "chat_id": "external_web_8f1d770b453adcdf",
+      "file": "8f1110ff31b6413fa1aa30c1926c13bf.json",
+      "latest_time": "2026-04-08T04:54:02.869049+00:00",
+      "people_count": 19,
+      "report_count": 91,
+      "document_count": 17,
+      "recent_event_count": 1,
+      "recent_titles": [],
+      "risk_stats": {
+        "delivered": 39,
+        "testing": 21,
+        "review": 4,
+        "developing": 13,
+        "blocked": 40
+      },
+      "activity_score": 47.5,
+      "delay_score": 154.7,
+      "reason": "阻塞项偏多"
+    }
+  ],
+  "top_output_people": [
+    {
+      "name": "Kater",
+      "report_count": 290,
+      "document_count": 0,
+      "delivered": 10,
+      "testing": 4,
+      "developing": 2,
+      "blocked": 8,
+      "group_count": 6,
+      "groups": [
+        "AI翻译交流",
+        "BYDFi & Codeforce 全面合作群",
+        "BYDFi·MoonX业务大群",
+        "三部门效能优化需求",
+        "产研周报发送群",
+        "血战到底"
+      ],
+      "latest_time": "2026-04-08T15:48:00+08:00",
+      "output_score": 225.6,
+      "attention_score": 18.9,
+      "reason": "交付回执较多；跨线串联较多；阻塞项偏多"
+    },
+    {
+      "name": "Owen",
+      "report_count": 15,
+      "document_count": 0,
+      "delivered": 103,
+      "testing": 0,
+      "developing": 15,
+      "blocked": 0,
+      "group_count": 2,
+      "groups": [
+        "BYDFi·MoonX业务大群",
+        "web3研发任务"
+      ],
+      "latest_time": "2026-04-09T00:44:54.414196+08:00",
+      "output_score": 219.9,
+      "attention_score": -6.2,
+      "reason": "交付回执较多；跨线串联较多"
+    },
+    {
+      "name": "Jenny",
+      "report_count": 73,
+      "document_count": 30,
+      "delivered": 42,
+      "testing": 21,
+      "developing": 10,
+      "blocked": 49,
+      "group_count": 1,
+      "groups": [
+        "血战到底"
+      ],
+      "latest_time": "2026-04-09T00:29:00+08:00",
+      "output_score": 167.8,
+      "attention_score": 115.2,
+      "reason": "交付回执较多；阻塞项偏多"
+    },
+    {
+      "name": "Shirley",
+      "report_count": 7,
+      "document_count": 0,
+      "delivered": 70,
+      "testing": 0,
+      "developing": 0,
+      "blocked": 0,
+      "group_count": 1,
+      "groups": [
+        "产研周报发送群"
+      ],
+      "latest_time": "2026-04-04T11:04:00+08:00",
+      "output_score": 145.5,
+      "attention_score": -17.5,
+      "reason": "交付回执较多"
+    },
+    {
+      "name": "Iven",
+      "report_count": 10,
+      "document_count": 0,
+      "delivered": 58,
+      "testing": 0,
+      "developing": 0,
+      "blocked": 0,
+      "group_count": 1,
+      "groups": [
+        "产研周报发送群"
+      ],
+      "latest_time": "2026-04-07T03:07:14.707198+08:00",
+      "output_score": 123.9,
+      "attention_score": -14.5,
+      "reason": "交付回执较多"
+    }
+  ],
+  "attention_people": [
+    {
+      "name": "Chuang",
+      "report_count": 32,
+      "document_count": 0,
+      "delivered": 0,
+      "testing": 42,
+      "developing": 54,
+      "blocked": 20,
+      "group_count": 2,
+      "groups": [
+        "中心研发任务",
+        "产研周报发送群"
+      ],
+      "latest_time": "2026-04-09T15:55:24.783617+08:00",
+      "output_score": 39.4,
+      "attention_score": 139.6,
+      "reason": "跨线串联较多；阻塞项偏多；在研/测试堆积偏高"
+    },
+    {
+      "name": "Teemo",
+      "report_count": 29,
+      "document_count": 0,
+      "delivered": 30,
+      "testing": 74,
+      "developing": 64,
+      "blocked": 6,
+      "group_count": 1,
+      "groups": [
+        "BYDFi·MoonX业务大群"
+      ],
+      "latest_time": "2026-04-08T11:02:00+08:00",
+      "output_score": 117.1,
+      "attention_score": 139.5,
+      "reason": "交付回执较多；阻塞项偏多；在研/测试堆积偏高"
+    },
+    {
+      "name": "Jenny",
+      "report_count": 73,
+      "document_count": 30,
+      "delivered": 42,
+      "testing": 21,
+      "developing": 10,
+      "blocked": 49,
+      "group_count": 1,
+      "groups": [
+        "血战到底"
+      ],
+      "latest_time": "2026-04-09T00:29:00+08:00",
+      "output_score": 167.8,
+      "attention_score": 115.2,
+      "reason": "交付回执较多；阻塞项偏多"
+    },
+    {
+      "name": "Jung",
+      "report_count": 32,
+      "document_count": 0,
+      "delivered": 8,
+      "testing": 27,
+      "developing": 29,
+      "blocked": 25,
+      "group_count": 2,
+      "groups": [
+        "中心研发任务",
+        "产研周报发送群"
+      ],
+      "latest_time": "2026-04-09T15:55:24.783617+08:00",
+      "output_score": 45.9,
+      "attention_score": 104.6,
+      "reason": "交付回执较多；跨线串联较多；阻塞项偏多"
+    },
+    {
+      "name": "Miya",
+      "report_count": 31,
+      "document_count": 0,
+      "delivered": 17,
+      "testing": 65,
+      "developing": 17,
+      "blocked": 0,
+      "group_count": 3,
+      "groups": [
+        "BYDFi & Codeforce 全面合作群",
+        "中心研发任务",
+        "产研周报发送群"
+      ],
+      "latest_time": "2026-04-09T15:55:24.783617+08:00",
+      "output_score": 92.8,
+      "attention_score": 63.3,
+      "reason": "交付回执较多；跨线串联较多；在研/测试堆积偏高"
+    }
+  ],
+  "report_files_used": [
+    "01cd592c89c4466d91224b1585a523f5.json",
+    "0c776a12a4be4e6aba711fe1078f09f7.json",
+    "103c3d3d763c4791882121dfe532e264.json",
+    "1664a3980e5c4c92a97de01e03ed91ab.json",
+    "25b7995ee72b4872b3f96e1c29bdf679.json",
+    "3ebbb020762443e5ab2664eb6fb025cf.json",
+    "474ecac653da4504b326c030470f3947.json",
+    "51246c430b3f4b188370aa4a050c851d.json",
+    "530ad629848c4ced83c99e832e171cdc.json",
+    "6feb69cd7420401ba3a0dc119bec7399.json",
+    "7b791991e49745a19c50f1bc04072c7f.json",
+    "80933fd8e0cf4009992ba4e3d817ae69.json",
+    "84a83c6f26ea4c32bc5c1c0730addecd.json",
+    "8f1110ff31b6413fa1aa30c1926c13bf.json",
+    "90ffbd817ca545e4aa2267bec2442ec1.json",
+    "97805b196e3f4a51b3dbe724b61449a5.json",
+    "a568997cbed84b5a91279cbb715a20f2.json",
+    "a6171cffaa054629a1ffb81fcca681a3.json",
+    "ae7b7e49059f4b8892bde217885092d8.json",
+    "caf0a2c2b6924eb1b9cb2184837f62f4.json",
+    "cdcd47d056134479a39ea44c29b1590b.json",
+    "d9668236b2f5438391c98008160ddca8.json",
+    "db0bdf85bb5f4006944bf5adca16e819.json",
+    "dd611d12ba8643a98d38ea2c15f3b510.json"
+  ],
+  "ceo_assets": {
+    "md_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\ceo_brief_final_send.md",
+    "pdf_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\ceo_brief_20260408.pdf"
+  },
+  "publish_guard": {
+    "period": "daily",
+    "publishable": false,
+    "review_deliverable": false,
+    "guard_status": "blocked",
+    "checks": {
+      "run_discover": false,
+      "discover_selected_count": 12,
+      "required_missing": 0,
+      "required_stale": 1,
+      "required_unverified": 0,
+      "required_collection_stale_count": 0,
+      "manual_ceo_source_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\ceo_brief_final_send.md",
+      "manual_ceo_same_day": false
+    },
+    "hard_reasons": [
+      "必管群仍存在 missing / stale / unverified，不能对外发送。"
+    ],
+    "review_notes": [
+      "本次日常运行沿用了最近一次 discover 结果，适合先发给你审阅，不建议直接当作最终对外版。",
+      "不存在同日人工校准 CEO 源稿，本次自动发送仅供你审阅，不建议直接转发 CEO。"
+    ],
+    "reasons": [
+      "必管群仍存在 missing / stale / unverified，不能对外发送。",
+      "本次日常运行沿用了最近一次 discover 结果，适合先发给你审阅，不建议直接当作最终对外版。",
+      "不存在同日人工校准 CEO 源稿，本次自动发送仅供你审阅，不建议直接转发 CEO。"
+    ]
+  }
+}

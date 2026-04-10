@@ -1,0 +1,3800 @@
+{
+  "title": "日周报分析助手：群汇总分析（19人）",
+  "chatId": "external_web_8f1d770b453adcdf",
+  "startAt": "2025-10-08T19:10:40.888802+00:00",
+  "endAt": "2026-04-06T19:10:40.888802+00:00",
+  "peopleCount": 19,
+  "reportCount": 90,
+  "documentCount": 17,
+  "sourceDistribution": [
+    {
+      "key": "external_document_message",
+      "label": "文档全文",
+      "value": 33,
+      "color": "#00f5c4"
+    },
+    {
+      "key": "external_text_message",
+      "label": "文字汇报",
+      "value": 57,
+      "color": "#7cff5f"
+    }
+  ],
+  "riskStats": {
+    "delivered": 39,
+    "testing": 21,
+    "review": 4,
+    "developing": 13,
+    "blocked": 40
+  },
+  "dailyActivity": [
+    {
+      "day": "01-05",
+      "value": 1
+    },
+    {
+      "day": "01-06",
+      "value": 3
+    },
+    {
+      "day": "01-07",
+      "value": 1
+    },
+    {
+      "day": "01-08",
+      "value": 1
+    },
+    {
+      "day": "01-15",
+      "value": 1
+    },
+    {
+      "day": "01-19",
+      "value": 1
+    },
+    {
+      "day": "01-26",
+      "value": 6
+    },
+    {
+      "day": "03-02",
+      "value": 2
+    },
+    {
+      "day": "03-03",
+      "value": 1
+    },
+    {
+      "day": "03-09",
+      "value": 1
+    },
+    {
+      "day": "03-10",
+      "value": 1
+    },
+    {
+      "day": "03-11",
+      "value": 5
+    },
+    {
+      "day": "03-12",
+      "value": 1
+    },
+    {
+      "day": "03-13",
+      "value": 1
+    },
+    {
+      "day": "03-16",
+      "value": 1
+    },
+    {
+      "day": "03-17",
+      "value": 12
+    },
+    {
+      "day": "03-18",
+      "value": 1
+    },
+    {
+      "day": "03-19",
+      "value": 2
+    },
+    {
+      "day": "03-23",
+      "value": 4
+    },
+    {
+      "day": "03-24",
+      "value": 1
+    },
+    {
+      "day": "03-25",
+      "value": 11
+    },
+    {
+      "day": "03-26",
+      "value": 2
+    },
+    {
+      "day": "03-27",
+      "value": 1
+    },
+    {
+      "day": "03-30",
+      "value": 1
+    },
+    {
+      "day": "03-31",
+      "value": 1
+    },
+    {
+      "day": "04-01",
+      "value": 6
+    },
+    {
+      "day": "04-02",
+      "value": 1
+    },
+    {
+      "day": "04-05",
+      "value": 2
+    },
+    {
+      "day": "04-06",
+      "value": 18
+    }
+  ],
+  "events": [
+    {
+      "time": "2026-01-05T15:20:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7591897679307771617",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-01-06T06:57:00+00:00",
+      "reporter": "Lona",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Lona",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7592139250733174495",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-01-06T13:24:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7592238814291037921",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-01-06T14:38:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7592258047599202012",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-01-07T13:55:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7592617948716519132",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-01-08T15:17:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7593010180225240800",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-01-15T13:55:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7595586638122618590",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-01-19T16:06:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7597104837885202141",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-01-26T16:01:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599701131282894555",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-01-26T16:17:00+00:00",
+      "reporter": "Miles",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Miles",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705217512247007",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-01-26T16:18:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705419107307227",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-01-26T16:18:00+00:00",
+      "reporter": "Miles",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Miles",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705474635665118",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-01-26T16:19:00+00:00",
+      "reporter": "Monica",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Monica",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705688037674720",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-01-26T16:22:00+00:00",
+      "reporter": "Miles",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Miles",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599706499530624734",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-02T14:17:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7612662240197496539",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-02T14:48:00+00:00",
+      "reporter": "Lona",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Lona",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7612670194741235425",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-03T14:57:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "3.3 会议总结",
+      "documentKey": "wiki_IuyswQm99ikg4Dkcs4vlA55OgEd",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7613043508596739810",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-09T14:34:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "3.9 会议总结",
+      "documentKey": "wiki_A7eUwvRtWi53BOkPxAZlB1WLgyc",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7615264187412926176",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-10T16:12:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "3.10 会议总结",
+      "documentKey": "wiki_N1nFwUyDti0u6hkJz1ylO9rYgxf",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7615660430358236895",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-11T15:47:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "3.11 会议总结",
+      "documentKey": "wiki_L8eBwlQ9Qi8EHbkEF1hlSMJXgtJ",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616025281278512866",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-11T15:49:00+00:00",
+      "reporter": "Miles",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Miles",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616025640059277021",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-11T16:05:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616029744101854941",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-11T16:10:00+00:00",
+      "reporter": "Miles",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Miles",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616031187510316763",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-11T16:19:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616033340407172828",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-12T15:58:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "3.12 会议总结",
+      "documentKey": "wiki_N7eewvbcciKH61kGj0tlCf1dggf",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616399100035993307",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-13T16:29:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "3.13 会议总结",
+      "documentKey": "wiki_SdTawap4Ei4iyPkV1gNlIypggTf",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616778186323414747",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-16T15:21:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "3.16 会议总结",
+      "documentKey": "wiki_PSpvwufEHiCpsJkvCMwlB902gmg",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7617873835194339038",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-17T14:47:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "3.17 会议总结",
+      "documentKey": "wiki_SzaSw08EUizVxYklipylUo1Zgzd",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618236368866528990",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-17T14:48:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618236508713029339",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-17T14:53:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618237895022743259",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-17T14:59:00+00:00",
+      "reporter": "Miles",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "3.17 会议总结",
+      "documentKey": "wiki_SzaSw08EUizVxYklipylUo1Zgzd",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618239427956969182",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-17T15:01:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618239812636692190",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-17T15:04:00+00:00",
+      "reporter": "Miles",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Miles",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618240552592527071",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-17T15:04:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618240619604872926",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-17T15:06:00+00:00",
+      "reporter": "Miles",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Miles",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618241086982000352",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-17T15:09:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618241858178649820",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-17T15:10:00+00:00",
+      "reporter": "Miles",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Miles",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618242169526062812",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-17T15:11:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618242553355177692",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-17T15:12:00+00:00",
+      "reporter": "Miles",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Miles",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618242669784862433",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-18T16:01:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "3.18 会议总结",
+      "documentKey": "wiki_I3f5wk3bQiZsjxkk6x4lnc5ugKe",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618626361753620190",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-19T00:21:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618755155057069797",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-19T14:33:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "3.19 会议总结",
+      "documentKey": "wiki_DOf8wcumjiAohMkjFINlpj3AgMf",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618974689297207005",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-23T04:07:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620297860994584284",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-23T04:51:00+00:00",
+      "reporter": "Lona",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Lona",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620309294463389408",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-23T04:58:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620310871957950176",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-23T14:24:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "3.23 会议总结",
+      "documentKey": "wiki_MF7owuELHidqV6klJTklYempgsf",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620456779486351070",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-24T15:16:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "3.24 会议总结",
+      "documentKey": "wiki_BIrIwZKgai34tpkW9rKlequhgof",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620841269392051933",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-25T06:36:00+00:00",
+      "reporter": "Claude分析机器人",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Claude分析机器人",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621078304008326879",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-25T06:52:00+00:00",
+      "reporter": "Lona",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Lona",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621082428463009503",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-25T07:03:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621085396625133277",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-25T07:11:00+00:00",
+      "reporter": "Lona",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "https://reportsite-zeta.vercel.app/",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621087444422692575",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-25T07:11:00+00:00",
+      "reporter": "Lona",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Lona",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621087369336213212",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-25T07:16:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621088734315597533",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-25T07:17:00+00:00",
+      "reporter": "Lona",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Lona",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621088945861873371",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-25T07:17:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621089004554358495",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-25T07:18:00+00:00",
+      "reporter": "Lona",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Lona",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621089101202099935",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-25T07:18:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621089152141905628",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-25T15:19:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "3.25 会议总结",
+      "documentKey": "wiki_BobtwtpyViR3jAkSww7l7DQvg4c",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621213118705716962",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-26T06:20:00+00:00",
+      "reporter": "Claude分析机器人",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Claude分析机器人",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621445397264797407",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-26T15:43:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "3.26 会议总结",
+      "documentKey": "wiki_Cygxwlwo9i3KetkwtxhlqsfTgOf",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621590548638944987",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-27T16:05:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "3.27 会议总结",
+      "documentKey": "wiki_BSAdwpt1riwK46kC3UqlKMtLgxb",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621967119541898971",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-30T15:14:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623067374962347744",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-03-31T15:03:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623435552129404645",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-01T19:27:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623874695770689244",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-01T19:29:00+00:00",
+      "reporter": "Miles",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Miles",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875309218647778",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-01T19:30:00+00:00",
+      "reporter": "Monica",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Monica",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875400506019554",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-01T19:34:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623876381056257760",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-01T19:44:00+00:00",
+      "reporter": "Miles",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Miles",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623879003916504797",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-01T23:31:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623937624096378588",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-02T15:29:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7624184483532558047",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-05T19:30:00+00:00",
+      "reporter": "啊 这咋还有一个也醒着",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "啊 这咋还有一个也醒着",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875436258266848",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-05T19:34:00+00:00",
+      "reporter": "这黑客松要交了，号被封了",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "这黑客松要交了，号被封了",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623876607253434080",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T07:11:00+00:00",
+      "reporter": "可以",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "可以",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621087464119144162",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T07:16:00+00:00",
+      "reporter": "慢慢加完整，汇总再看",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "慢慢加完整，汇总再看",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621088804023078624",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T07:18:00+00:00",
+      "reporter": "话题群也有",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "话题群也有",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621089199629881061",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T16:01:00+00:00",
+      "reporter": "会议遗留任务跟进",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jenny的云文档",
+      "documentKey": "wiki_DpfLwwrd2ieQNZkhmMglBaCqgZb",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618626440061259493",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T16:07:00+00:00",
+      "reporter": "我看过Jocelyn月报对异常代理佣金的取出做了专项统计的",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "我看过Jocelyn月报对异常代理佣金的取出做了专项统计的",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616030361708941019",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T16:18:00+00:00",
+      "reporter": "我以为这么顺",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "我以为这么顺",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705508324363996",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T16:23:00+00:00",
+      "reporter": "unknown",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "https://rjdx19yd9zo.sg.larksuite.com/docx/IYBrdbxjGogcqaxLZG3l5C18gKX",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7568535455440850656",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T16:24:00+00:00",
+      "reporter": "之前律师信发了没用",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "之前律师信发了没用",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7577070732279090912",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater 邀请 Yohan 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620297790844866272",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporter": "Lona",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Lona 关闭了新成员可查看历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620300734206086876",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporter": "Yohan",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Yohan 邀请 Claude分析机器人 加入此群，新成员仅可查看入群后的消息撤销邀请",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620887820072160989",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporter": "你撤回了一条消息",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "你撤回了一条消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875964753186523",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporter": "Miles",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Miles 邀请 Kater 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7581865080711581408",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Jenny 撤回了一条消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7577067954907401952",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Jenny 置顶了内容",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7554950650610585305",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Jenny 移除了置顶内容",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7554950683275824856",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporter": "Monica",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Monica 邀请 Charles 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7538344607923355679",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporter": "Ella",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Ella 撤回了一条消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7534716265575759910",
+      "status": "parsed",
+      "error": ""
+    }
+  ],
+  "peopleCards": [
+    {
+      "reporterId": "57e4df689a1d",
+      "reporterName": "Jenny",
+      "reportCount": 34,
+      "documentCount": 15,
+      "latestTime": "2026-04-06T19:10:40.888802+00:00",
+      "latestTitle": "Jenny 移除了置顶内容",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7554950683275824856",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 27,
+          "color": "#00f5c4"
+        },
+        {
+          "label": "文字汇报",
+          "value": 7,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 20,
+        "testing": 10,
+        "review": 2,
+        "developing": 5,
+        "blocked": 23
+      },
+      "events": [
+        {
+          "time": "2026-01-05T15:20:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7591897679307771617"
+        },
+        {
+          "time": "2026-01-06T14:38:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7592258047599202012"
+        },
+        {
+          "time": "2026-01-07T13:55:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7592617948716519132"
+        },
+        {
+          "time": "2026-01-08T15:17:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7593010180225240800"
+        },
+        {
+          "time": "2026-01-15T13:55:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7595586638122618590"
+        },
+        {
+          "time": "2026-01-19T16:06:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7597104837885202141"
+        },
+        {
+          "time": "2026-01-26T16:01:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599701131282894555"
+        },
+        {
+          "time": "2026-01-26T16:18:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705419107307227"
+        },
+        {
+          "time": "2026-03-02T14:17:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7612662240197496539"
+        },
+        {
+          "time": "2026-03-03T14:57:00+00:00",
+          "title": "3.3 会议总结",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "wiki_IuyswQm99ikg4Dkcs4vlA55OgEd",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7613043508596739810"
+        },
+        {
+          "time": "2026-03-09T14:34:00+00:00",
+          "title": "3.9 会议总结",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "wiki_A7eUwvRtWi53BOkPxAZlB1WLgyc",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7615264187412926176"
+        },
+        {
+          "time": "2026-03-10T16:12:00+00:00",
+          "title": "3.10 会议总结",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "wiki_N1nFwUyDti0u6hkJz1ylO9rYgxf",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7615660430358236895"
+        },
+        {
+          "time": "2026-03-11T15:47:00+00:00",
+          "title": "3.11 会议总结",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "wiki_L8eBwlQ9Qi8EHbkEF1hlSMJXgtJ",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616025281278512866"
+        },
+        {
+          "time": "2026-03-11T16:05:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616029744101854941"
+        },
+        {
+          "time": "2026-03-11T16:19:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616033340407172828"
+        },
+        {
+          "time": "2026-03-12T15:58:00+00:00",
+          "title": "3.12 会议总结",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "wiki_N7eewvbcciKH61kGj0tlCf1dggf",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616399100035993307"
+        },
+        {
+          "time": "2026-03-13T16:29:00+00:00",
+          "title": "3.13 会议总结",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "wiki_SdTawap4Ei4iyPkV1gNlIypggTf",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616778186323414747"
+        },
+        {
+          "time": "2026-03-16T15:21:00+00:00",
+          "title": "3.16 会议总结",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "wiki_PSpvwufEHiCpsJkvCMwlB902gmg",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7617873835194339038"
+        },
+        {
+          "time": "2026-03-17T14:47:00+00:00",
+          "title": "3.17 会议总结",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "wiki_SzaSw08EUizVxYklipylUo1Zgzd",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618236368866528990"
+        },
+        {
+          "time": "2026-03-18T16:01:00+00:00",
+          "title": "3.18 会议总结",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "wiki_I3f5wk3bQiZsjxkk6x4lnc5ugKe",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618626361753620190"
+        },
+        {
+          "time": "2026-03-19T14:33:00+00:00",
+          "title": "3.19 会议总结",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "wiki_DOf8wcumjiAohMkjFINlpj3AgMf",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618974689297207005"
+        },
+        {
+          "time": "2026-03-23T14:24:00+00:00",
+          "title": "3.23 会议总结",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "wiki_MF7owuELHidqV6klJTklYempgsf",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620456779486351070"
+        },
+        {
+          "time": "2026-03-24T15:16:00+00:00",
+          "title": "3.24 会议总结",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "wiki_BIrIwZKgai34tpkW9rKlequhgof",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620841269392051933"
+        },
+        {
+          "time": "2026-03-25T15:19:00+00:00",
+          "title": "3.25 会议总结",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "wiki_BobtwtpyViR3jAkSww7l7DQvg4c",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621213118705716962"
+        },
+        {
+          "time": "2026-03-26T15:43:00+00:00",
+          "title": "3.26 会议总结",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "wiki_Cygxwlwo9i3KetkwtxhlqsfTgOf",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621590548638944987"
+        },
+        {
+          "time": "2026-03-27T16:05:00+00:00",
+          "title": "3.27 会议总结",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "wiki_BSAdwpt1riwK46kC3UqlKMtLgxb",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621967119541898971"
+        },
+        {
+          "time": "2026-03-30T15:14:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623067374962347744"
+        },
+        {
+          "time": "2026-03-31T15:03:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623435552129404645"
+        },
+        {
+          "time": "2026-04-01T19:27:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623874695770689244"
+        },
+        {
+          "time": "2026-04-01T19:34:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623876381056257760"
+        },
+        {
+          "time": "2026-04-02T15:29:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7624184483532558047"
+        },
+        {
+          "time": "2026-04-06T19:10:40.888802+00:00",
+          "title": "Jenny 撤回了一条消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7577067954907401952"
+        },
+        {
+          "time": "2026-04-06T19:10:40.888802+00:00",
+          "title": "Jenny 置顶了内容",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7554950650610585305"
+        },
+        {
+          "time": "2026-04-06T19:10:40.888802+00:00",
+          "title": "Jenny 移除了置顶内容",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7554950683275824856"
+        }
+      ]
+    },
+    {
+      "reporterId": "1bb672090848",
+      "reporterName": "Lona",
+      "reportCount": 9,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T19:10:40.888802+00:00",
+      "latestTitle": "Lona 关闭了新成员可查看历史消息",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620300734206086876",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 1,
+          "color": "#00f5c4"
+        },
+        {
+          "label": "文字汇报",
+          "value": 8,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-01-06T06:57:00+00:00",
+          "title": "Lona",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7592139250733174495"
+        },
+        {
+          "time": "2026-03-02T14:48:00+00:00",
+          "title": "Lona",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7612670194741235425"
+        },
+        {
+          "time": "2026-03-23T04:51:00+00:00",
+          "title": "Lona",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620309294463389408"
+        },
+        {
+          "time": "2026-03-25T06:52:00+00:00",
+          "title": "Lona",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621082428463009503"
+        },
+        {
+          "time": "2026-03-25T07:11:00+00:00",
+          "title": "https://reportsite-zeta.vercel.app/",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621087444422692575"
+        },
+        {
+          "time": "2026-03-25T07:11:00+00:00",
+          "title": "Lona",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621087369336213212"
+        },
+        {
+          "time": "2026-03-25T07:17:00+00:00",
+          "title": "Lona",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621088945861873371"
+        },
+        {
+          "time": "2026-03-25T07:18:00+00:00",
+          "title": "Lona",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621089101202099935"
+        },
+        {
+          "time": "2026-04-06T19:10:40.888802+00:00",
+          "title": "Lona 关闭了新成员可查看历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620300734206086876"
+        }
+      ]
+    },
+    {
+      "reporterId": "10fa70cad6b4",
+      "reporterName": "Kater",
+      "reportCount": 16,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T19:10:40.888802+00:00",
+      "latestTitle": "Kater 邀请 Yohan 加入此群，新成员入群可查看所有历史消息",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620297790844866272",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 1,
+          "color": "#00f5c4"
+        },
+        {
+          "label": "文字汇报",
+          "value": 15,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 2,
+        "testing": 1,
+        "review": 0,
+        "developing": 1,
+        "blocked": 2
+      },
+      "events": [
+        {
+          "time": "2026-01-06T13:24:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7592238814291037921"
+        },
+        {
+          "time": "2026-03-17T14:48:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618236508713029339"
+        },
+        {
+          "time": "2026-03-17T14:53:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618237895022743259"
+        },
+        {
+          "time": "2026-03-17T15:01:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618239812636692190"
+        },
+        {
+          "time": "2026-03-17T15:04:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618240619604872926"
+        },
+        {
+          "time": "2026-03-17T15:09:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618241858178649820"
+        },
+        {
+          "time": "2026-03-17T15:11:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618242553355177692"
+        },
+        {
+          "time": "2026-03-19T00:21:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618755155057069797"
+        },
+        {
+          "time": "2026-03-23T04:07:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620297860994584284"
+        },
+        {
+          "time": "2026-03-23T04:58:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620310871957950176"
+        },
+        {
+          "time": "2026-03-25T07:03:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621085396625133277"
+        },
+        {
+          "time": "2026-03-25T07:16:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621088734315597533"
+        },
+        {
+          "time": "2026-03-25T07:17:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621089004554358495"
+        },
+        {
+          "time": "2026-03-25T07:18:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621089152141905628"
+        },
+        {
+          "time": "2026-04-01T23:31:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623937624096378588"
+        },
+        {
+          "time": "2026-04-06T19:10:40.888802+00:00",
+          "title": "Kater 邀请 Yohan 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620297790844866272"
+        }
+      ]
+    },
+    {
+      "reporterId": "a1161f6445c6",
+      "reporterName": "Miles",
+      "reportCount": 13,
+      "documentCount": 1,
+      "latestTime": "2026-04-06T19:10:40.888802+00:00",
+      "latestTitle": "Miles 邀请 Kater 加入此群，新成员入群可查看所有历史消息",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7581865080711581408",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 2,
+          "color": "#00f5c4"
+        },
+        {
+          "label": "文字汇报",
+          "value": 11,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 2,
+        "testing": 1,
+        "review": 0,
+        "developing": 1,
+        "blocked": 1
+      },
+      "events": [
+        {
+          "time": "2026-01-26T16:17:00+00:00",
+          "title": "Miles",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705217512247007"
+        },
+        {
+          "time": "2026-01-26T16:18:00+00:00",
+          "title": "Miles",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705474635665118"
+        },
+        {
+          "time": "2026-01-26T16:22:00+00:00",
+          "title": "Miles",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599706499530624734"
+        },
+        {
+          "time": "2026-03-11T15:49:00+00:00",
+          "title": "Miles",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616025640059277021"
+        },
+        {
+          "time": "2026-03-11T16:10:00+00:00",
+          "title": "Miles",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616031187510316763"
+        },
+        {
+          "time": "2026-03-17T14:59:00+00:00",
+          "title": "3.17 会议总结",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "wiki_SzaSw08EUizVxYklipylUo1Zgzd",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618239427956969182"
+        },
+        {
+          "time": "2026-03-17T15:04:00+00:00",
+          "title": "Miles",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618240552592527071"
+        },
+        {
+          "time": "2026-03-17T15:06:00+00:00",
+          "title": "Miles",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618241086982000352"
+        },
+        {
+          "time": "2026-03-17T15:10:00+00:00",
+          "title": "Miles",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618242169526062812"
+        },
+        {
+          "time": "2026-03-17T15:12:00+00:00",
+          "title": "Miles",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618242669784862433"
+        },
+        {
+          "time": "2026-04-01T19:29:00+00:00",
+          "title": "Miles",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875309218647778"
+        },
+        {
+          "time": "2026-04-01T19:44:00+00:00",
+          "title": "Miles",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623879003916504797"
+        },
+        {
+          "time": "2026-04-06T19:10:40.888802+00:00",
+          "title": "Miles 邀请 Kater 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7581865080711581408"
+        }
+      ]
+    },
+    {
+      "reporterId": "57f68dcfdb78",
+      "reporterName": "Monica",
+      "reportCount": 3,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T19:10:40.888802+00:00",
+      "latestTitle": "Monica 邀请 Charles 加入此群，新成员入群可查看所有历史消息",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7538344607923355679",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 3,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-01-26T16:19:00+00:00",
+          "title": "Monica",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705688037674720"
+        },
+        {
+          "time": "2026-04-01T19:30:00+00:00",
+          "title": "Monica",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875400506019554"
+        },
+        {
+          "time": "2026-04-06T19:10:40.888802+00:00",
+          "title": "Monica 邀请 Charles 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7538344607923355679"
+        }
+      ]
+    },
+    {
+      "reporterId": "bf0a3b854d28",
+      "reporterName": "Claude分析机器人",
+      "reportCount": 2,
+      "documentCount": 0,
+      "latestTime": "2026-03-26T06:20:00+00:00",
+      "latestTitle": "Claude分析机器人",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621445397264797407",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 2,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 2,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 1
+      },
+      "events": [
+        {
+          "time": "2026-03-25T06:36:00+00:00",
+          "title": "Claude分析机器人",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621078304008326879"
+        },
+        {
+          "time": "2026-03-26T06:20:00+00:00",
+          "title": "Claude分析机器人",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621445397264797407"
+        }
+      ]
+    },
+    {
+      "reporterId": "9601d2f8d110",
+      "reporterName": "啊 这咋还有一个也醒着",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-05T19:30:00+00:00",
+      "latestTitle": "啊 这咋还有一个也醒着",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875436258266848",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-05T19:30:00+00:00",
+          "title": "啊 这咋还有一个也醒着",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875436258266848"
+        }
+      ]
+    },
+    {
+      "reporterId": "7601f87351df",
+      "reporterName": "这黑客松要交了，号被封了",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-05T19:34:00+00:00",
+      "latestTitle": "这黑客松要交了，号被封了",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623876607253434080",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-05T19:34:00+00:00",
+          "title": "这黑客松要交了，号被封了",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623876607253434080"
+        }
+      ]
+    },
+    {
+      "reporterId": "0ef5c86fab94",
+      "reporterName": "可以",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T07:11:00+00:00",
+      "latestTitle": "可以",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621087464119144162",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T07:11:00+00:00",
+          "title": "可以",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621087464119144162"
+        }
+      ]
+    },
+    {
+      "reporterId": "7b092f296e7f",
+      "reporterName": "慢慢加完整，汇总再看",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T07:16:00+00:00",
+      "latestTitle": "慢慢加完整，汇总再看",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621088804023078624",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T07:16:00+00:00",
+          "title": "慢慢加完整，汇总再看",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621088804023078624"
+        }
+      ]
+    },
+    {
+      "reporterId": "aeea701fd5d7",
+      "reporterName": "话题群也有",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T07:18:00+00:00",
+      "latestTitle": "话题群也有",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621089199629881061",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T07:18:00+00:00",
+          "title": "话题群也有",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621089199629881061"
+        }
+      ]
+    },
+    {
+      "reporterId": "5da15d440670",
+      "reporterName": "会议遗留任务跟进",
+      "reportCount": 1,
+      "documentCount": 1,
+      "latestTime": "2026-04-06T16:01:00+00:00",
+      "latestTitle": "Jenny的云文档",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618626440061259493",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 1,
+          "color": "#00f5c4"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T16:01:00+00:00",
+          "title": "Jenny的云文档",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "wiki_DpfLwwrd2ieQNZkhmMglBaCqgZb",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618626440061259493"
+        }
+      ]
+    },
+    {
+      "reporterId": "75d9a0eb24bb",
+      "reporterName": "我看过Jocelyn月报对异常代理佣金的取出做了专项统计的",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T16:07:00+00:00",
+      "latestTitle": "我看过Jocelyn月报对异常代理佣金的取出做了专项统计的",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616030361708941019",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T16:07:00+00:00",
+          "title": "我看过Jocelyn月报对异常代理佣金的取出做了专项统计的",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616030361708941019"
+        }
+      ]
+    },
+    {
+      "reporterId": "2ede869cb2a9",
+      "reporterName": "我以为这么顺",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T16:18:00+00:00",
+      "latestTitle": "我以为这么顺",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705508324363996",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T16:18:00+00:00",
+          "title": "我以为这么顺",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705508324363996"
+        }
+      ]
+    },
+    {
+      "reporterId": "b23a6a8439c0",
+      "reporterName": "unknown",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T16:23:00+00:00",
+      "latestTitle": "https://rjdx19yd9zo.sg.larksuite.com/docx/IYBrdbxjGogcqaxLZG3l5C18gKX",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7568535455440850656",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 1,
+          "color": "#00f5c4"
+        }
+      ],
+      "statusMix": {
+        "delivered": 1,
+        "testing": 0,
+        "review": 0,
+        "developing": 2,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T16:23:00+00:00",
+          "title": "https://rjdx19yd9zo.sg.larksuite.com/docx/IYBrdbxjGogcqaxLZG3l5C18gKX",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7568535455440850656"
+        }
+      ]
+    },
+    {
+      "reporterId": "783c1ac14cfe",
+      "reporterName": "之前律师信发了没用",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T16:24:00+00:00",
+      "latestTitle": "之前律师信发了没用",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7577070732279090912",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T16:24:00+00:00",
+          "title": "之前律师信发了没用",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7577070732279090912"
+        }
+      ]
+    },
+    {
+      "reporterId": "5e20679ab132",
+      "reporterName": "Yohan",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T19:10:40.888802+00:00",
+      "latestTitle": "Yohan 邀请 Claude分析机器人 加入此群，新成员仅可查看入群后的消息撤销邀请",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620887820072160989",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T19:10:40.888802+00:00",
+          "title": "Yohan 邀请 Claude分析机器人 加入此群，新成员仅可查看入群后的消息撤销邀请",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620887820072160989"
+        }
+      ]
+    },
+    {
+      "reporterId": "d4e8206ba584",
+      "reporterName": "你撤回了一条消息",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T19:10:40.888802+00:00",
+      "latestTitle": "你撤回了一条消息",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875964753186523",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T19:10:40.888802+00:00",
+          "title": "你撤回了一条消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875964753186523"
+        }
+      ]
+    },
+    {
+      "reporterId": "c007c2974525",
+      "reporterName": "Ella",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T19:10:40.888802+00:00",
+      "latestTitle": "Ella 撤回了一条消息",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7534716265575759910",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T19:10:40.888802+00:00",
+          "title": "Ella 撤回了一条消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7534716265575759910"
+        }
+      ]
+    }
+  ],
+  "evidenceIndex": {
+    "msg:webmsg_external_web_8f1d770b453adcdf_7591897679307771617": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7591897679307771617",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7591897679307771617",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-01-05T15:20:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny https://bydfimoon.sg.larksuite.com/wiki/FIfpwGKnNisgKDkKwKolCwJpgls?from=from_copylink Lark云文档 J Jenny的云文档 外部 搜索 与我分享 1.5 会议总结 BYDFi Jenny 1.5 会议总结 外部 最近修改: 1月5日 23:20 分享 1.5 会议总结 1.5 研发小组会 一、会议目的 二、核心工作复盘 三、会议详情：1..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7592139250733174495": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7592139250733174495",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7592139250733174495",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-01-06T06:57:00+00:00",
+      "reporterName": "Lona",
+      "senderId": "1bb672090848",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Lona",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Lona https://bydfimoon.sg.larksuite.com/docx/NbQrdZFCQoJOsJx5g1AlG8BOg1g 1 条回复 BYDFi Aria 智能纪要：客服-产研月会 2026年1月6日 外部 添加快捷方式 最近修改: 3月11日 11:57 分享 智能纪要：客服-产研月会 2026年1月6日 总结 待办 相关链接 相关会议纪要 智能纪要：客服-产研月会 2026年1月6日​ Aria 3月11日修..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7592238814291037921": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7592238814291037921",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7592238814291037921",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-01-06T13:24:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater https://bydfimoon.sg.larksuite.com/docx/HQrGdYi1ho5nkNxdYzYlfw4lgUf Miles BYDFi Dohko 智能纪要：渗透测试复盘会 2026年1月6日 外部 添加快捷方式 最近修改: 1月6日 21:22 分享 智能纪要：渗透测试复盘会 2026年1月6日 总结 待办 相关链接 智能纪要：渗透测试复盘会 2026年1月6日​ Dohko 1月6日修改 ​ 会议..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7592258047599202012": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7592258047599202012",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7592258047599202012",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-01-06T14:38:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny https://bydfimoon.sg.larksuite.com/wiki/FcNIwl8nciKxgWk8rsAl8c3ggmc?from=from_copylink Lark云文档 J Jenny的云文档 外部 搜索 与我分享 1.6 会议总结 BYDFi Jenny 1.6 会议总结 外部 最近修改: 1月6日 22:38 分享 1.6 会议总结 1.6 SEO项目周会 一、会议目的 二、核心数据表现 三、产品与业..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7592617948716519132": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7592617948716519132",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7592617948716519132",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-01-07T13:55:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny https://bydfimoon.sg.larksuite.com/wiki/JM9UwFe41iE9u3kq4WDlD9v5grd?from=from_copylink Lark云文档 J Jenny的云文档 外部 搜索 与我分享 1.7 会议总结 BYDFi Jenny 1.7 会议总结 外部 最近修改: 1月7日 21:54 分享 1.7 会议总结 1.7 风控审核月会 一、会议目的 二、12 月核心业务复盘（数据与..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7593010180225240800": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7593010180225240800",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7593010180225240800",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-01-08T15:17:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny https://bydfimoon.sg.larksuite.com/wiki/UL4nwsrCeicmwnkPe3GlWfslgzc?from=from_copylink Lark云文档 J Jenny的云文档 外部 搜索 与我分享 1.8 会议总结 BYDFi Jenny 1.8 会议总结 外部 最近修改: 1月8日 23:16 分享 1.8 会议总结 1.8 永续业务 一、会议目的 二、核心项目进度与问题 三、会议详情..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7595586638122618590": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7595586638122618590",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7595586638122618590",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-01-15T13:55:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny https://bydfimoon.sg.larksuite.com/wiki/PnMuw49ZAi9ajSkKFh5lIgMCgbd?from=from_copylink Lark云文档 J Jenny的云文档 外部 搜索 与我分享 1.15 会议总结 BYDFi Jenny 1.15 会议总结 外部 最近修改: 1月15日 21:54 分享 1.15 会议总结 1.15 招商数据月会 一、会议目的 二、12 月核心数据与..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7597104837885202141": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7597104837885202141",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7597104837885202141",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-01-19T16:06:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny https://bydfimoon.sg.larksuite.com/wiki/Q0rrwLYjRiGFVhkRkajlZIDbgAb?from=from_copylink Lark云文档 J Jenny的云文档 外部 搜索 与我分享 1.19 会议总结 BYDFi Jenny 1.19 会议总结 外部 最近修改: 1月20日 00:06 分享 1.19 会议总结 1.19 技术周会 一、会议目的 二、核心工作进展与问题 三..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7599701131282894555": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599701131282894555",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7599701131282894555",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-01-26T16:01:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny https://bydfimoon.sg.larksuite.com/wiki/IRsiwUDOhiGo8JkN2NUlvKDGgIh?from=from_copylink Miles 1 条回复 Lark云文档 J Jenny的云文档 外部 搜索 与我分享 1.26 会议回顾 BYDFi Jenny 1.26 会议回顾 外部 最近修改: 1月27日 00:19 分享 1.26 会议回顾 1.26 技术周会 一、会议目的 二..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7599705217512247007": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705217512247007",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7599705217512247007",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-01-26T16:17:00+00:00",
+      "reporterName": "Miles",
+      "senderId": "a1161f6445c6",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Miles",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Miles 回复 Jenny: https://bydfimoon.sg.larksuite.com/wiki/IRsiwUDOhiGo8JkN2NUlvKDGgIh?from=from_copylink @Jenny API 对接 20 + 家，这个是个什么状态，接完了还是计划还是过程 Lark云文档 J Jenny的云文档 外部 搜索 与我分享 1.26 会议回顾 BYDFi Jenny 1.26 会议回顾 外部 最近修改: 1月2..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7599705419107307227": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705419107307227",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7599705419107307227",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-01-26T16:18:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny 过程中，排期排着"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7599705474635665118": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705474635665118",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7599705474635665118",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-01-26T16:18:00+00:00",
+      "reporterName": "Miles",
+      "senderId": "a1161f6445c6",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Miles",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Miles 嗯嗯写清楚"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7599705688037674720": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705688037674720",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7599705688037674720",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-01-26T16:19:00+00:00",
+      "reporterName": "Monica",
+      "senderId": "57f68dcfdb78",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Monica",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Monica 都还在处在联系过程中 1 条回复"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7599706499530624734": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599706499530624734",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7599706499530624734",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-01-26T16:22:00+00:00",
+      "reporterName": "Miles",
+      "senderId": "a1161f6445c6",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Miles",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Miles 回复 Monica: 都还在处在联系过程中 @Monica 那就是个口号"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7612662240197496539": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7612662240197496539",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7612662240197496539",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-02T14:17:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny https://bydfimoon.sg.larksuite.com/wiki/RmuQw7jELi2kG5k2FlwlGWIMgBZ?from=from_copylink Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.2 会议总结 BYDFi Jenny 3.2 会议总结 外部 最近修改: 3月2日 22:17 分享 3.2 会议总结 3.2 技术周会 一、会议目的 二、核心工作规划与各业务线情况 三、..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7612670194741235425": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7612670194741235425",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7612670194741235425",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-02T14:48:00+00:00",
+      "reporterName": "Lona",
+      "senderId": "1bb672090848",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Lona",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Lona [赞]"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7613043508596739810": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7613043508596739810",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7613043508596739810",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-03T14:57:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "3.3 会议总结",
+      "sourceUrl": "https://bydfimoon.sg.larksuite.com/wiki/IuyswQm99ikg4Dkcs4vlA55OgEd?from=from_copylink",
+      "documentKey": "wiki_IuyswQm99ikg4Dkcs4vlA55OgEd",
+      "status": "parsed",
+      "preview": "Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.3 会议总结 BYDFi Jenny 3.3 会议总结 外部 最近修改: 3月3日 22:56 分享 3.3 会议总结 3.3 SEO项目周会 一、会议目的 二、核心数据表现与问题 三、产品工作进度与优化动作 四、会议详情：3.3 SEO项目周会记录 3.3 研发月会 一、1-2 月整体核心问题 二、各团队核心复盘与 3-4 月关键目标 三、关于AI的核心要求 四、会议详..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7615264187412926176": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7615264187412926176",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7615264187412926176",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-09T14:34:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "3.9 会议总结",
+      "sourceUrl": "https://bydfimoon.sg.larksuite.com/wiki/A7eUwvRtWi53BOkPxAZlB1WLgyc?from=from_copylink",
+      "documentKey": "wiki_A7eUwvRtWi53BOkPxAZlB1WLgyc",
+      "status": "parsed",
+      "preview": "Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.9 会议总结 BYDFi Jenny 3.9 会议总结 外部 最近修改: 3月9日 22:33 分享 3.9 会议总结 3.9技术小组周会 一、会议目的 二、核心专项工作进展与问题 三、各业务模块进度与卡点 四、测试工作情况与核心问题 五、会议详情：3.9 技术小组会议记录 3.9 平台运营周会 一、会议目的 二、核心业务线进展与本周规划 三、工具提效与 AI 应用规划..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7615660430358236895": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7615660430358236895",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7615660430358236895",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-10T16:12:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "3.10 会议总结",
+      "sourceUrl": "https://bydfimoon.sg.larksuite.com/wiki/N1nFwUyDti0u6hkJz1ylO9rYgxf?from=from_copylink",
+      "documentKey": "wiki_N1nFwUyDti0u6hkJz1ylO9rYgxf",
+      "status": "parsed",
+      "preview": "Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.10 会议总结 BYDFi Jenny 3.10 会议总结 外部 最近修改: 3月11日 00:11 分享 3.10 会议总结 3.10 SEO项目周会 一、会议目的 二、核心业务数据表现 三、项目进度与核心策略 四、会议详情：3.10 SEO项目周会记录 3.10 客服双周会 一、会议目的 二、KPI 改版与产能核算 三、Zendesk 系统功能更新 四、高频问题标准化..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7616025281278512866": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616025281278512866",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7616025281278512866",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-11T15:47:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "3.11 会议总结",
+      "sourceUrl": "https://bydfimoon.sg.larksuite.com/wiki/L8eBwlQ9Qi8EHbkEF1hlSMJXgtJ?from=from_copylink",
+      "documentKey": "wiki_L8eBwlQ9Qi8EHbkEF1hlSMJXgtJ",
+      "status": "parsed",
+      "preview": "Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.11 会议总结 BYDFi Jenny 3.11 会议总结 外部 最近修改: 3月12日 00:27 分享 3.11 会议总结 3.11支持中心 一、会议目的 二、风控审核工作复盘与问题解决 三、核心业务数据与问题研讨 四、工单、KYC 与客诉核心情况 五、活动工单问题优化安排 六、会议详情：3.11支持中心会议记录 3.11 风控大数据 一、会议目的 二、各项目核心推进..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7616025640059277021": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616025640059277021",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7616025640059277021",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-11T15:49:00+00:00",
+      "reporterName": "Miles",
+      "senderId": "a1161f6445c6",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Miles",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Miles"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7616029744101854941": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616029744101854941",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7616029744101854941",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-11T16:05:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny 加币数据：加币 773 笔 / 共290796U 代理线数据追踪：共返佣 509360U，部分代理佣金存在取出异常，主要原因为下级套利 / 刷返佣"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7616031187510316763": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616031187510316763",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7616031187510316763",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-11T16:10:00+00:00",
+      "reporterName": "Miles",
+      "senderId": "a1161f6445c6",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Miles",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Miles 完全没看懂"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7616033340407172828": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616033340407172828",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7616033340407172828",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-11T16:19:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny 回复 Jenny: 我看过Jocelyn月报对异常代理佣金的取出做了专项统计的 这部分是对通过下级套利/刷返佣的代理进行佣金追回"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7616399100035993307": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616399100035993307",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7616399100035993307",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-12T15:58:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "3.12 会议总结",
+      "sourceUrl": "https://bydfimoon.sg.larksuite.com/wiki/N7eewvbcciKH61kGj0tlCf1dggf?from=from_copylink",
+      "documentKey": "wiki_N7eewvbcciKH61kGj0tlCf1dggf",
+      "status": "parsed",
+      "preview": "Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.12 会议总结 BYDFi Jenny 3.12 会议总结 外部 最近修改: 3月12日 23:57 分享 3.12 会议总结 3.12 永续业务 一、核心功能开发与测试进度 二、线上现存 BUG 与解决要求 三、量化相关进度 四、会议详情：3.12 永续业务会议记录 3.12 客服单周会 一、客服系统规划与功能优化 二、AI 接入与话术库建设 三、专项业务问题解决办法..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7616778186323414747": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616778186323414747",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7616778186323414747",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-13T16:29:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "3.13 会议总结",
+      "sourceUrl": "https://bydfimoon.sg.larksuite.com/wiki/SdTawap4Ei4iyPkV1gNlIypggTf?from=from_copylink",
+      "documentKey": "wiki_SdTawap4Ei4iyPkV1gNlIypggTf",
+      "status": "parsed",
+      "preview": "Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.13 会议总结 BYDFi Jenny 3.13 会议总结 外部 最近修改: 3月14日 00:28 分享 3.13 会议总结 3.13 风控审核会议 一、核心业务规则明确 二、资费调整功能机制说明 三、永续合约价格相关规范 四、会议详情：3.13 风控审核会议记录 3.13设计周会 一、各成员本周工作 & 问题 & 后续计划 二、核心执行 三、会议详情：3.13设计周会..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7617873835194339038": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7617873835194339038",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7617873835194339038",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-16T15:21:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "3.16 会议总结",
+      "sourceUrl": "https://bydfimoon.sg.larksuite.com/wiki/PSpvwufEHiCpsJkvCMwlB902gmg?from=from_copylink",
+      "documentKey": "wiki_PSpvwufEHiCpsJkvCMwlB902gmg",
+      "status": "parsed",
+      "preview": "Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.16 会议总结 BYDFi Jenny 3.16 会议总结 外部 最近修改: 3月16日 23:20 分享 3.16 会议总结 一、各核心业务研发进度 二、项目规范与其他技术事项 三、会议详情：3.16 技术小组会议记录 3.16 平台运营周会 一、日常运营与内容推送 二、数据管理与埋点建设 三、系统与功能优化 四、六周年活动专项规划 五、精细化运营规划 六、会议详情：3..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7618236368866528990": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618236368866528990",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7618236368866528990",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-17T14:47:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "3.17 会议总结",
+      "sourceUrl": "https://bydfimoon.sg.larksuite.com/wiki/SzaSw08EUizVxYklipylUo1Zgzd?from=from_copylink",
+      "documentKey": "wiki_SzaSw08EUizVxYklipylUo1Zgzd",
+      "status": "parsed",
+      "preview": "Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.17 会议总结 BYDFi Jenny 3.17 会议总结 外部 最近修改: 3月17日 23:05 分享 3.17 会议总结 3.17 SEO 项目周会 一、核心业务数据表现 二、页面优化与新增指标规划 三、OKR 进度达成与待优化项 四、会议详情：3.17 SEO项目周会记录 3.17 各部门okr进度复盘会 一、各部门 OKR 核心进展与待解问题 二、跨部门资源调配..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7618236508713029339": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618236508713029339",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7618236508713029339",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-17T14:48:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 除了发会议总结，还有代办事项，一起发出来 Jenny"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7618237895022743259": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618237895022743259",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7618237895022743259",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-17T14:53:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 待办事项，做一个多为表格，pin或者置顶"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7618239427956969182": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618239427956969182",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7618239427956969182",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-17T14:59:00+00:00",
+      "reporterName": "Miles",
+      "senderId": "a1161f6445c6",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "3.17 会议总结",
+      "sourceUrl": "https://bydfimoon.sg.larksuite.com/wiki/SzaSw08EUizVxYklipylUo1Zgzd?from=from_copylink",
+      "documentKey": "wiki_SzaSw08EUizVxYklipylUo1Zgzd",
+      "status": "parsed",
+      "preview": "Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.17 会议总结 BYDFi Jenny 3.17 会议总结 外部 最近修改: 3月17日 23:05 分享 3.17 会议总结 3.17 SEO 项目周会 一、核心业务数据表现 二、页面优化与新增指标规划 三、OKR 进度达成与待优化项 四、会议详情：3.17 SEO项目周会记录 3.17 各部门okr进度复盘会 一、各部门 OKR 核心进展与待解问题 二、跨部门资源调配..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7618239812636692190": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618239812636692190",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7618239812636692190",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-17T15:01:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater vpn已经解决了，有了新的vpn方式，也有vpn的申请流程，给他们说了； 翻译，今天跟stone团队，以及@Christina 聊过了，我还在设计新的流程，可能后面翻译团队都不需要了，只需要有个审核"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7618240552592527071": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618240552592527071",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7618240552592527071",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-17T15:04:00+00:00",
+      "reporterName": "Miles",
+      "senderId": "a1161f6445c6",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Miles",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Miles Kater是不是可以让Claude Code读这个群里的会议纪要"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7618240619604872926": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618240619604872926",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7618240619604872926",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-17T15:04:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 可以的"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7618241086982000352": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618241086982000352",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7618241086982000352",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-17T15:06:00+00:00",
+      "reporterName": "Miles",
+      "senderId": "a1161f6445c6",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Miles",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Miles 嗯嗯，这才是你要招的助理应该做的"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7618241858178649820": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618241858178649820",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7618241858178649820",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-17T15:09:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 是的"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7618242169526062812": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618242169526062812",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7618242169526062812",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-17T15:10:00+00:00",
+      "reporterName": "Miles",
+      "senderId": "a1161f6445c6",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Miles",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Miles 回复 Kater: 翻译，我的思路是，把历史翻译喂给claude，提炼出专业术语关键字翻译，规定字符长度，后面交给ai翻译，然后配不同模型，进行审核，最后再人工确认。大致三个步骤 @Kater 我上次跑的逻辑是，调用浏览器爬竞争对手的，然后看自己的去修正一轮我们的；之后基于SEO再优化一轮"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7618242553355177692": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618242553355177692",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7618242553355177692",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-17T15:11:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 嗯，这个是历史欠账问题，可以一次性解决。我这个方案一方面是解决后续的翻译流程的统一，另外就是人力资源的节省"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7618242669784862433": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618242669784862433",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7618242669784862433",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-17T15:12:00+00:00",
+      "reporterName": "Miles",
+      "senderId": "a1161f6445c6",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Miles",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Miles 嗯嗯好的👌"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7618626361753620190": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618626361753620190",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7618626361753620190",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-18T16:01:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "3.18 会议总结",
+      "sourceUrl": "https://bydfimoon.sg.larksuite.com/wiki/I3f5wk3bQiZsjxkk6x4lnc5ugKe?from=from_copylink",
+      "documentKey": "wiki_I3f5wk3bQiZsjxkk6x4lnc5ugKe",
+      "status": "parsed",
+      "preview": "Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.18 会议总结 BYDFi Jenny 3.18 会议总结 外部 最近修改: 3月19日 00:00 分享 3.18 会议总结 3.18 韩国招商会 一、韩国市场核心业务现状 二、市场活动方案研讨与规划 三、产品优化与代理规则升级 四、核心成员业务进展汇报 五、AI 工具落地应用与规划 六、会议详情：3.18 韩国招商会议记录 3.18 前端会议 一、3.9.3 版本核心..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7618755155057069797": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618755155057069797",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7618755155057069797",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-19T00:21:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 已完成的订单有没有完成时间？要有两个视图，进行中，已完成，列还有个部门"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7618974689297207005": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618974689297207005",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7618974689297207005",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-19T14:33:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "3.19 会议总结",
+      "sourceUrl": "https://bydfimoon.sg.larksuite.com/wiki/DOf8wcumjiAohMkjFINlpj3AgMf?from=from_copylink",
+      "documentKey": "wiki_DOf8wcumjiAohMkjFINlpj3AgMf",
+      "status": "parsed",
+      "preview": "Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.19 会议总结 BYDFi Jenny 3.19 会议总结 外部 最近修改: 3月19日 22:31 分享 3.19 会议总结 3.19 客服部门单周会 一、AI 工具应用落地与优化 二、VIP 用户资料管理与功能测试 三、客服培训体系推进与优化 四、客服排班规则优化与落地 五、产品需求反馈与功能测试 六、会议详情：3.19 客服单周会议记录 3.19 SEO+增长会 一..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7620297860994584284": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620297860994584284",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7620297860994584284",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-23T04:07:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater @Yohan 这个群你试试看 Yohan"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7620309294463389408": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620309294463389408",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7620309294463389408",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-23T04:51:00+00:00",
+      "reporterName": "Lona",
+      "senderId": "1bb672090848",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Lona",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Lona @Yohan 这位是新来的助理吗"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7620310871957950176": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620310871957950176",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7620310871957950176",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-23T04:58:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 是的"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7620456779486351070": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620456779486351070",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7620456779486351070",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-23T14:24:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "3.23 会议总结",
+      "sourceUrl": "https://bydfimoon.sg.larksuite.com/wiki/MF7owuELHidqV6klJTklYempgsf?from=from_copylink",
+      "documentKey": "wiki_MF7owuELHidqV6klJTklYempgsf",
+      "status": "parsed",
+      "preview": "Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.23 会议总结 BYDFi Jenny 3.23 会议总结 外部 最近修改: 昨天 22:23 分享 3.23 会议总结 3.23技术周会 一、技术保障 二、核心业务进度 三、AI 测试自动化 四、其他技术事项 五、会议详情：3.23技术周会记录 3.23 平台运营周会 一、SEO 业务线 二、六周年活动运营 三、其他平台运营工作重点 四、技术方案优化 五、会议详情：3...."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7620841269392051933": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620841269392051933",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7620841269392051933",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-24T15:16:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "3.24 会议总结",
+      "sourceUrl": "https://bydfimoon.sg.larksuite.com/wiki/BIrIwZKgai34tpkW9rKlequhgof?from=from_copylink",
+      "documentKey": "wiki_BIrIwZKgai34tpkW9rKlequhgof",
+      "status": "parsed",
+      "preview": "Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.24 会议总结 BYDFi Jenny 3.24 会议总结 外部 最近修改: 6 分钟前 分享 3.24 会议总结 3.24 客服双周会 一、六周年活动相关工作安排 二、用户被盗号 SOP 调整 三、法律自助服务引导要求 四、税报自行导出功能使用说明 五、会议详情：3.24 客服双周会议记录 3.24 michael招商会 一、媒体请款安排 二、AI 应用落地与问题 三、..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7621078304008326879": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621078304008326879",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7621078304008326879",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-25T06:36:00+00:00",
+      "reporterName": "Claude分析机器人",
+      "senderId": "bf0a3b854d28",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Claude分析机器人",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Claude分析机器人 机器人 通过Claude将会议分析的内容推送至Lark 部门进展纵向诊断报告 覆盖范围：血战到底群已入库历史会议，按部门纵向串联分析 https://reportsite-zeta.vercel.app Monica Lona https://reportsite-zeta.vercel.app/ https://reportsite-zeta.vercel.app"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7621082428463009503": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621082428463009503",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7621082428463009503",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-25T06:52:00+00:00",
+      "reporterName": "Lona",
+      "senderId": "1bb672090848",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Lona",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Lona 问题还挺多的"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7621085396625133277": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621085396625133277",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7621085396625133277",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-25T07:03:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 我咋打不开"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7621087444422692575": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621087444422692575",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7621087444422692575",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-25T07:11:00+00:00",
+      "reporterName": "Lona",
+      "senderId": "1bb672090848",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "https://reportsite-zeta.vercel.app/",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "https://reportsite-zeta.vercel.app/ reportsite-zeta.vercel.app 部门进展纵向诊断报告"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7621087369336213212": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621087369336213212",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7621087369336213212",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-25T07:11:00+00:00",
+      "reporterName": "Lona",
+      "senderId": "1bb672090848",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Lona",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Lona @Kater ceo"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7621088734315597533": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621088734315597533",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7621088734315597533",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-25T07:16:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 这是信息还没采集全 Yohan"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7621088945861873371": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621088945861873371",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7621088945861873371",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-25T07:17:00+00:00",
+      "reporterName": "Lona",
+      "senderId": "1bb672090848",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Lona",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Lona 你把链接丢给claude"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7621089004554358495": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621089004554358495",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7621089004554358495",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-25T07:17:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 啥链接"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7621089101202099935": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621089101202099935",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7621089101202099935",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-25T07:18:00+00:00",
+      "reporterName": "Lona",
+      "senderId": "1bb672090848",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Lona",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Lona 报告链接啊"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7621089152141905628": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621089152141905628",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7621089152141905628",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-25T07:18:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 文字的哪儿来链接"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7621213118705716962": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621213118705716962",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7621213118705716962",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-25T15:19:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "3.25 会议总结",
+      "sourceUrl": "https://bydfimoon.sg.larksuite.com/wiki/BobtwtpyViR3jAkSww7l7DQvg4c?from=from_copylink",
+      "documentKey": "wiki_BobtwtpyViR3jAkSww7l7DQvg4c",
+      "status": "parsed",
+      "preview": "Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.25 会议总结 BYDFi Jenny 3.25 会议总结 外部 最近修改: 3月25日 23:18 分享 3.25 会议总结 3.25 韩国招商周会 一、韩国市场活动调整情况 二、风控问题处理 三、活动后续规划 四、代理反馈情况 五、会议详情：3.25 韩国招商会议记录 3.25 现货+用户会议 一、核心需求进度情况 二、时间排期与风险 三、安全中心相关安排 四、其他需..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7621445397264797407": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621445397264797407",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7621445397264797407",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-26T06:20:00+00:00",
+      "reporterName": "Claude分析机器人",
+      "senderId": "bf0a3b854d28",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Claude分析机器人",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Claude分析机器人 机器人 通过Claude将会议分析的内容推送至Lark BYDFi / Department Intelligence ?????????? 面向CEO的总览判断 一、当前最值得管理层盯住的三条主线 第一条：代理基础体验断裂正在侵蚀BD侧信任资产。邀请码404报错、奖励派发时间不固定这两个问题已连续横跨两个以上完整周期，在招商、运营、产品、风控四个部门的纪要中反复出现，至今没有任何一个部门给出带截止日期的技术修复..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7621590548638944987": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621590548638944987",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7621590548638944987",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-26T15:43:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "3.26 会议总结",
+      "sourceUrl": "https://bydfimoon.sg.larksuite.com/wiki/Cygxwlwo9i3KetkwtxhlqsfTgOf?from=from_copylink",
+      "documentKey": "wiki_Cygxwlwo9i3KetkwtxhlqsfTgOf",
+      "status": "parsed",
+      "preview": "Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.26 会议总结 BYDFi Jenny 3.26 会议总结 外部 最近修改: 昨天 23:43 分享 3.26 会议总结 3.26 seo项目组周会 一、全站数据健康度与核心问题 二、各模块数据表现 三、产品进度与 3-4 月 OKR 四、内容工厂与六周年活动 五、会议详情：3.26seo项目组周会（数据+产品+内容+研发） 3.26 客服单周会 一、报表导出与 PNL..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7621967119541898971": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621967119541898971",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7621967119541898971",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-27T16:05:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "3.27 会议总结",
+      "sourceUrl": "https://bydfimoon.sg.larksuite.com/wiki/BSAdwpt1riwK46kC3UqlKMtLgxb?from=from_copylink",
+      "documentKey": "wiki_BSAdwpt1riwK46kC3UqlKMtLgxb",
+      "status": "parsed",
+      "preview": "Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.27 会议总结 BYDFi Jenny 3.27 会议总结 外部 最近修改: 3月28日 00:04 分享 3.27 会议总结 3.27 中心会议 一、本周生产问题排查 二、核心 OKR 进度与数据 三、各业务板块运行进度 四、后端技术需求推进 五、安全 AI 审计安排 六、会议详情：3.27 中心会议记录 3.27 单周组长汇报 一、韩区活动引发中班人力调配问题 二、业..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7623067374962347744": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623067374962347744",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7623067374962347744",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-30T15:14:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny 3.30 会议总结 你可阅读 https://bydfimoon.sg.larksuite.com/wiki/WpdTwjFRTiZQ8ZkI19MlPyycgEc?from=from_copylink Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.30 会议总结 BYDFi Jenny 3.30 会议总结 外部 最近修改: 3月30日 23:14 分享 3.30 会议总结 3.30 技术周会 一、整体质..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7623435552129404645": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623435552129404645",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7623435552129404645",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-03-31T15:03:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny 3.31 会议总结 你可阅读 https://bydfimoon.sg.larksuite.com/wiki/HlTMwNkeCi2coxkr1W8lCWV1gvF?from=from_copylink Lark云文档 J Jenny的云文档 外部 搜索 与我分享 3.31 会议总结 BYDFi Jenny 3.31 会议总结 外部 最近修改: 3月31日 23:11 分享 3.31 会议总结 3.31 前端会议 一、业务推..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7623874695770689244": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623874695770689244",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7623874695770689244",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-01T19:27:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny 4.1 会议总结 你可阅读 https://bydfimoon.sg.larksuite.com/wiki/L6CNwSoIliNdhnkQej2lbKI5gFV?from=from_copylink Lark云文档 J Jenny的云文档 外部 搜索 与我分享 4.1 会议总结 BYDFi Jenny 4.1 会议总结 外部 最近修改: 4月2日 03:27 分享 4.1 会议总结 4.1 韩国招商会 一、市场运营与活动效..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7623875309218647778": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875309218647778",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7623875309218647778",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-01T19:29:00+00:00",
+      "reporterName": "Miles",
+      "senderId": "a1161f6445c6",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Miles",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Miles 这是什么作息😅 Yohan"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7623875400506019554": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875400506019554",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7623875400506019554",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-01T19:30:00+00:00",
+      "reporterName": "Monica",
+      "senderId": "57f68dcfdb78",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Monica",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Monica 我刚也想问"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7623876381056257760": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623876381056257760",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7623876381056257760",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-01T19:34:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny 趴着跑cc呢 [捂脸]"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7623879003916504797": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623879003916504797",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7623879003916504797",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-01T19:44:00+00:00",
+      "reporterName": "Miles",
+      "senderId": "a1161f6445c6",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Miles",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Miles 黑客松不是一两周时间吗"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7623937624096378588": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623937624096378588",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7623937624096378588",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-01T23:31:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 是的，黑客松清明节后结束"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7624184483532558047": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7624184483532558047",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7624184483532558047",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-02T15:29:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny 4.2 会议总结 你可阅读 https://bydfimoon.sg.larksuite.com/wiki/OQxqwRqc5idV8BkgL2cl4fEYgFg?from=from_copylink Lark云文档 J Jenny的云文档 外部 搜索 与我分享 4.2 会议总结 BYDFi Jenny 4.2 会议总结 外部 最近修改: 4月2日 23:28 分享 4.2 会议总结 4.2 SEO项目组周会 一、本周 SE..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7623875436258266848": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875436258266848",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7623875436258266848",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-05T19:30:00+00:00",
+      "reporterName": "啊 这咋还有一个也醒着",
+      "senderId": "9601d2f8d110",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "啊 这咋还有一个也醒着",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "啊 这咋还有一个也醒着"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7623876607253434080": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623876607253434080",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7623876607253434080",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-05T19:34:00+00:00",
+      "reporterName": "这黑客松要交了，号被封了",
+      "senderId": "7601f87351df",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "这黑客松要交了，号被封了",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "这黑客松要交了，号被封了 [泣不成声]"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7621087464119144162": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621087464119144162",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7621087464119144162",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T07:11:00+00:00",
+      "reporterName": "可以",
+      "senderId": "0ef5c86fab94",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "可以",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "可以"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7621088804023078624": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621088804023078624",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7621088804023078624",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T07:16:00+00:00",
+      "reporterName": "慢慢加完整，汇总再看",
+      "senderId": "7b092f296e7f",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "慢慢加完整，汇总再看",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "慢慢加完整，汇总再看"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7621089199629881061": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7621089199629881061",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7621089199629881061",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T07:18:00+00:00",
+      "reporterName": "话题群也有",
+      "senderId": "aeea701fd5d7",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "话题群也有",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "话题群也有 Yohan"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7618626440061259493": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7618626440061259493",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7618626440061259493",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T16:01:00+00:00",
+      "reporterName": "会议遗留任务跟进",
+      "senderId": "5da15d440670",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jenny的云文档",
+      "sourceUrl": "https://bydfimoon.sg.larksuite.com/wiki/DpfLwwrd2ieQNZkhmMglBaCqgZb?from=from_copylink",
+      "documentKey": "wiki_DpfLwwrd2ieQNZkhmMglBaCqgZb",
+      "status": "parsed",
+      "preview": "Lark云文档 J Jenny的云文档 外部 搜索 与我分享 会议遗留任务跟进 BYDFi Jenny 会议遗留任务跟进 外部 最近修改: 3月19日 15:57 分享 会议待跟进任务多维表 表格视图 1 字段配置 视图配置 筛选 分组 排序 行高 生成表单 评论 添加记录 表格视图 1 评论 加载中... 上传日志 联系客服 功能更新 使用指南 效率指南"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7616030361708941019": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7616030361708941019",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7616030361708941019",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T16:07:00+00:00",
+      "reporterName": "我看过Jocelyn月报对异常代理佣金的取出做了专项统计的",
+      "senderId": "75d9a0eb24bb",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "我看过Jocelyn月报对异常代理佣金的取出做了专项统计的",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "我看过Jocelyn月报对异常代理佣金的取出做了专项统计的 1 条回复"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7599705508324363996": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705508324363996",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7599705508324363996",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T16:18:00+00:00",
+      "reporterName": "我以为这么顺",
+      "senderId": "2ede869cb2a9",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "我以为这么顺",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "我以为这么顺"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7568535455440850656": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7568535455440850656",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7568535455440850656",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T16:23:00+00:00",
+      "reporterName": "unknown",
+      "senderId": "b23a6a8439c0",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "https://rjdx19yd9zo.sg.larksuite.com/docx/IYBrdbxjGogcqaxLZG3l5C18gKX",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "https://rjdx19yd9zo.sg.larksuite.com/docx/IYBrdbxjGogcqaxLZG3l5C18gKX CodeForce Ella 智能纪要：现货策略会议 2025年11月3日 外部 添加快捷方式 最近修改: 2025年12月3日 分享 智能纪要：现货策略会议 2025年11月3日 总结 待办 相关链接 相关会议纪要 智能纪要：现货策略会议 2025年11月3日​ Ella 2025年12月3日修改..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7577070732279090912": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7577070732279090912",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7577070732279090912",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T16:24:00+00:00",
+      "reporterName": "之前律师信发了没用",
+      "senderId": "783c1ac14cfe",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "之前律师信发了没用",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "之前律师信发了没用"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7620297790844866272": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620297790844866272",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7620297790844866272",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater 邀请 Yohan 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater 邀请 Yohan 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7620300734206086876": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620300734206086876",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7620300734206086876",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporterName": "Lona",
+      "senderId": "1bb672090848",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Lona 关闭了新成员可查看历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Lona 关闭了新成员可查看历史消息"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7620887820072160989": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7620887820072160989",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7620887820072160989",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporterName": "Yohan",
+      "senderId": "5e20679ab132",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Yohan 邀请 Claude分析机器人 加入此群，新成员仅可查看入群后的消息撤销邀请",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Yohan 邀请 Claude分析机器人 加入此群，新成员仅可查看入群后的消息撤销邀请"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7623875964753186523": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875964753186523",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7623875964753186523",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporterName": "你撤回了一条消息",
+      "senderId": "d4e8206ba584",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "你撤回了一条消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "你撤回了一条消息"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7581865080711581408": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7581865080711581408",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7581865080711581408",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporterName": "Miles",
+      "senderId": "a1161f6445c6",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Miles 邀请 Kater 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Miles 邀请 Kater 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7577067954907401952": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7577067954907401952",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7577067954907401952",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Jenny 撤回了一条消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny 撤回了一条消息"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7554950650610585305": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7554950650610585305",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7554950650610585305",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Jenny 置顶了内容",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny 置顶了内容"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7554950683275824856": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7554950683275824856",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7554950683275824856",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Jenny 移除了置顶内容",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny 移除了置顶内容"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7538344607923355679": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7538344607923355679",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7538344607923355679",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporterName": "Monica",
+      "senderId": "57f68dcfdb78",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Monica 邀请 Charles 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Monica 邀请 Charles 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7534716265575759910": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7534716265575759910",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7534716265575759910",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporterName": "Ella",
+      "senderId": "c007c2974525",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Ella 撤回了一条消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Ella 撤回了一条消息"
+    }
+  },
+  "summaryText": "BYDFi 产研跨源对账单 (Cross-Check Report)\n\n一、高危断链项（AI双向核查确权）\n当前未发现可直接确权的高危断链项。\n二、待核对项（证据不足，不下重判）\n事件1：二、核心项目进展与卡点\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7591897679307771617\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件2：活动奖励相关问题讨论及优化方向​\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7592139250733174495\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件3：1.6 本月活动总结&下月活动规划\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7592258047599202012\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件4：二、12 月活动总结（成果与问题）\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7592258047599202012\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件5：三、1 月活动规划与优化措施\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7592258047599202012\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件6：三、会议详情：1.6 本月活动总结&下月活动规划\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7592258047599202012\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件7：基础系统：站点地图一键生成进度 80%（本周提测），GSC 对接 PIN 通知服务本周四上线；​\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7592258047599202012\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件8：内链与加载优化：内链调整组件、页面加载速度优化本周四上线，首字节加载时间优化进度 50%；​\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7592258047599202012\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件9：内容与 CTR 相关：程序化 SEO 话题集路径调整、品牌元素组件本周四上线；404 页面处理进度 60%，爬取与收录优化推进中。​\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7592258047599202012\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件10：收录与权重提升：调整爬取策略，补充页面内链，对权重下降页面重新生成发布；​\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7592258047599202012\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件11：多板块关注：提升各板块索引率，拓展 CFD 等泛行业内容。​\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7592258047599202012\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件12：渠道与系统异常：ETH USDC 大额提款延迟、节点异常等多起冲提渠道问题；信用卡三方出现订单缺失、调单、回调异常等问题，部分用户因延迟爆仓；​\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7592617948716519132\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n三、本周必须落地动作（最多3条）\n1. 请直接@产品负责人，本周内把“二、核心项目进展与卡点”写入需求池与版本进度表并锁定研发排期。\n2. 请直接@产品负责人，本周内把“活动奖励相关问题讨论及优化方向​”写入需求池与版本进度表并锁定研发排期。\n3. 请直接@产品负责人，本周内把“1.6 本月活动总结&下月活动规划”写入需求池与版本进度表并锁定研发排期。"
+}

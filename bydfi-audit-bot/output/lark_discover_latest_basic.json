@@ -1,0 +1,115 @@
+{
+  "messenger_url": "https://www.larksuite.com/next/messenger/",
+  "discovered_count": 39,
+  "selected_count": 12,
+  "chats": [
+    {
+      "feed_id": "7620268502493990619",
+      "title": "AI Reforge Hackathon竞赛",
+      "badge": "外部",
+      "time_hint": "昨天",
+      "preview_text": "Kater: 可以发到大群里",
+      "is_bot": false,
+      "is_group_candidate": true
+    },
+    {
+      "feed_id": "7623604121194548959",
+      "title": "AI翻译交流",
+      "badge": "外部",
+      "time_hint": "昨天",
+      "preview_text": "纪浩彬: 大家好，这是内容团队针对平台剩余未翻译词条的总结性文档，已在文档中将未翻译的常规词条以及法律词条做出标注，请大家查收，如需要其他协助，请随时联系 [链接]剩余词条清理-多语言",
+      "is_bot": false,
+      "is_group_candidate": true
+    },
+    {
+      "feed_id": "7380224347396374559",
+      "title": "BYDFi & Codeforce 全面合作群",
+      "badge": "外部",
+      "time_hint": "昨天",
+      "preview_text": "Zita: 今天7pm（UTC+8）AI黑客松第二场路演准时开启 请参赛队伍做好准备，也欢迎大家学习围观 [图片]",
+      "is_bot": false,
+      "is_group_candidate": true
+    },
+    {
+      "feed_id": "7454406454368354336",
+      "title": "BYDFi·MoonX业务大群",
+      "badge": "外部",
+      "time_hint": "4月8日",
+      "preview_text": "Night 撤回了一条消息",
+      "is_bot": false,
+      "is_group_candidate": true
+    },
+    {
+      "feed_id": "7480001284800593958",
+      "title": "web3研发任务",
+      "badge": "外部",
+      "time_hint": "4月7日",
+      "preview_text": "Owen: 【后端】流动性变化 @Owen",
+      "is_bot": false,
+      "is_group_candidate": true
+    },
+    {
+      "feed_id": "7624156515884076773",
+      "title": "Yohan: 大家好，过去四十八小时，按 4/1 会议结论我来同步当前目前进展： 历史翻译遗留问题拟按 P0/P1 分层推进，当前优先 P0（主要是一些专业术语、footer、法律页术语）。 核心交易词（如 Price/Buy），未确认前还不进入大模型。 内容团队给出的筛出的 3500+ 缺口清单，Claude自动化补齐脚本我已就绪。 当前有一些卡点仍是 口径确认，我按会议分工确认，辛苦负责的小伙伴明天查阅： @Stone 辛苦请看 2.xlsx（核心冲突词确认清单），逐个确认 Approved 或最终翻译。 @Christina 辛苦请看 1.xlsx，确认小语种 UI 长度与场景约束，该建议翻译结果是否可行。 至于法务部门 法律词条目前保持待定，待明确结论后推进。 收到确定后，我会推进用Claude全量核对未翻译词条，并在群内持续同步进度~",
+      "badge": "",
+      "time_hint": "4月2日",
+      "preview_text": "Yohan: 没问题节后来 @Stone",
+      "is_bot": false,
+      "is_group_candidate": true
+    },
+    {
+      "feed_id": "7591727220008177375",
+      "title": "三部门效能优化需求",
+      "badge": "外部",
+      "time_hint": "4月8日",
+      "preview_text": "Kater: 这个是啥",
+      "is_bot": false,
+      "is_group_candidate": true
+    },
+    {
+      "feed_id": "7486014800175054879",
+      "title": "中心研发任务",
+      "badge": "外部",
+      "time_hint": "昨天",
+      "preview_text": "Miya: 【临时任务】新设备+GA，触发24小时提币限制 后端：@Lgnis 测试：@Shirley 见文档6.6章节需求 PRD：[链接]安全验证需求文档",
+      "is_bot": false,
+      "is_group_candidate": true
+    },
+    {
+      "feed_id": "7407272591557197856",
+      "title": "产研周报发送群",
+      "badge": "外部",
+      "time_hint": "4月8日",
+      "preview_text": "Harry 邀请 Harry 加入此群，新成员入群可查看所有历史消息",
+      "is_bot": false,
+      "is_group_candidate": true
+    },
+    {
+      "feed_id": "7491529243126546470",
+      "title": "永续研发任务",
+      "badge": "外部",
+      "time_hint": "昨天",
+      "preview_text": "Miya: 【临时任务】历史仓位增加“报税报表”申请功能 测试：@Abel 后端：@Travel 管理后台：@Bobby PRD：https://zt.codetech.pro/zentao/story-view-2292-0-0-story.html",
+      "is_bot": false,
+      "is_group_candidate": true
+    },
+    {
+      "feed_id": "7619276781532122846",
+      "title": "测试",
+      "badge": "",
+      "time_hint": "3月23日",
+      "preview_text": "审计机器人: ???????：群汇总分析（1人）",
+      "is_bot": false,
+      "is_group_candidate": true
+    },
+    {
+      "feed_id": "7527206563312910367",
+      "title": "血战到底",
+      "badge": "外部",
+      "time_hint": "01:09",
+      "preview_text": "Jenny: [链接]4.9 会议总结",
+      "is_bot": false,
+      "is_group_candidate": true
+    }
+  ]
+}

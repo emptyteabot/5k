@@ -1,0 +1,1188 @@
+{
+  "title": "日周报分析助手：群汇总分析（15人）",
+  "chatId": "external_web_d2fb6467e40966f8",
+  "startAt": "2026-04-05T16:37:52.741304+00:00",
+  "endAt": "2026-04-08T16:37:52.741304+00:00",
+  "peopleCount": 15,
+  "reportCount": 21,
+  "documentCount": 0,
+  "sourceDistribution": [
+    {
+      "key": "external_text_message",
+      "label": "文字汇报",
+      "value": 15,
+      "color": "#7cff5f"
+    },
+    {
+      "key": "external_document_message",
+      "label": "文档全文",
+      "value": 5,
+      "color": "#00f5c4"
+    },
+    {
+      "key": "external_document_link_message",
+      "label": "external_document_link_message",
+      "value": 1,
+      "color": "#5b6b8a"
+    }
+  ],
+  "riskStats": {
+    "delivered": 10,
+    "testing": 1,
+    "review": 0,
+    "developing": 3,
+    "blocked": 0
+  },
+  "dailyActivity": [
+    {
+      "day": "04-06",
+      "value": 13
+    },
+    {
+      "day": "04-08",
+      "value": 8
+    }
+  ],
+  "events": [
+    {
+      "time": "2026-04-06T02:49:00+00:00",
+      "reporter": "Nilu",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Nilu",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625472994411859678",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T12:41:00+00:00",
+      "reporter": "Owen",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Owen",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625625502761373405",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T13:35:00+00:00",
+      "reporter": "Kelly",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kelly",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625639392186486496",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T13:47:00+00:00",
+      "reporter": "Charlie",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Charlie",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625642474072968933",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T14:06:00+00:00",
+      "reporter": "Rsii",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Rsii",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625647398622072546",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T15:22:00+00:00",
+      "reporter": "Luke",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Luke",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625667023187496677",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T15:47:00+00:00",
+      "reporter": "Sunday",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Sunday",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625673391680278238",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T18:58:52.901615+00:00",
+      "reporter": "Bender",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Bender 撤回了一条消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7612243498892267228",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T18:58:52.901615+00:00",
+      "reporter": "Relly",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Relly 邀请 Charlie 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7613705946384060125",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T18:58:52.901615+00:00",
+      "reporter": "Libby",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Libby 邀请 Night 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7598482949293493979",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T18:58:52.901615+00:00",
+      "reporter": "Teemo",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Teemo 邀请 Sunday，Luke，Bender 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7586502614263598812",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T18:58:52.901615+00:00",
+      "reporter": "Anthony",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Anthony 邀请 Liam 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7586504688216887004",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T18:58:52.901615+00:00",
+      "reporter": "Rsii",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Rsii 撤回了一条消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7581086676311641821",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T03:00:00+00:00",
+      "reporter": "Kevin",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Kevin",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626217831593053922",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T03:02:00+00:00",
+      "reporter": "Teemo",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Teemo",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626218435059470047",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T03:29:00+00:00",
+      "reporter": "Nilu",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Nilu",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626225314481311451",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T03:30:00+00:00",
+      "reporter": "Kevin",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kevin",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626225695202496219",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T03:31:00+00:00",
+      "reporter": "Kelly",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Kelly",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626225907329634016",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T03:33:00+00:00",
+      "reporter": "Ascen",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Ascen",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626226526228319963",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T07:30:00+00:00",
+      "reporter": "Kevin",
+      "sourceType": "external_document_link_message",
+      "sourceLabel": "external_document_link_message",
+      "sourceColor": "#5b6b8a",
+      "title": "Kevin",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626287442017963741",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T09:40:00+00:00",
+      "reporter": "Night",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Night",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626320885874626274",
+      "status": "parsed",
+      "error": ""
+    }
+  ],
+  "peopleCards": [
+    {
+      "reporterId": "99350cbad54a",
+      "reporterName": "Nilu",
+      "reportCount": 2,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T03:29:00+00:00",
+      "latestTitle": "Nilu",
+      "latestAnchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626225314481311451",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        },
+        {
+          "label": "文档全文",
+          "value": 1,
+          "color": "#00f5c4"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T02:49:00+00:00",
+          "title": "Nilu",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625472994411859678"
+        },
+        {
+          "time": "2026-04-08T03:29:00+00:00",
+          "title": "Nilu",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626225314481311451"
+        }
+      ]
+    },
+    {
+      "reporterId": "baa31bcd2580",
+      "reporterName": "Owen",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T12:41:00+00:00",
+      "latestTitle": "Owen",
+      "latestAnchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625625502761373405",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 10,
+        "testing": 0,
+        "review": 0,
+        "developing": 2,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T12:41:00+00:00",
+          "title": "Owen",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625625502761373405"
+        }
+      ]
+    },
+    {
+      "reporterId": "a226a2084c6d",
+      "reporterName": "Kelly",
+      "reportCount": 2,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T03:31:00+00:00",
+      "latestTitle": "Kelly",
+      "latestAnchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626225907329634016",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        },
+        {
+          "label": "文档全文",
+          "value": 1,
+          "color": "#00f5c4"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 1,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T13:35:00+00:00",
+          "title": "Kelly",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625639392186486496"
+        },
+        {
+          "time": "2026-04-08T03:31:00+00:00",
+          "title": "Kelly",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626225907329634016"
+        }
+      ]
+    },
+    {
+      "reporterId": "6e81b1255ad5",
+      "reporterName": "Charlie",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T13:47:00+00:00",
+      "latestTitle": "Charlie",
+      "latestAnchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625642474072968933",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T13:47:00+00:00",
+          "title": "Charlie",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625642474072968933"
+        }
+      ]
+    },
+    {
+      "reporterId": "cc77000ba2b5",
+      "reporterName": "Rsii",
+      "reportCount": 2,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T18:58:52.901615+00:00",
+      "latestTitle": "Rsii 撤回了一条消息",
+      "latestAnchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7581086676311641821",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 2,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T14:06:00+00:00",
+          "title": "Rsii",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625647398622072546"
+        },
+        {
+          "time": "2026-04-06T18:58:52.901615+00:00",
+          "title": "Rsii 撤回了一条消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7581086676311641821"
+        }
+      ]
+    },
+    {
+      "reporterId": "b395b3d82da2",
+      "reporterName": "Luke",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T15:22:00+00:00",
+      "latestTitle": "Luke",
+      "latestAnchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625667023187496677",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T15:22:00+00:00",
+          "title": "Luke",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625667023187496677"
+        }
+      ]
+    },
+    {
+      "reporterId": "873fef760e5d",
+      "reporterName": "Sunday",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T15:47:00+00:00",
+      "latestTitle": "Sunday",
+      "latestAnchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625673391680278238",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 1,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T15:47:00+00:00",
+          "title": "Sunday",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625673391680278238"
+        }
+      ]
+    },
+    {
+      "reporterId": "ca38a806c1d7",
+      "reporterName": "Bender",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T18:58:52.901615+00:00",
+      "latestTitle": "Bender 撤回了一条消息",
+      "latestAnchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7612243498892267228",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T18:58:52.901615+00:00",
+          "title": "Bender 撤回了一条消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7612243498892267228"
+        }
+      ]
+    },
+    {
+      "reporterId": "05fb7526e7ed",
+      "reporterName": "Relly",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T18:58:52.901615+00:00",
+      "latestTitle": "Relly 邀请 Charlie 加入此群，新成员入群可查看所有历史消息",
+      "latestAnchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7613705946384060125",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T18:58:52.901615+00:00",
+          "title": "Relly 邀请 Charlie 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7613705946384060125"
+        }
+      ]
+    },
+    {
+      "reporterId": "e7626defd668",
+      "reporterName": "Libby",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T18:58:52.901615+00:00",
+      "latestTitle": "Libby 邀请 Night 加入此群，新成员入群可查看所有历史消息",
+      "latestAnchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7598482949293493979",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T18:58:52.901615+00:00",
+          "title": "Libby 邀请 Night 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7598482949293493979"
+        }
+      ]
+    },
+    {
+      "reporterId": "0a470e2b9e39",
+      "reporterName": "Teemo",
+      "reportCount": 2,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T03:02:00+00:00",
+      "latestTitle": "Teemo",
+      "latestAnchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626218435059470047",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        },
+        {
+          "label": "文档全文",
+          "value": 1,
+          "color": "#00f5c4"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T18:58:52.901615+00:00",
+          "title": "Teemo 邀请 Sunday，Luke，Bender 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7586502614263598812"
+        },
+        {
+          "time": "2026-04-08T03:02:00+00:00",
+          "title": "Teemo",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626218435059470047"
+        }
+      ]
+    },
+    {
+      "reporterId": "3090ad7f5b83",
+      "reporterName": "Anthony",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T18:58:52.901615+00:00",
+      "latestTitle": "Anthony 邀请 Liam 加入此群，新成员入群可查看所有历史消息",
+      "latestAnchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7586504688216887004",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T18:58:52.901615+00:00",
+          "title": "Anthony 邀请 Liam 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7586504688216887004"
+        }
+      ]
+    },
+    {
+      "reporterId": "0e4dd66217fc",
+      "reporterName": "Kevin",
+      "reportCount": 3,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T07:30:00+00:00",
+      "latestTitle": "Kevin",
+      "latestAnchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626287442017963741",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 1,
+          "color": "#00f5c4"
+        },
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        },
+        {
+          "label": "external_document_link_message",
+          "value": 1,
+          "color": "#5b6b8a"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T03:00:00+00:00",
+          "title": "Kevin",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626217831593053922"
+        },
+        {
+          "time": "2026-04-08T03:30:00+00:00",
+          "title": "Kevin",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626225695202496219"
+        },
+        {
+          "time": "2026-04-08T07:30:00+00:00",
+          "title": "Kevin",
+          "sourceLabel": "external_document_link_message",
+          "sourceColor": "#5b6b8a",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626287442017963741"
+        }
+      ]
+    },
+    {
+      "reporterId": "4ac4c41fe44c",
+      "reporterName": "Ascen",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T03:33:00+00:00",
+      "latestTitle": "Ascen",
+      "latestAnchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626226526228319963",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 1,
+          "color": "#00f5c4"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T03:33:00+00:00",
+          "title": "Ascen",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626226526228319963"
+        }
+      ]
+    },
+    {
+      "reporterId": "4e9f8db8242b",
+      "reporterName": "Night",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T09:40:00+00:00",
+      "latestTitle": "Night",
+      "latestAnchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626320885874626274",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T09:40:00+00:00",
+          "title": "Night",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626320885874626274"
+        }
+      ]
+    }
+  ],
+  "evidenceIndex": {
+    "msg:webmsg_external_web_d2fb6467e40966f8_7625472994411859678": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625472994411859678",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7625472994411859678",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-06T02:49:00+00:00",
+      "reporterName": "Nilu",
+      "senderId": "99350cbad54a",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Nilu",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Nilu 【03.30~04.03】- nilu Polymarkets 优化市场列表展开交互，修复状态错乱并添加展开动画 优化订单簿组件性能，解决高频 WS 消息导致的频繁渲染问题 优化订单簿累计金额计算逻辑，修复卖单列表滚动跟随问题 修复订单簿切换 YES/NO 时价格显示错误问题 优化交易面板状态管理与主题颜色同步 添加 Polygonscan 交易详情查看功能 为加密货币系列事件添加 live dot 标识 优化系列事件标签组件..."
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7625625502761373405": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625625502761373405",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7625625502761373405",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-06T12:41:00+00:00",
+      "reporterName": "Owen",
+      "senderId": "baa31bcd2580",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Owen",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Owen 本周工作【03.30~04.03】- Owen MoonX 预测市场可用资产和总资产计算问题修复 - 已完成 预测市场聪明钱排行榜接口字段处理和优化 - 已完成 预测市场列表数据多标签组合搜索优化 - 已完成 预测市场新增单个仓位赎回接口 - 已完成 预测市场冲提资产屏蔽tron链 - 已完成 预测市场增加服务重启加载进行中的交易进行轮询和状态更新 - 已完成 预测市场资产变更transfer事件增加polymarket支持的..."
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7625639392186486496": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625639392186486496",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7625639392186486496",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-06T13:35:00+00:00",
+      "reporterName": "Kelly",
+      "senderId": "a226a2084c6d",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kelly",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kelly 本周周报【3.30~4.3】 一、代理渠道 - KOL 外联：已外联 1000+ KOL，已谈好7 个，谈判中 5 个，13 个已回复持续跟进 - 线上活动：代理奖励方案待预算确认（同上周，等定预算） - 直客/代理-媒体：媒体库建立中 二、直客渠道 - 邮件营销：宣发方案执行中 - 全球社群增长：本周新增17+报名，审核通过1人，沟通联系中 - SEO 优化：第二版方案跟进中 下周重点 1. KOL 已签约 7 个进入 B..."
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7625642474072968933": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625642474072968933",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7625642474072968933",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-06T13:47:00+00:00",
+      "reporterName": "Charlie",
+      "senderId": "6e81b1255ad5",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Charlie",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Charlie 本周周报【3.30~4.3】 跟进的需求 1、polymarket行情相关测试 2、web端地址标签上线，测试回归 3、2026.3.16 meteora dbc 2026.3.13 dammv2 合约更新兼容 4、 OTT Token 用户ws登录校验 下周代办 1、polymarket行情相关bug回归 2、app端polymarket接入测试 3、原生代币指向包装代币处理 4、流动性池子变化"
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7625647398622072546": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625647398622072546",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7625647398622072546",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-06T14:06:00+00:00",
+      "reporterName": "Rsii",
+      "senderId": "cc77000ba2b5",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Rsii",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Rsii 本周工作 0330-0405 1. MoonX社媒运营 （本周共发27条推文） 2. 预测市场新手教程梳理 3. 特斯拉交易S4活动收尾/奖励派发 （报名721人，有效交易174人，118人获奖) 4.预测市场活动/主站入口对接 5.预测市场上线活动方案调整 (复合活动，预测+meme交易） 6.1季度活动数据汇总 7.预测市场邮件排期及内容 下周工作 1.MoonX社媒运营 2.官网新手教程/社媒、代理教程图 3.预测市场活..."
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7625667023187496677": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625667023187496677",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7625667023187496677",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-06T15:22:00+00:00",
+      "reporterName": "Luke",
+      "senderId": "b395b3d82da2",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Luke",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Luke 本周周报【3.30.~4.3】-Luke 本周工作 web3数据需求 预测市场榜单数据定时任务同步数据 预测市场缺陷内bug修复 预测市场规则梳理统计 聪明钱榜单测试bug修复 预测市场排查数据覆盖问题 排查解决生产相关异常 下周计划 web3数据需求 预测市场内测支持 预测市场相关跟进"
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7625673391680278238": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7625673391680278238",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7625673391680278238",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-06T15:47:00+00:00",
+      "reporterName": "Sunday",
+      "senderId": "873fef760e5d",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Sunday",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Sunday 本周周报【3.30~4.3】- Sunday 本周工作 1. 聪明钱 a. 自研系统聪明钱bug修复 b. 盈利地址需求开发完成 c. 生产数据holding表pg同步selectdb完成 d. 生产持仓买入为0 bug排查 e. 持仓一致性优化 下周计划 3. 聪明钱 a. 盈利地址自测、联调 b. 持仓一致性优化自测"
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7612243498892267228": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7612243498892267228",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7612243498892267228",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-06T18:58:52.901615+00:00",
+      "reporterName": "Bender",
+      "senderId": "ca38a806c1d7",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Bender 撤回了一条消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Bender 撤回了一条消息"
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7613705946384060125": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7613705946384060125",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7613705946384060125",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-06T18:58:52.901615+00:00",
+      "reporterName": "Relly",
+      "senderId": "05fb7526e7ed",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Relly 邀请 Charlie 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Relly 邀请 Charlie 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7598482949293493979": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7598482949293493979",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7598482949293493979",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-06T18:58:52.901615+00:00",
+      "reporterName": "Libby",
+      "senderId": "e7626defd668",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Libby 邀请 Night 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Libby 邀请 Night 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7586502614263598812": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7586502614263598812",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7586502614263598812",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-06T18:58:52.901615+00:00",
+      "reporterName": "Teemo",
+      "senderId": "0a470e2b9e39",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Teemo 邀请 Sunday，Luke，Bender 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Teemo 邀请 Sunday，Luke，Bender 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7586504688216887004": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7586504688216887004",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7586504688216887004",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-06T18:58:52.901615+00:00",
+      "reporterName": "Anthony",
+      "senderId": "3090ad7f5b83",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Anthony 邀请 Liam 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Anthony 邀请 Liam 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7581086676311641821": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7581086676311641821",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7581086676311641821",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-06T18:58:52.901615+00:00",
+      "reporterName": "Rsii",
+      "senderId": "cc77000ba2b5",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Rsii 撤回了一条消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Rsii 撤回了一条消息"
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7626217831593053922": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626217831593053922",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7626217831593053922",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-08T03:00:00+00:00",
+      "reporterName": "Kevin",
+      "senderId": "0e4dd66217fc",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Kevin",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kevin https://gitlab-1.codetech.pro/wiki/cc-report 这是cc周报，大家clone本地，在/cc-report仓库目录下打开claude, 执行/getcc命令，会自动生成报告并上传 大家发周报的同时，将cc周报也一并执行上传，moonx必须全员参与（cex上周已经开始） 没有gitlab账号的可以找我开通 @所有人 Koen Ascen Tony Ian Jick Relly Kater..."
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7626218435059470047": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626218435059470047",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7626218435059470047",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-08T03:02:00+00:00",
+      "reporterName": "Teemo",
+      "senderId": "0a470e2b9e39",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Teemo",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Teemo 回复 Kevin: https://gitlab-1.codetech.pro/wiki/cc-report 这是cc周报，大家clone本地，在/cc-report仓库目录下打开claude, 执行/getcc命令，会自动生成报告并上传 大家发周报的同时，将cc周报也一并执行上传，moonx必须全员参与（cex上周已经开始） 没有gitlab账号的可以找我开通 @所有人 @Kevin 仓库没权限 Ascen Bruce I..."
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7626225314481311451": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626225314481311451",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7626225314481311451",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-08T03:29:00+00:00",
+      "reporterName": "Nilu",
+      "senderId": "99350cbad54a",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Nilu",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Nilu 回复 Kevin: https://gitlab-1.codetech.pro/wiki/cc-report 这是cc周报，大家clone本地，在/cc-report仓库目录下打开claude, 执行/getcc命令，会自动生成报告并上传 大家发周报的同时，将cc周报也一并执行上传，moonx必须全员参与（cex上周已经开始） 没有gitlab账号的可以找我开通 @所有人 @Kevin 已经用完了一个了 再上传就是新的了 So..."
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7626225695202496219": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626225695202496219",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7626225695202496219",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-08T03:30:00+00:00",
+      "reporterName": "Kevin",
+      "senderId": "0e4dd66217fc",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kevin",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kevin 回复 Nilu: @Kevin 已经用完了一个了 再上传就是新的了 @Nilu 什么意思，重新生成当周的会覆盖的 Nilu 就是已经换了一个apikey 了 现在提交应该是提交新的 旧的应该没了 Kevin 就按新的提交 回复话题"
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7626225907329634016": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626225907329634016",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7626225907329634016",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-08T03:31:00+00:00",
+      "reporterName": "Kelly",
+      "senderId": "a226a2084c6d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Kelly",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kelly 回复 Kevin: https://gitlab-1.codetech.pro/wiki/cc-report 这是cc周报，大家clone本地，在/cc-report仓库目录下打开claude, 执行/getcc命令，会自动生成报告并上传 大家发周报的同时，将cc周报也一并执行上传，moonx必须全员参与（cex上周已经开始） 没有gitlab账号的可以找我开通 @所有人 打开出现这个怎么办 Sorry, you have..."
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7626226526228319963": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626226526228319963",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7626226526228319963",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-08T03:33:00+00:00",
+      "reporterName": "Ascen",
+      "senderId": "4ac4c41fe44c",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Ascen",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Ascen 不用打开，直接 git clone https://gitlab-1.codetech.pro/wiki/cc-report Sorry, you have been blocked You are unable to access codetech.pro Why have I been blocked? This website is using a security service to protect itself..."
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7626287442017963741": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626287442017963741",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7626287442017963741",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-08T07:30:00+00:00",
+      "reporterName": "Kevin",
+      "senderId": "0e4dd66217fc",
+      "sourceType": "external_document_link_message",
+      "messageType": "text",
+      "title": "Kevin",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kevin 回复 Kevin: https://gitlab-1.codetech.pro/wiki/cc-report 这是cc周报，大家clone本地，在/cc-report仓库目录下打开claude, 执行/getcc命令，会自动生成报告并上传 大家发周报的同时，将cc周报也一并执行上传，moonx必须全员参与（cex上周已经开始） 没有gitlab账号的可以找我开通 @所有人 大家更新下，reports下分成了cex和moonx..."
+    },
+    "msg:webmsg_external_web_d2fb6467e40966f8_7626320885874626274": {
+      "anchorId": "msg:webmsg_external_web_d2fb6467e40966f8_7626320885874626274",
+      "messageId": "webmsg_external_web_d2fb6467e40966f8_7626320885874626274",
+      "chatId": "external_web_d2fb6467e40966f8",
+      "time": "2026-04-08T09:40:00+00:00",
+      "reporterName": "Night",
+      "senderId": "4e9f8db8242b",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Night",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Night 回复 Kevin: 大家更新下，reports下分成了cex和moonx目录，上传master分支 @Kevin 我这边还是没有权限访问。麻烦帮我开个权限。 Kevin"
+    }
+  },
+  "summaryText": "BYDFi 产研跨源对账单 (Cross-Check Report)\n\n一、高危断链项（AI双向核查确权）\n当前未发现可直接确权的高危断链项。\n二、待核对项（证据不足，不下重判）\n事件1：Claude code 生成seo 新闻爬虫抓取和AI创作 - 进行中 50%\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_d2fb6467e40966f8_7625625502761373405\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件2：- 线上活动：代理奖励方案待预算确认（同上周，等定预算）\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_d2fb6467e40966f8_7625639392186486496\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件3：3. 预测上线邮件活动社媒宣发流程跟进\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_d2fb6467e40966f8_7625639392186486496\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件4：4. 代理线上活动方案待预算到位后启动\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_d2fb6467e40966f8_7625639392186486496\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件5：3. 特斯拉交易S4活动收尾/奖励派发\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_d2fb6467e40966f8_7625647398622072546\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件6：4.预测市场活动/主站入口对接\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_d2fb6467e40966f8_7625647398622072546\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件7：5.预测市场上线活动方案调整\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_d2fb6467e40966f8_7625647398622072546\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件8：(复合活动，预测+meme交易）\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_d2fb6467e40966f8_7625647398622072546\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件9：6.1季度活动数据汇总\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_d2fb6467e40966f8_7625647398622072546\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件10：3.预测市场活动上线预告/竞猜活动\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_d2fb6467e40966f8_7625647398622072546\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n三、本周必须落地动作（最多3条）\n1. 请直接@产品负责人，本周内把“Claude code 生成seo 新闻爬虫抓取”写入需求池与版本进度表并锁定研发排期。\n2. 请直接@产品负责人，本周内把“- 线上活动：代理奖励方案待预算确认（同上周，等”写入需求池与版本进度表并锁定研发排期。\n3. 请直接@产品负责人，本周内把“3. 预测上线邮件活动社媒宣发流程跟进”写入需求池与版本进度表并锁定研发排期。"
+}

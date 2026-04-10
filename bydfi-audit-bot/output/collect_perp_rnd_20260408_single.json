@@ -1,0 +1,72 @@
+{
+  "registry_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\config\\lark_group_registry.json",
+  "db_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\audit_records.sqlite3",
+  "discover_output": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\lark_discover_latest.json",
+  "resolved_external_collector_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py",
+  "resolved_storage_state_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\data\\playwright\\lark_storage_state.json",
+  "targets": [
+    "永续研发任务"
+  ],
+  "runs": [
+    {
+      "title": "永续研发任务",
+      "hours": 4380,
+      "ok": false,
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1843, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1804, in main\n    payload = collect_group_reports(\n              ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1426, in collect_group_reports\n    current_url, current_chat_name = _open_target_chat(\n                                     ^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1383, in _open_target_chat\n    raise RuntimeError(f\"没有在 messenger 中找到群：{group_name}\")\nRuntimeError: 没有在 messenger 中找到群：永续研发任务"
+    }
+  ],
+  "before": {
+    "required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 3,
+    "all_collection_stale_count": 5,
+    "required_collection_stale_titles": [
+      "三部门效能优化需求",
+      "永续研发任务",
+      "血战到底"
+    ],
+    "unregistered_discovered_count": 2,
+    "suspicious_discovered_count": 1
+  },
+  "after": {
+    "required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 3,
+    "all_collection_stale_count": 5,
+    "required_collection_stale_titles": [
+      "三部门效能优化需求",
+      "永续研发任务",
+      "血战到底"
+    ],
+    "unregistered_discovered_count": 2,
+    "suspicious_discovered_count": 1
+  }
+}

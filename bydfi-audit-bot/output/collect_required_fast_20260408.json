@@ -1,0 +1,128 @@
+{
+  "registry_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\config\\lark_group_registry.json",
+  "db_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\audit_records.sqlite3",
+  "discover_output": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\lark_discover_latest.json",
+  "resolved_external_collector_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py",
+  "resolved_storage_state_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\data\\playwright\\lark_storage_state.json",
+  "targets": [
+    "BYDFi·MoonX业务大群",
+    "三部门效能优化需求",
+    "中心研发任务",
+    "产研周报发送群",
+    "永续研发任务",
+    "血战到底",
+    "AI翻译交流"
+  ],
+  "runs": [
+    {
+      "title": "BYDFi·MoonX业务大群",
+      "hours": 72,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: aba519b21e884adb949d05d5a1eb1231\nChat ID: external_web_d2fb6467e40966f8\nCurrent chat: BYDFi·MoonX业务大群\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 15\nNew messages: 0\nUpdated messages: 15\nFetched documents: 0\nPeople: 14\nReport text path: C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\6feb69cd7420401ba3a0dc119bec7399.md\nReport json path: C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\6feb69cd7420401ba3a0dc119bec7399.json",
+      "stderr": ""
+    },
+    {
+      "title": "三部门效能优化需求",
+      "hours": 72,
+      "ok": false,
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1843, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1804, in main\n    payload = collect_group_reports(\n              ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1547, in collect_group_reports\n    report_payload = build_group_summary_report(\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\group_summary.py\", line 567, in build_group_summary_report\n    summary, buckets, records = generate_group_summary(chat_id, start_at=start_at, end_at=end_at)\n                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\group_summary.py\", line 553, in generate_group_summary\n    summary = run_group_summary(\n              ^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\auditor.py\", line 434, in run_group_summary\n    return _run_model(\n           ^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\auditor.py\", line 329, in _run_model\n    return _run_with_anthropic(system_prompt, user_message)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\auditor.py\", line 228, in _run_with_anthropic\n    raise RuntimeError(\"ANTHROPIC_API_KEY 为空，无法调用 Anthropic / Claude。\")\nRuntimeError: ANTHROPIC_API_KEY 为空，无法调用 Anthropic / Claude。"
+    },
+    {
+      "title": "中心研发任务",
+      "hours": 72,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: 90d2af9e34984391a168211c66e3ea47\nChat ID: external_web_268b46e9007e1874\nCurrent chat: 中心研发任务\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 38\nNew messages: 0\nUpdated messages: 38\nFetched documents: 0\nPeople: 14\nReport text path: C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\1664a3980e5c4c92a97de01e03ed91ab.md\nReport json path: C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\1664a3980e5c4c92a97de01e03ed91ab.json",
+      "stderr": ""
+    },
+    {
+      "title": "产研周报发送群",
+      "hours": 72,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: db73cf35ee0d4e319e7b5cd907c34678\nChat ID: external_web_725d8280a3bdef9f\nCurrent chat: 产研周报发送群\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 9\nNew messages: 0\nUpdated messages: 9\nFetched documents: 0\nPeople: 10\nReport text path: C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\a568997cbed84b5a91279cbb715a20f2.md\nReport json path: C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\a568997cbed84b5a91279cbb715a20f2.json",
+      "stderr": ""
+    },
+    {
+      "title": "永续研发任务",
+      "hours": 72,
+      "ok": false,
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1843, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1804, in main\n    payload = collect_group_reports(\n              ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1426, in collect_group_reports\n    current_url, current_chat_name = _open_target_chat(\n                                     ^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1383, in _open_target_chat\n    raise RuntimeError(f\"没有在 messenger 中找到群：{group_name}\")\nRuntimeError: 没有在 messenger 中找到群：永续研发任务"
+    },
+    {
+      "title": "血战到底",
+      "hours": 72,
+      "ok": false,
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1843, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1804, in main\n    payload = collect_group_reports(\n              ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1547, in collect_group_reports\n    report_payload = build_group_summary_report(\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\group_summary.py\", line 567, in build_group_summary_report\n    summary, buckets, records = generate_group_summary(chat_id, start_at=start_at, end_at=end_at)\n                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\group_summary.py\", line 553, in generate_group_summary\n    summary = run_group_summary(\n              ^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\auditor.py\", line 434, in run_group_summary\n    return _run_model(\n           ^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\auditor.py\", line 329, in _run_model\n    return _run_with_anthropic(system_prompt, user_message)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\auditor.py\", line 228, in _run_with_anthropic\n    raise RuntimeError(\"ANTHROPIC_API_KEY 为空，无法调用 Anthropic / Claude。\")\nRuntimeError: ANTHROPIC_API_KEY 为空，无法调用 Anthropic / Claude。"
+    },
+    {
+      "title": "AI翻译交流",
+      "hours": 72,
+      "ok": false,
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1843, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1804, in main\n    payload = collect_group_reports(\n              ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py\", line 1547, in collect_group_reports\n    report_payload = build_group_summary_report(\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\group_summary.py\", line 567, in build_group_summary_report\n    summary, buckets, records = generate_group_summary(chat_id, start_at=start_at, end_at=end_at)\n                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\group_summary.py\", line 553, in generate_group_summary\n    summary = run_group_summary(\n              ^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\auditor.py\", line 434, in run_group_summary\n    return _run_model(\n           ^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\auditor.py\", line 329, in _run_model\n    return _run_with_anthropic(system_prompt, user_message)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\cyh\\Desktop\\BYDFI\\auditor.py\", line 228, in _run_with_anthropic\n    raise RuntimeError(\"ANTHROPIC_API_KEY 为空，无法调用 Anthropic / Claude。\")\nRuntimeError: ANTHROPIC_API_KEY 为空，无法调用 Anthropic / Claude。"
+    }
+  ],
+  "before": {
+    "required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 4,
+    "all_collection_stale_count": 6,
+    "required_collection_stale_titles": [
+      "中心研发任务",
+      "产研周报发送群",
+      "永续研发任务",
+      "血战到底"
+    ],
+    "unregistered_discovered_count": 2,
+    "suspicious_discovered_count": 1
+  },
+  "after": {
+    "required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 4,
+    "all_collection_stale_count": 6,
+    "required_collection_stale_titles": [
+      "三部门效能优化需求",
+      "永续研发任务",
+      "血战到底",
+      "AI翻译交流"
+    ],
+    "unregistered_discovered_count": 2,
+    "suspicious_discovered_count": 1
+  }
+}

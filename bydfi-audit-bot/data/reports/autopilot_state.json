@@ -1,0 +1,22 @@
+﻿{
+    "last_backfill_exit":  1,
+    "last_incremental_err_log":  "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\logs\\autopilot\\incremental-20260331-194802-316.err.log",
+    "last_backfill_log":  "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\logs\\autopilot\\backfill-20260331-201831-987.out.log",
+    "heartbeat_at":  "2026-03-31T20:18:37.0479975+08:00",
+    "pid":  20024,
+    "last_incremental_log":  "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\logs\\autopilot\\incremental-20260331-194802-316.out.log",
+    "current_step":  "",
+    "last_incremental_at":  "2026-03-31T20:18:06.7708923+08:00",
+    "last_incremental_retry_exit":  1,
+    "last_incremental_retry_at":  "2026-03-31T20:18:31.9792768+08:00",
+    "last_incremental_exit":  124,
+    "last_incremental_tail":  "timeout",
+    "last_backfill_err_log":  "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\logs\\autopilot\\backfill-20260331-201831-987.err.log",
+    "last_incremental_retry_tail":  "C:\\Users\\cyh\\AppData\\Local\\Programs\\Python\\Python314\\python.exe: can\u0027t open file \u0027C:\\\\Users\\\\cyh\\\\Desktop\\\\������ʵϰ\\\\bydfi-audit-bot\\\\run_incremental_cycle.py\u0027: [Errno 2] No such file or directory",
+    "last_backfill_tail":  "C:\\Users\\cyh\\AppData\\Local\\Programs\\Python\\Python314\\python.exe: can\u0027t open file \u0027C:\\\\Users\\\\cyh\\\\Desktop\\\\������ʵϰ\\\\bydfi-audit-bot\\\\run_history_backfill.py\u0027: [Errno 2] No such file or directory",
+    "last_incremental_retry_err_log":  "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\logs\\autopilot\\incremental_retry-20260331-201826-847.err.log",
+    "current_step_started_at":  "2026-03-31T20:18:31.9920421+08:00",
+    "current_step_pid":  0,
+    "last_incremental_retry_log":  "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\logs\\autopilot\\incremental_retry-20260331-201826-847.out.log",
+    "last_backfill_at":  "2026-03-31T20:18:37.0445561+08:00"
+}

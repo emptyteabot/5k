@@ -1,0 +1,98 @@
+{
+  "version": "2026-04-07",
+  "description": "Lark 群纳管清单。只有进这个注册表的群，才可以对外宣称已纳入覆盖审计与补采流程。",
+  "collector": {
+    "external_collector_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py",
+    "storage_state_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\data\\playwright\\lark_storage_state.json",
+    "search_terms": [
+      "研发",
+      "任务",
+      "项目",
+      "周报",
+      "需求",
+      "协作",
+      "测试",
+      "MoonX",
+      "血战到底",
+      "翻译"
+    ],
+    "search_exhaustive": true,
+    "search_limit": 400,
+    "scroll_iterations": 18
+  },
+  "groups": [
+    {
+      "title": "中心研发任务",
+      "category": "研发任务",
+      "required": true,
+      "priority": "p0",
+      "notes": "新增研发任务群，必须纳管并补采历史消息。"
+    },
+    {
+      "title": "web3研发任务",
+      "category": "研发任务",
+      "required": true,
+      "priority": "p0",
+      "notes": "新增研发任务群，直接影响跨链与新业务线交付节奏。"
+    },
+    {
+      "title": "永续研发任务",
+      "category": "研发任务",
+      "required": true,
+      "priority": "p0",
+      "notes": "核心版本任务线，直接影响版本推进和上线风险。"
+    },
+    {
+      "title": "产研周报发送群",
+      "category": "周报汇总",
+      "required": true,
+      "priority": "p0",
+      "notes": "跨角色周报聚合入口，管理判断优先级高。"
+    },
+    {
+      "title": "三部门效能优化需求",
+      "category": "效能需求",
+      "required": true,
+      "priority": "p0",
+      "notes": "跨产品、研发、测试的效能问题汇总群。"
+    },
+    {
+      "title": "BYDFi·MoonX业务大群",
+      "category": "经营主群",
+      "required": true,
+      "priority": "p0",
+      "aliases": [
+        "BYDFI·MoonX业务大群"
+      ],
+      "notes": "业务主线群，直接决定高层判断基准。"
+    },
+    {
+      "title": "血战到底",
+      "category": "会议与经营",
+      "required": true,
+      "priority": "p0",
+      "notes": "关键会议结论和临时决策经常集中在这里。"
+    },
+    {
+      "title": "AI翻译交流",
+      "category": "翻译项目",
+      "required": true,
+      "priority": "p1",
+      "notes": "Kater 相关翻译推进线，和表格任务串联有关。"
+    },
+    {
+      "title": "AI Reforge Hackathon竞赛",
+      "category": "AI 探索",
+      "required": false,
+      "priority": "p2",
+      "notes": "探索性项目，默认纳入发现但不强制纳入 CEO 每日报告。"
+    },
+    {
+      "title": "测试",
+      "category": "测试",
+      "required": false,
+      "priority": "p2",
+      "notes": "群名过短，后续需要结合人工确认避免误匹配。"
+    }
+  ]
+}

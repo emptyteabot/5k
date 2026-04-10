@@ -1,0 +1,133 @@
+{
+  "generated_at": "2026-04-02T11:16:47+08:00",
+  "repo_root": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot",
+  "overall_status": "fail",
+  "latest_any_message_timestamp": "2026-03-31T11:55:49.460725+00:00",
+  "latest_substantive_record": {
+    "id": 234,
+    "message_timestamp": "2026-03-31T10:28:01.541817+00:00",
+    "source_title": "平台目前已存在一套资金费用监控与预警系统，可定期比对主流竞品与我方各永续合约币对的：​",
+    "reporter_name": "Miya",
+    "source_type": "external_document_message",
+    "preview": "Lark云文档\nJ\nJack的云文档\n搜索\n与我分享\n资费调整自动化\nBYDFi Risk Control Support\nJack\n资费调整自动化\n外部\n最近修改: 3月6日 15:27\n分享\n资费调整自动化\n需求背景\n机制一：资金费用预警机制\n运行机制：\n机制二：资金费用预警机制\n运行机制：\n帮助中心后台操作流程：\n资费调整自动化​\nJack\nMiya\nWendell\n3月6日修改\n需求背景​\n为降低永续合约资金费用差异所带来的套利风险，同时兼顾即时性与业务稳定性，需将现行资金费用相关机制，明确拆分为两套并行运行、职责不同的系统能力：​\n1.\n资金费用预警机制（监控 / 提醒用，不直接调整）​\n2.\n资金费用自动调整机制（执行用，不依赖预警）​\n两套机制独立扫描、独立触发、互不依赖。​\n​\n机制一：资金费用预警机制​\n平台目前已存在一套资金费用监控与预警系统，可定期比对主流竞品与我方各永续合约币对的：​\n•\n资金费率数值​\n•\n资金费用结算频率​\n并于检测到异常时，由机器人预警供人工参考。本需求不涉及新系统开发，仅针对预警规则与执行频率进行调整。​\n​\n​\n运行机制：​\n•\n以 我方永续合约币对清单 作为扫描起点​\n•\n对每一币对，同步检索 BYDFi、Binance、BYBIT、Bitget、MEXC 的结算间隔与资金费率​\n扫描频率：每小时的 03 分起，每 15 分钟执行一次。 (03、18、33、48 )​\n监控对象：Binance、BYBIT、Bitget、MEXC、BYDFi (我方)​\n​\n画板内评论\n0 个结果\n​\n评论（0）\n上传日志\n联系客服\n功能更新\n帮助中心\n效率指南"
+  },
+  "metrics": {
+    "audit_runs_count": 0,
+    "source_documents_count": 69,
+    "short_dept_history_count": 23,
+    "ai_summary_doc_count": 6,
+    "noisy_doc_count": 57,
+    "system_noise_record_count": 53,
+    "ai_summary_record_count": 4,
+    "encoded_title_issue_count": 1,
+    "replied_without_runs": 3
+  },
+  "missing_entrypoints": [
+    "run_incremental_cycle.py",
+    "run_history_backfill.py"
+  ],
+  "autopilot_state": {
+    "last_backfill_exit": 1,
+    "last_incremental_err_log": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\logs\\autopilot\\incremental-20260331-194802-316.err.log",
+    "last_backfill_log": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\logs\\autopilot\\backfill-20260331-201831-987.out.log",
+    "heartbeat_at": "2026-03-31T20:18:37.0479975+08:00",
+    "pid": 20024,
+    "last_incremental_log": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\logs\\autopilot\\incremental-20260331-194802-316.out.log",
+    "current_step": "",
+    "last_incremental_at": "2026-03-31T20:18:06.7708923+08:00",
+    "last_incremental_retry_exit": 1,
+    "last_incremental_retry_at": "2026-03-31T20:18:31.9792768+08:00",
+    "last_incremental_exit": 124,
+    "last_incremental_tail": "timeout",
+    "last_backfill_err_log": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\logs\\autopilot\\backfill-20260331-201831-987.err.log",
+    "last_incremental_retry_tail": "C:\\Users\\cyh\\AppData\\Local\\Programs\\Python\\Python314\\python.exe: can't open file 'C:\\\\Users\\\\cyh\\\\Desktop\\\\������ʵϰ\\\\bydfi-audit-bot\\\\run_incremental_cycle.py': [Errno 2] No such file or directory",
+    "last_backfill_tail": "C:\\Users\\cyh\\AppData\\Local\\Programs\\Python\\Python314\\python.exe: can't open file 'C:\\\\Users\\\\cyh\\\\Desktop\\\\������ʵϰ\\\\bydfi-audit-bot\\\\run_history_backfill.py': [Errno 2] No such file or directory",
+    "last_incremental_retry_err_log": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\logs\\autopilot\\incremental_retry-20260331-201826-847.err.log",
+    "current_step_started_at": "2026-03-31T20:18:31.9920421+08:00",
+    "current_step_pid": 0,
+    "last_incremental_retry_log": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\logs\\autopilot\\incremental_retry-20260331-201826-847.out.log",
+    "last_backfill_at": "2026-03-31T20:18:37.0445561+08:00"
+  },
+  "risks": [
+    {
+      "severity": "critical",
+      "title": "Pipeline entrypoints are missing",
+      "evidence": [
+        "Missing files: run_incremental_cycle.py, run_history_backfill.py",
+        "autopilot_state current failure: C:\\Users\\cyh\\AppData\\Local\\Programs\\Python\\Python314\\python.exe: can't open file 'C:\\\\Users\\\\cyh\\\\Desktop\\\\������ʵϰ\\\\bydfi-audit-bot\\\\run_incremental_cycle.py': [Errno 2] No such file or directory",
+        "autopilot_state backfill failure: C:\\Users\\cyh\\AppData\\Local\\Programs\\Python\\Python314\\python.exe: can't open file 'C:\\\\Users\\\\cyh\\\\Desktop\\\\������ʵϰ\\\\bydfi-audit-bot\\\\run_history_backfill.py': [Errno 2] No such file or directory"
+      ],
+      "impact": "The reporting pipeline cannot be reproduced from the current snapshot.",
+      "action": "Do not publish fresh management analysis until the runnable entrypoints are restored."
+    },
+    {
+      "severity": "critical",
+      "title": "Autopilot health is degraded",
+      "evidence": [
+        "last_incremental_exit=124",
+        "last_incremental_retry_exit=1",
+        "last_backfill_exit=1",
+        "autopilot.log contains timeout/retry/degraded health markers"
+      ],
+      "impact": "Any 'latest' report may actually be stale, partial, or failed output.",
+      "action": "Gate report generation on a healthy pipeline status and explicit run success."
+    },
+    {
+      "severity": "critical",
+      "title": "No durable audit run lineage exists",
+      "evidence": [
+        "audit_runs count = 0",
+        "inbound_messages replied with audit_result markers = 3"
+      ],
+      "impact": "Claims cannot be traced back to prompt, model, source set, or execution run.",
+      "action": "Persist run ids, prompt hashes, model ids, source ids, and output artifacts for every report."
+    },
+    {
+      "severity": "high",
+      "title": "AI-generated analysis is mixed into the evidence store",
+      "evidence": [
+        "analysis-like audit_records count = 4",
+        "Examples include source titles containing 群汇总分析 or Claude分析机器人"
+      ],
+      "impact": "Later reports can end up summarizing prior AI output instead of first-order evidence.",
+      "action": "Separate analysis outputs from raw evidence tables and exclude them from retrieval by default."
+    },
+    {
+      "severity": "high",
+      "title": "Department history contains empty or near-empty records",
+      "evidence": [
+        "dept_meeting_history records with content length <= 40: 23"
+      ],
+      "impact": "Trend and department assessments can be driven by placeholder records instead of real content.",
+      "action": "Reject low-content history rows from department analysis until repaired or enriched."
+    },
+    {
+      "severity": "high",
+      "title": "Noise and system chatter are mixed into business evidence",
+      "evidence": [
+        "source_documents noise hits = 57",
+        "audit_records system-message hits = 53"
+      ],
+      "impact": "The model can mistake group operations, UI chrome, and support widgets for business progress.",
+      "action": "Classify and strip system events/UI chrome before any summarization step."
+    },
+    {
+      "severity": "medium",
+      "title": "Encoding pollution exists in source metadata",
+      "evidence": [
+        "source_documents titles containing control chars = 1"
+      ],
+      "impact": "Deduplication, grouping, and attribution become unreliable.",
+      "action": "Repair encoding issues before those rows participate in retrieval or aggregation."
+    },
+    {
+      "severity": "medium",
+      "title": "Secondary AI meeting summaries exist in source documents",
+      "evidence": [
+        "AI summary / caution marker hits in source_documents = 6"
+      ],
+      "impact": "These documents can still be useful, but only as secondary evidence with lower confidence.",
+      "action": "Label them as secondary evidence and require first-order confirmation for management conclusions."
+    }
+  ]
+}

@@ -1,0 +1,795 @@
+{
+  "title": "日周报分析助手：群汇总分析（7人）",
+  "chatId": "external_web_9444faae87ac3647",
+  "startAt": "2025-10-07T16:41:14.016221+00:00",
+  "endAt": "2026-04-08T04:41:14.016221+00:00",
+  "peopleCount": 7,
+  "reportCount": 16,
+  "documentCount": 0,
+  "sourceDistribution": [
+    {
+      "key": "external_text_message",
+      "label": "文字汇报",
+      "value": 15,
+      "color": "#7cff5f"
+    },
+    {
+      "key": "external_document_message",
+      "label": "文档全文",
+      "value": 1,
+      "color": "#00f5c4"
+    }
+  ],
+  "riskStats": {
+    "delivered": 0,
+    "testing": 0,
+    "review": 0,
+    "developing": 0,
+    "blocked": 0
+  },
+  "dailyActivity": [
+    {
+      "day": "04-01",
+      "value": 5
+    },
+    {
+      "day": "04-02",
+      "value": 7
+    },
+    {
+      "day": "04-06",
+      "value": 3
+    },
+    {
+      "day": "04-08",
+      "value": 1
+    }
+  ],
+  "events": [
+    {
+      "time": "2026-04-01T01:57:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623604147838357212",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-01T02:08:00+00:00",
+      "reporter": "Yohan",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Yohan",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623606999925706461",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-01T02:13:00+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623608147294310109",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-01T02:15:00+00:00",
+      "reporter": "Christina",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Christina",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623608688271494876",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-01T02:23:00+00:00",
+      "reporter": "Christina",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Christina",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623610802070703839",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-02T09:11:00+00:00",
+      "reporter": "纪浩彬",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "纪浩彬",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624086934624669407",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-02T09:11:00+00:00",
+      "reporter": "Yohan",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Yohan",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624087137310346972",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-02T13:41:00+00:00",
+      "reporter": "Yohan",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Yohan",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624156511769480933",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-02T13:41:00+00:00",
+      "reporter": "Yohan",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Yohan",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624156515884076773",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-02T13:48:00+00:00",
+      "reporter": "纪浩彬",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "纪浩彬",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624158378483879653",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-02T13:52:00+00:00",
+      "reporter": "Stone",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Stone",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624159355708903134",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-02T13:53:00+00:00",
+      "reporter": "纪浩彬",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "纪浩彬",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624159723973054173",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T18:53:57.843762+00:00",
+      "reporter": "Kater",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kater，Yohan，Stone，Will，Manon，Christina 加入了会议",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623604123371310811",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T18:53:57.843762+00:00",
+      "reporter": "Stone",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Stone 邀请 纪浩彬 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623604748368760544",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T18:53:57.843762+00:00",
+      "reporter": "会议结束：31 分 11 秒",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "会议结束：31 分 11 秒",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623604880652947170",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:41:14.016221+00:00",
+      "reporter": "智能会议纪要已生成：智能纪要：AI翻译交流 2026年4月1日",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "智能会议纪要已生成：智能纪要：AI翻译交流 2026年4月1日",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623605425463676636",
+      "status": "parsed",
+      "error": ""
+    }
+  ],
+  "peopleCards": [
+    {
+      "reporterId": "10fa70cad6b4",
+      "reporterName": "Kater",
+      "reportCount": 3,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T18:53:57.843762+00:00",
+      "latestTitle": "Kater，Yohan，Stone，Will，Manon，Christina 加入了会议",
+      "latestAnchorId": "msg:webmsg_external_web_9444faae87ac3647_7623604123371310811",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 3,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-01T01:57:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623604147838357212"
+        },
+        {
+          "time": "2026-04-01T02:13:00+00:00",
+          "title": "Kater",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623608147294310109"
+        },
+        {
+          "time": "2026-04-06T18:53:57.843762+00:00",
+          "title": "Kater，Yohan，Stone，Will，Manon，Christina 加入了会议",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623604123371310811"
+        }
+      ]
+    },
+    {
+      "reporterId": "5e20679ab132",
+      "reporterName": "Yohan",
+      "reportCount": 4,
+      "documentCount": 0,
+      "latestTime": "2026-04-02T13:41:00+00:00",
+      "latestTitle": "Yohan",
+      "latestAnchorId": "msg:webmsg_external_web_9444faae87ac3647_7624156515884076773",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 4,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-01T02:08:00+00:00",
+          "title": "Yohan",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623606999925706461"
+        },
+        {
+          "time": "2026-04-02T09:11:00+00:00",
+          "title": "Yohan",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624087137310346972"
+        },
+        {
+          "time": "2026-04-02T13:41:00+00:00",
+          "title": "Yohan",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624156511769480933"
+        },
+        {
+          "time": "2026-04-02T13:41:00+00:00",
+          "title": "Yohan",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624156515884076773"
+        }
+      ]
+    },
+    {
+      "reporterId": "6aed0206d633",
+      "reporterName": "Christina",
+      "reportCount": 2,
+      "documentCount": 0,
+      "latestTime": "2026-04-01T02:23:00+00:00",
+      "latestTitle": "Christina",
+      "latestAnchorId": "msg:webmsg_external_web_9444faae87ac3647_7623610802070703839",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 2,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-01T02:15:00+00:00",
+          "title": "Christina",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623608688271494876"
+        },
+        {
+          "time": "2026-04-01T02:23:00+00:00",
+          "title": "Christina",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623610802070703839"
+        }
+      ]
+    },
+    {
+      "reporterId": "103c1ebb2832",
+      "reporterName": "纪浩彬",
+      "reportCount": 3,
+      "documentCount": 0,
+      "latestTime": "2026-04-02T13:53:00+00:00",
+      "latestTitle": "纪浩彬",
+      "latestAnchorId": "msg:webmsg_external_web_9444faae87ac3647_7624159723973054173",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 1,
+          "color": "#00f5c4"
+        },
+        {
+          "label": "文字汇报",
+          "value": 2,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-02T09:11:00+00:00",
+          "title": "纪浩彬",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624086934624669407"
+        },
+        {
+          "time": "2026-04-02T13:48:00+00:00",
+          "title": "纪浩彬",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624158378483879653"
+        },
+        {
+          "time": "2026-04-02T13:53:00+00:00",
+          "title": "纪浩彬",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624159723973054173"
+        }
+      ]
+    },
+    {
+      "reporterId": "6ffa6b8b1c9f",
+      "reporterName": "Stone",
+      "reportCount": 2,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T18:53:57.843762+00:00",
+      "latestTitle": "Stone 邀请 纪浩彬 加入此群，新成员入群可查看所有历史消息",
+      "latestAnchorId": "msg:webmsg_external_web_9444faae87ac3647_7623604748368760544",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 2,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-02T13:52:00+00:00",
+          "title": "Stone",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624159355708903134"
+        },
+        {
+          "time": "2026-04-06T18:53:57.843762+00:00",
+          "title": "Stone 邀请 纪浩彬 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623604748368760544"
+        }
+      ]
+    },
+    {
+      "reporterId": "f65404abf458",
+      "reporterName": "会议结束：31 分 11 秒",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T18:53:57.843762+00:00",
+      "latestTitle": "会议结束：31 分 11 秒",
+      "latestAnchorId": "msg:webmsg_external_web_9444faae87ac3647_7623604880652947170",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T18:53:57.843762+00:00",
+          "title": "会议结束：31 分 11 秒",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623604880652947170"
+        }
+      ]
+    },
+    {
+      "reporterId": "c9cf75392007",
+      "reporterName": "智能会议纪要已生成：智能纪要：AI翻译交流 2026年4月1日",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T04:41:14.016221+00:00",
+      "latestTitle": "智能会议纪要已生成：智能纪要：AI翻译交流 2026年4月1日",
+      "latestAnchorId": "msg:webmsg_external_web_9444faae87ac3647_7623605425463676636",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T04:41:14.016221+00:00",
+          "title": "智能会议纪要已生成：智能纪要：AI翻译交流 2026年4月1日",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623605425463676636"
+        }
+      ]
+    }
+  ],
+  "evidenceIndex": {
+    "msg:webmsg_external_web_9444faae87ac3647_7623604147838357212": {
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623604147838357212",
+      "messageId": "webmsg_external_web_9444faae87ac3647_7623604147838357212",
+      "chatId": "external_web_9444faae87ac3647",
+      "time": "2026-04-01T01:57:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater here"
+    },
+    "msg:webmsg_external_web_9444faae87ac3647_7623606999925706461": {
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623606999925706461",
+      "messageId": "webmsg_external_web_9444faae87ac3647_7623606999925706461",
+      "chatId": "external_web_9444faae87ac3647",
+      "time": "2026-04-01T02:08:00+00:00",
+      "reporterName": "Yohan",
+      "senderId": "5e20679ab132",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Yohan",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Yohan @Christina @Stone 辛苦整理会中用到的核心业务术语表给我一份 [举手] Christina"
+    },
+    "msg:webmsg_external_web_9444faae87ac3647_7623608147294310109": {
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623608147294310109",
+      "messageId": "webmsg_external_web_9444faae87ac3647_7623608147294310109",
+      "chatId": "external_web_9444faae87ac3647",
+      "time": "2026-04-01T02:13:00+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater @Christina 把历史翻译的表格共享一份给到yohan"
+    },
+    "msg:webmsg_external_web_9444faae87ac3647_7623608688271494876": {
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623608688271494876",
+      "messageId": "webmsg_external_web_9444faae87ac3647_7623608688271494876",
+      "chatId": "external_web_9444faae87ac3647",
+      "time": "2026-04-01T02:15:00+00:00",
+      "reporterName": "Christina",
+      "senderId": "6aed0206d633",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Christina",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Christina BYDFi 外包翻譯文件 前端翻譯 後端翻譯 你可编辑 Yohan https://bydfimoon.sg.larksuite.com/sheets/MgKUsXy6ghRfo8t20spl4PZFg6g?table=tblsJqhCjTfo3v04&sheet=0wJWKO&view=vewBHLaAGe"
+    },
+    "msg:webmsg_external_web_9444faae87ac3647_7623610802070703839": {
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623610802070703839",
+      "messageId": "webmsg_external_web_9444faae87ac3647_7623610802070703839",
+      "chatId": "external_web_9444faae87ac3647",
+      "time": "2026-04-01T02:23:00+00:00",
+      "reporterName": "Christina",
+      "senderId": "6aed0206d633",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Christina",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Christina BYDFi 翻譯注意事項這是之前的 Glossary，平台產品固定的專有詞 你可编辑 Yohan Christina [文件] BYDFi_Full_Glossary (1).xlsx Christina 這是餵給gpt的常用專有詞 回复话题 https://bydfimoon.sg.larksuite.com/base/NRQGbkknSa73tXsf13XlLJHrgCd?table=tblld3bkMg5bf1..."
+    },
+    "msg:webmsg_external_web_9444faae87ac3647_7624086934624669407": {
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624086934624669407",
+      "messageId": "webmsg_external_web_9444faae87ac3647_7624086934624669407",
+      "chatId": "external_web_9444faae87ac3647",
+      "time": "2026-04-02T09:11:00+00:00",
+      "reporterName": "纪浩彬",
+      "senderId": "103c1ebb2832",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "纪浩彬",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "纪浩彬 大家好，这是内容团队针对平台现有未翻译词条的总结性文档，已在文档中将未翻译的常规词条以及法律词条做出标注，请大家查收，如需要别的文档的提供，请跟我们说 BYDFi 翻译文件-多语言词条筛查 你可阅读 Yohan https://qus8pe7wtfda.sg.larksuite.com/wiki/Svo2wStM7ipOGtkvrpEltgbugKh?sheet=EHF75g Lark云文档 纪 纪浩彬的云文档 搜索 与我分享..."
+    },
+    "msg:webmsg_external_web_9444faae87ac3647_7624087137310346972": {
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624087137310346972",
+      "messageId": "webmsg_external_web_9444faae87ac3647_7624087137310346972",
+      "chatId": "external_web_9444faae87ac3647",
+      "time": "2026-04-02T09:11:00+00:00",
+      "reporterName": "Yohan",
+      "senderId": "5e20679ab132",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Yohan",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Yohan 收到 纪浩彬"
+    },
+    "msg:webmsg_external_web_9444faae87ac3647_7624156511769480933": {
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624156511769480933",
+      "messageId": "webmsg_external_web_9444faae87ac3647_7624156511769480933",
+      "chatId": "external_web_9444faae87ac3647",
+      "time": "2026-04-02T13:41:00+00:00",
+      "reporterName": "Yohan",
+      "senderId": "5e20679ab132",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Yohan",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Yohan 1.xlsx 7.1 KB"
+    },
+    "msg:webmsg_external_web_9444faae87ac3647_7624156515884076773": {
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624156515884076773",
+      "messageId": "webmsg_external_web_9444faae87ac3647_7624156515884076773",
+      "chatId": "external_web_9444faae87ac3647",
+      "time": "2026-04-02T13:41:00+00:00",
+      "reporterName": "Yohan",
+      "senderId": "5e20679ab132",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Yohan",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Yohan 大家好，过去四十八小时，按 4/1 会议结论我来同步当前目前进展： 历史翻译遗留问题拟按 P0/P1 分层推进，当前优先 P0（主要是一些专业术语、footer、法律页术语）。 核心交易词（如 Price/Buy），未确认前还不进入大模型。 内容团队给出的筛出的 3500+ 缺口清单，Claude自动化补齐脚本我已就绪。 当前有一些卡点仍是 口径确认，我按会议分工确认，辛苦负责的小伙伴明天查阅： @Stone 辛苦请看 2...."
+    },
+    "msg:webmsg_external_web_9444faae87ac3647_7624158378483879653": {
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624158378483879653",
+      "messageId": "webmsg_external_web_9444faae87ac3647_7624158378483879653",
+      "chatId": "external_web_9444faae87ac3647",
+      "time": "2026-04-02T13:48:00+00:00",
+      "reporterName": "纪浩彬",
+      "senderId": "103c1ebb2832",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "纪浩彬",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "纪浩彬 收到，核心冲突词我们会逐个确认并给最终结果，尽快完成后同步给你~ 1 条回复"
+    },
+    "msg:webmsg_external_web_9444faae87ac3647_7624159355708903134": {
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624159355708903134",
+      "messageId": "webmsg_external_web_9444faae87ac3647_7624159355708903134",
+      "chatId": "external_web_9444faae87ac3647",
+      "time": "2026-04-02T13:52:00+00:00",
+      "reporterName": "Stone",
+      "senderId": "6ffa6b8b1c9f",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Stone",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Stone 回复 纪浩彬: 收到，核心冲突词我们会逐个确认并给最终结果，尽快完成后同步给你~ @纪浩彬 给个DL"
+    },
+    "msg:webmsg_external_web_9444faae87ac3647_7624159723973054173": {
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7624159723973054173",
+      "messageId": "webmsg_external_web_9444faae87ac3647_7624159723973054173",
+      "chatId": "external_web_9444faae87ac3647",
+      "time": "2026-04-02T13:53:00+00:00",
+      "reporterName": "纪浩彬",
+      "senderId": "103c1ebb2832",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "纪浩彬",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "纪浩彬 好嘞 没问题"
+    },
+    "msg:webmsg_external_web_9444faae87ac3647_7623604123371310811": {
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623604123371310811",
+      "messageId": "webmsg_external_web_9444faae87ac3647_7623604123371310811",
+      "chatId": "external_web_9444faae87ac3647",
+      "time": "2026-04-06T18:53:57.843762+00:00",
+      "reporterName": "Kater",
+      "senderId": "10fa70cad6b4",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kater，Yohan，Stone，Will，Manon，Christina 加入了会议",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kater，Yohan，Stone，Will，Manon，Christina 加入了会议"
+    },
+    "msg:webmsg_external_web_9444faae87ac3647_7623604748368760544": {
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623604748368760544",
+      "messageId": "webmsg_external_web_9444faae87ac3647_7623604748368760544",
+      "chatId": "external_web_9444faae87ac3647",
+      "time": "2026-04-06T18:53:57.843762+00:00",
+      "reporterName": "Stone",
+      "senderId": "6ffa6b8b1c9f",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Stone 邀请 纪浩彬 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Stone 邀请 纪浩彬 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_9444faae87ac3647_7623604880652947170": {
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623604880652947170",
+      "messageId": "webmsg_external_web_9444faae87ac3647_7623604880652947170",
+      "chatId": "external_web_9444faae87ac3647",
+      "time": "2026-04-06T18:53:57.843762+00:00",
+      "reporterName": "会议结束：31 分 11 秒",
+      "senderId": "f65404abf458",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "会议结束：31 分 11 秒",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "会议结束：31 分 11 秒"
+    },
+    "msg:webmsg_external_web_9444faae87ac3647_7623605425463676636": {
+      "anchorId": "msg:webmsg_external_web_9444faae87ac3647_7623605425463676636",
+      "messageId": "webmsg_external_web_9444faae87ac3647_7623605425463676636",
+      "chatId": "external_web_9444faae87ac3647",
+      "time": "2026-04-08T04:41:14.016221+00:00",
+      "reporterName": "智能会议纪要已生成：智能纪要：AI翻译交流 2026年4月1日",
+      "senderId": "c9cf75392007",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "智能会议纪要已生成：智能纪要：AI翻译交流 2026年4月1日",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "智能会议纪要已生成：智能纪要：AI翻译交流 2026年4月1日"
+    }
+  },
+  "summaryText": "BYDFi 产研跨源对账单 (Cross-Check Report)\n\n一、高危断链项（AI双向核查确权）\n当前未发现可直接确权的高危断链项。\n二、待核对项（证据不足，不下重判）\n事件1：当前有一些卡点仍是 口径确认，我按会议分工确认，辛苦负责的小伙伴明天查阅：\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_9444faae87ac3647_7624156515884076773\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n三、本周必须落地动作（最多3条）\n1. 请直接@产品负责人，本周内把“当前有一些卡点仍是 口径确认，我按会议分工确认，”写入需求池与版本进度表并锁定研发排期。\n2. 补齐本周新增问题的 owner、ETA、验收口径，并同步到版本进度表。\n3. 补齐本周新增问题的 owner、ETA、验收口径，并同步到版本进度表。"
+}

@@ -1,0 +1,23 @@
+{
+  "period": "daily",
+  "generated_at": "2026-04-08T11:51:06.592859+08:00",
+  "digest_pdf_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\scheduled\\daily_ops_digest_latest.pdf",
+  "package_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\delivery\\bydfi_daily_ops_package_20260408_115107.zip",
+  "ceo_pdf_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\scheduled\\daily_ceo_brief_latest.pdf",
+  "urls": {
+    "digest_pdf": "http://43.135.51.214/reports/bydfi_daily_ops_20260408_115107.pdf",
+    "digest_pdf_latest": "http://43.135.51.214/reports/bydfi_daily_ops_latest.pdf",
+    "package": "http://43.135.51.214/reports/bydfi_daily_ops_package_20260408_115107.zip",
+    "package_latest": "http://43.135.51.214/reports/bydfi_daily_ops_package_latest.zip",
+    "ceo_pdf": "http://43.135.51.214/reports/bydfi_daily_ceo_brief_20260408_115107.pdf",
+    "ceo_pdf_latest": "http://43.135.51.214/reports/bydfi_daily_ceo_brief_latest.pdf",
+    "ceo_pdf_global_latest": "http://43.135.51.214/reports/bydfi_ceo_brief_latest.pdf"
+  },
+  "webhook_result": {
+    "StatusCode": 0,
+    "StatusMessage": "success",
+    "code": 0,
+    "data": {},
+    "msg": "success"
+  }
+}

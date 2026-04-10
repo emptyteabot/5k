@@ -1,0 +1,54 @@
+{
+  "registry_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\config\\lark_group_registry.json",
+  "db_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\audit_records.sqlite3",
+  "discover_output": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\discover_20260407_rnd.json",
+  "targets": [
+    "中心研发任务"
+  ],
+  "runs": [
+    {
+      "title": "中心研发任务",
+      "hours": 4000,
+      "ok": true,
+      "returncode": 0,
+      "stdout": "Bot: 日周报分析助手\nRun ID: 5d2ad696f2474a2eb514c83a11bf7aac\nChat ID: external_web_268b46e9007e1874\nCurrent chat: 中心研发任务\nCurrent URL: https://rjdx19yd9zo.sg.larksuite.com/next/messenger/\nIngested: 35\nNew messages: 35\nUpdated messages: 0\nFetched documents: 21\nPeople: 14\nReport text path: C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\84a83c6f26ea4c32bc5c1c0730addecd.md\nReport json path: C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\reports\\84a83c6f26ea4c32bc5c1c0730addecd.json",
+      "stderr": ""
+    }
+  ],
+  "before": {
+    "required": {
+      "covered": 6,
+      "missing": 1,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 8,
+      "missing": 1,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [
+      "中心研发任务"
+    ],
+    "required_stale_titles": [],
+    "required_unverified_titles": []
+  },
+  "after": {
+    "required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [],
+    "required_unverified_titles": []
+  }
+}

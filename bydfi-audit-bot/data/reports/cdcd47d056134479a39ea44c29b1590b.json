@@ -1,0 +1,800 @@
+{
+  "title": "日周报分析助手：群汇总分析（10人）",
+  "chatId": "external_web_8f1d770b453adcdf",
+  "startAt": "2026-04-05T16:43:10.893944+00:00",
+  "endAt": "2026-04-08T16:43:10.893944+00:00",
+  "peopleCount": 10,
+  "reportCount": 14,
+  "documentCount": 0,
+  "sourceDistribution": [
+    {
+      "key": "external_text_message",
+      "label": "文字汇报",
+      "value": 11,
+      "color": "#7cff5f"
+    },
+    {
+      "key": "external_document_message",
+      "label": "文档全文",
+      "value": 3,
+      "color": "#00f5c4"
+    }
+  ],
+  "riskStats": {
+    "delivered": 4,
+    "testing": 3,
+    "review": 1,
+    "developing": 2,
+    "blocked": 5
+  },
+  "dailyActivity": [
+    {
+      "day": "04-05",
+      "value": 2
+    },
+    {
+      "day": "04-06",
+      "value": 10
+    },
+    {
+      "day": "04-07",
+      "value": 1
+    },
+    {
+      "day": "04-08",
+      "value": 1
+    }
+  ],
+  "events": [
+    {
+      "time": "2026-04-05T19:30:00+00:00",
+      "reporter": "啊 这咋还有一个也醒着",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "啊 这咋还有一个也醒着",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875436258266848",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-05T19:34:00+00:00",
+      "reporter": "这黑客松要交了，号被封了",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "这黑客松要交了，号被封了",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623876607253434080",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T16:18:00+00:00",
+      "reporter": "我以为这么顺",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "我以为这么顺",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705508324363996",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T16:23:00+00:00",
+      "reporter": "unknown",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "https://rjdx19yd9zo.sg.larksuite.com/docx/IYBrdbxjGogcqaxLZG3l5C18gKX",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7568535455440850656",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T16:24:00+00:00",
+      "reporter": "之前律师信发了没用",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "之前律师信发了没用",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7577070732279090912",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporter": "你撤回了一条消息",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "你撤回了一条消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875964753186523",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporter": "Miles",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Miles 邀请 Kater 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7581865080711581408",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Jenny 撤回了一条消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7577067954907401952",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Jenny 置顶了内容",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7554950650610585305",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Jenny 移除了置顶内容",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7554950683275824856",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporter": "Monica",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Monica 邀请 Charles 加入此群，新成员入群可查看所有历史消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7538344607923355679",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporter": "Ella",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Ella 撤回了一条消息",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7534716265575759910",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-07T15:03:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7626033128053690080",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T16:29:00+00:00",
+      "reporter": "Jenny",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jenny",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7626426416917139166",
+      "status": "parsed",
+      "error": ""
+    }
+  ],
+  "peopleCards": [
+    {
+      "reporterId": "9601d2f8d110",
+      "reporterName": "啊 这咋还有一个也醒着",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-05T19:30:00+00:00",
+      "latestTitle": "啊 这咋还有一个也醒着",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875436258266848",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-05T19:30:00+00:00",
+          "title": "啊 这咋还有一个也醒着",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875436258266848"
+        }
+      ]
+    },
+    {
+      "reporterId": "7601f87351df",
+      "reporterName": "这黑客松要交了，号被封了",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-05T19:34:00+00:00",
+      "latestTitle": "这黑客松要交了，号被封了",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623876607253434080",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-05T19:34:00+00:00",
+          "title": "这黑客松要交了，号被封了",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623876607253434080"
+        }
+      ]
+    },
+    {
+      "reporterId": "2ede869cb2a9",
+      "reporterName": "我以为这么顺",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T16:18:00+00:00",
+      "latestTitle": "我以为这么顺",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705508324363996",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T16:18:00+00:00",
+          "title": "我以为这么顺",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705508324363996"
+        }
+      ]
+    },
+    {
+      "reporterId": "b23a6a8439c0",
+      "reporterName": "unknown",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T16:23:00+00:00",
+      "latestTitle": "https://rjdx19yd9zo.sg.larksuite.com/docx/IYBrdbxjGogcqaxLZG3l5C18gKX",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7568535455440850656",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 1,
+          "color": "#00f5c4"
+        }
+      ],
+      "statusMix": {
+        "delivered": 1,
+        "testing": 0,
+        "review": 0,
+        "developing": 2,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T16:23:00+00:00",
+          "title": "https://rjdx19yd9zo.sg.larksuite.com/docx/IYBrdbxjGogcqaxLZG3l5C18gKX",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7568535455440850656"
+        }
+      ]
+    },
+    {
+      "reporterId": "783c1ac14cfe",
+      "reporterName": "之前律师信发了没用",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T16:24:00+00:00",
+      "latestTitle": "之前律师信发了没用",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7577070732279090912",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T16:24:00+00:00",
+          "title": "之前律师信发了没用",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7577070732279090912"
+        }
+      ]
+    },
+    {
+      "reporterId": "d4e8206ba584",
+      "reporterName": "你撤回了一条消息",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T19:10:40.888802+00:00",
+      "latestTitle": "你撤回了一条消息",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875964753186523",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T19:10:40.888802+00:00",
+          "title": "你撤回了一条消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875964753186523"
+        }
+      ]
+    },
+    {
+      "reporterId": "a1161f6445c6",
+      "reporterName": "Miles",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T19:10:40.888802+00:00",
+      "latestTitle": "Miles 邀请 Kater 加入此群，新成员入群可查看所有历史消息",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7581865080711581408",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T19:10:40.888802+00:00",
+          "title": "Miles 邀请 Kater 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7581865080711581408"
+        }
+      ]
+    },
+    {
+      "reporterId": "57e4df689a1d",
+      "reporterName": "Jenny",
+      "reportCount": 5,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T16:29:00+00:00",
+      "latestTitle": "Jenny",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7626426416917139166",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 3,
+          "color": "#7cff5f"
+        },
+        {
+          "label": "文档全文",
+          "value": 2,
+          "color": "#00f5c4"
+        }
+      ],
+      "statusMix": {
+        "delivered": 2,
+        "testing": 1,
+        "review": 0,
+        "developing": 0,
+        "blocked": 3
+      },
+      "events": [
+        {
+          "time": "2026-04-06T19:10:40.888802+00:00",
+          "title": "Jenny 撤回了一条消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7577067954907401952"
+        },
+        {
+          "time": "2026-04-06T19:10:40.888802+00:00",
+          "title": "Jenny 置顶了内容",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7554950650610585305"
+        },
+        {
+          "time": "2026-04-06T19:10:40.888802+00:00",
+          "title": "Jenny 移除了置顶内容",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7554950683275824856"
+        },
+        {
+          "time": "2026-04-07T15:03:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7626033128053690080"
+        },
+        {
+          "time": "2026-04-08T16:29:00+00:00",
+          "title": "Jenny",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7626426416917139166"
+        }
+      ]
+    },
+    {
+      "reporterId": "57f68dcfdb78",
+      "reporterName": "Monica",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T19:10:40.888802+00:00",
+      "latestTitle": "Monica 邀请 Charles 加入此群，新成员入群可查看所有历史消息",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7538344607923355679",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T19:10:40.888802+00:00",
+          "title": "Monica 邀请 Charles 加入此群，新成员入群可查看所有历史消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7538344607923355679"
+        }
+      ]
+    },
+    {
+      "reporterId": "c007c2974525",
+      "reporterName": "Ella",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T19:10:40.888802+00:00",
+      "latestTitle": "Ella 撤回了一条消息",
+      "latestAnchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7534716265575759910",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T19:10:40.888802+00:00",
+          "title": "Ella 撤回了一条消息",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7534716265575759910"
+        }
+      ]
+    }
+  ],
+  "evidenceIndex": {
+    "msg:webmsg_external_web_8f1d770b453adcdf_7623875436258266848": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875436258266848",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7623875436258266848",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-05T19:30:00+00:00",
+      "reporterName": "啊 这咋还有一个也醒着",
+      "senderId": "9601d2f8d110",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "啊 这咋还有一个也醒着",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "啊 这咋还有一个也醒着"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7623876607253434080": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623876607253434080",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7623876607253434080",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-05T19:34:00+00:00",
+      "reporterName": "这黑客松要交了，号被封了",
+      "senderId": "7601f87351df",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "这黑客松要交了，号被封了",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "这黑客松要交了，号被封了 [泣不成声]"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7599705508324363996": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7599705508324363996",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7599705508324363996",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T16:18:00+00:00",
+      "reporterName": "我以为这么顺",
+      "senderId": "2ede869cb2a9",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "我以为这么顺",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "我以为这么顺"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7568535455440850656": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7568535455440850656",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7568535455440850656",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T16:23:00+00:00",
+      "reporterName": "unknown",
+      "senderId": "b23a6a8439c0",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "https://rjdx19yd9zo.sg.larksuite.com/docx/IYBrdbxjGogcqaxLZG3l5C18gKX",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "https://rjdx19yd9zo.sg.larksuite.com/docx/IYBrdbxjGogcqaxLZG3l5C18gKX CodeForce Ella 智能纪要：现货策略会议 2025年11月3日 外部 添加快捷方式 最近修改: 2025年12月3日 分享 智能纪要：现货策略会议 2025年11月3日 总结 待办 相关链接 相关会议纪要 智能纪要：现货策略会议 2025年11月3日​ Ella 2025年12月3日修改..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7577070732279090912": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7577070732279090912",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7577070732279090912",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T16:24:00+00:00",
+      "reporterName": "之前律师信发了没用",
+      "senderId": "783c1ac14cfe",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "之前律师信发了没用",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "之前律师信发了没用"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7623875964753186523": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7623875964753186523",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7623875964753186523",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporterName": "你撤回了一条消息",
+      "senderId": "d4e8206ba584",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "你撤回了一条消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "你撤回了一条消息"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7581865080711581408": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7581865080711581408",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7581865080711581408",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporterName": "Miles",
+      "senderId": "a1161f6445c6",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Miles 邀请 Kater 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Miles 邀请 Kater 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7577067954907401952": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7577067954907401952",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7577067954907401952",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Jenny 撤回了一条消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny 撤回了一条消息"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7554950650610585305": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7554950650610585305",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7554950650610585305",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Jenny 置顶了内容",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny 置顶了内容"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7554950683275824856": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7554950683275824856",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7554950683275824856",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Jenny 移除了置顶内容",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny 移除了置顶内容"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7538344607923355679": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7538344607923355679",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7538344607923355679",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporterName": "Monica",
+      "senderId": "57f68dcfdb78",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Monica 邀请 Charles 加入此群，新成员入群可查看所有历史消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Monica 邀请 Charles 加入此群，新成员入群可查看所有历史消息"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7534716265575759910": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7534716265575759910",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7534716265575759910",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-06T19:10:40.888802+00:00",
+      "reporterName": "Ella",
+      "senderId": "c007c2974525",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Ella 撤回了一条消息",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Ella 撤回了一条消息"
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7626033128053690080": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7626033128053690080",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7626033128053690080",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-07T15:03:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny 4.7 会议总结 你可阅读 https://bydfimoon.sg.larksuite.com/wiki/YrMLwYkeFi1VbQksXmQlscqRghb?from=from_copylink Lark云文档 J Jenny的云文档 外部 搜索 与我分享 4.7 会议总结 BYDFi Jenny 4.7 会议总结 外部 最近修改: 4月7日 23:02 分享 4.7 会议总结 4.7 技术周会 一、研发整体情况 二、..."
+    },
+    "msg:webmsg_external_web_8f1d770b453adcdf_7626426416917139166": {
+      "anchorId": "msg:webmsg_external_web_8f1d770b453adcdf_7626426416917139166",
+      "messageId": "webmsg_external_web_8f1d770b453adcdf_7626426416917139166",
+      "chatId": "external_web_8f1d770b453adcdf",
+      "time": "2026-04-08T16:29:00+00:00",
+      "reporterName": "Jenny",
+      "senderId": "57e4df689a1d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jenny",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jenny 4.8 会议总结 你可阅读 https://bydfimoon.sg.larksuite.com/wiki/UZT9wTVKIi48T5kfO3AlnjwDghh?from=from_copylink Lark云文档 J Jenny的云文档 外部 搜索 与我分享 4.8 会议总结 BYDFi Jenny 4.8 会议总结 外部 最近修改: 15 分钟前 分享 4.8 会议总结 4.8 风控大数据月会 一、核心项目进度同步 二..."
+    }
+  },
+  "summaryText": "BYDFi 产研跨源对账单 (Cross-Check Report)\n\n一、高危断链项（AI双向核查确权）\n当前未发现可直接确权的高危断链项。\n二、待核对项（证据不足，不下重判）\n事件1：代理活动 SOP\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7626033128053690080\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件2：二、活动运营推进\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7626033128053690080\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件3：效率提升：合约跟单自动化完成 90%，永续边界场景、网格、活动更新数据均在推进；AI 测试用例生成完成 19/54 项，本周收尾。​\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7626033128053690080\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件4：四、代理活动数据追踪需求\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7626426416917139166\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件5：四、活动推广现状\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7626426416917139166\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件6：四、代理活动数据追踪需求​\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7626426416917139166\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件7：信息同步：代理开展大额奖励活动需提前通知审核部门。​\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7626426416917139166\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件8：工具需求：制作活动效益与成本追踪表单，新增盈亏返佣字段，整合数据至代理 / 活动后台，避免人工导出。​\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7626426416917139166\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件9：场景覆盖：套活动套利、返佣拆分、永续套餐差价、三方盘口对敲、返现券风险等，需调整场景表框架。​\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_8f1d770b453adcdf_7626426416917139166\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n三、本周必须落地动作（最多3条）\n1. 请直接@产品负责人，本周内把“代理活动 SOP”写入需求池与版本进度表并锁定研发排期。\n2. 请直接@产品负责人，本周内把“二、活动运营推进”写入需求池与版本进度表并锁定研发排期。\n3. 请直接@产品负责人，本周内把“效率提升：合约跟单自动化完成 90%，永续边界场”写入需求池与版本进度表并锁定研发排期。"
+}

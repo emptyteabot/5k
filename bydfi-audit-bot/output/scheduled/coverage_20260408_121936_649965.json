@@ -1,0 +1,301 @@
+{
+  "generated_at": "2026-04-08T04:21:13.273364+00:00",
+  "db_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\data\\audit_records.sqlite3",
+  "stale_hours": 48,
+  "collection_fresh_hours": 4,
+  "registry_count": 9,
+  "discover_selected_count": 0,
+  "summary": {
+    "required": {
+      "covered": 7,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "all": {
+      "covered": 9,
+      "missing": 0,
+      "stale": 0,
+      "unverified": 0
+    },
+    "required_missing_titles": [],
+    "required_stale_titles": [],
+    "required_unverified_titles": [],
+    "required_collection_stale_count": 7,
+    "all_collection_stale_count": 9,
+    "required_collection_stale_titles": [
+      "BYDFi·MoonX业务大群",
+      "三部门效能优化需求",
+      "中心研发任务",
+      "产研周报发送群",
+      "永续研发任务",
+      "血战到底",
+      "AI翻译交流"
+    ],
+    "unregistered_discovered_count": 0,
+    "suspicious_discovered_count": 0
+  },
+  "unregistered_discovered": [],
+  "suspicious_discovered": [],
+  "groups": [
+    {
+      "title": "BYDFi·MoonX业务大群",
+      "aliases": [
+        "BYDFI·MoonX业务大群"
+      ],
+      "category": "经营主群",
+      "required": true,
+      "priority": "p0",
+      "notes": "业务主线群，直接决定高层判断基准。",
+      "status": "covered",
+      "discover_seen": false,
+      "message_count": 181,
+      "chat_ids": [
+        "external_web_d2fb6467e40966f8"
+      ],
+      "oldest_message_timestamp": "2026-01-09T11:30:00+00:00",
+      "latest_message_timestamp": "2026-04-06T18:58:52.901615+00:00",
+      "latest_age_hours": 33.4,
+      "last_collection_finished_at": "2026-04-06T19:01:28.061466+00:00",
+      "last_collection_age_hours": 33.3,
+      "collection_fresh": false,
+      "last_collection_run": {
+        "run_id": "bb2ec598d7424a2fb9f7232061bd79bb",
+        "chat_id": "external_web_d2fb6467e40966f8",
+        "started_at": "2026-04-06T18:59:20.589841+00:00",
+        "finished_at": "2026-04-06T19:01:28.061466+00:00",
+        "status": "completed",
+        "error_message": ""
+      }
+    },
+    {
+      "title": "三部门效能优化需求",
+      "aliases": [],
+      "category": "效能需求",
+      "required": true,
+      "priority": "p0",
+      "notes": "跨产品、研发、测试的效能问题汇总群。",
+      "status": "covered",
+      "discover_seen": false,
+      "message_count": 316,
+      "chat_ids": [
+        "external_web_36b11b598d95c7ad"
+      ],
+      "oldest_message_timestamp": "2026-01-05T04:21:00+00:00",
+      "latest_message_timestamp": "2026-04-06T19:02:29.034797+00:00",
+      "latest_age_hours": 33.3,
+      "last_collection_finished_at": "2026-04-06T19:06:46.670869+00:00",
+      "last_collection_age_hours": 33.2,
+      "collection_fresh": false,
+      "last_collection_run": {
+        "run_id": "5cc922b3f273405b9d4f0d295bf67e18",
+        "chat_id": "external_web_36b11b598d95c7ad",
+        "started_at": "2026-04-06T19:02:56.626293+00:00",
+        "finished_at": "2026-04-06T19:06:46.670869+00:00",
+        "status": "completed",
+        "error_message": ""
+      }
+    },
+    {
+      "title": "中心研发任务",
+      "aliases": [],
+      "category": "研发任务",
+      "required": true,
+      "priority": "p0",
+      "notes": "新增研发任务群，必须纳管并补采历史消息。",
+      "status": "covered",
+      "discover_seen": false,
+      "message_count": 35,
+      "chat_ids": [
+        "external_web_268b46e9007e1874"
+      ],
+      "oldest_message_timestamp": "2026-04-07T10:34:12.815216+00:00",
+      "latest_message_timestamp": "2026-04-07T10:34:12.815216+00:00",
+      "latest_age_hours": 17.8,
+      "last_collection_finished_at": "2026-04-07T10:41:14.818620+00:00",
+      "last_collection_age_hours": 17.7,
+      "collection_fresh": false,
+      "last_collection_run": {
+        "run_id": "5d2ad696f2474a2eb514c83a11bf7aac",
+        "chat_id": "external_web_268b46e9007e1874",
+        "started_at": "2026-04-07T10:34:41.010208+00:00",
+        "finished_at": "2026-04-07T10:41:14.818620+00:00",
+        "status": "completed",
+        "error_message": ""
+      }
+    },
+    {
+      "title": "产研周报发送群",
+      "aliases": [],
+      "category": "周报汇总",
+      "required": true,
+      "priority": "p0",
+      "notes": "跨角色周报聚合入口，管理判断优先级高。",
+      "status": "covered",
+      "discover_seen": false,
+      "message_count": 204,
+      "chat_ids": [
+        "external_web_725d8280a3bdef9f"
+      ],
+      "oldest_message_timestamp": "2026-03-06T11:20:00+00:00",
+      "latest_message_timestamp": "2026-04-06T19:07:14.707198+00:00",
+      "latest_age_hours": 33.2,
+      "last_collection_finished_at": "2026-04-06T19:09:26.883934+00:00",
+      "last_collection_age_hours": 33.2,
+      "collection_fresh": false,
+      "last_collection_run": {
+        "run_id": "e818952955534993b2dbdb95fdb1f00f",
+        "chat_id": "external_web_725d8280a3bdef9f",
+        "started_at": "2026-04-06T19:07:42.803252+00:00",
+        "finished_at": "2026-04-06T19:09:26.883934+00:00",
+        "status": "completed",
+        "error_message": ""
+      }
+    },
+    {
+      "title": "永续研发任务",
+      "aliases": [],
+      "category": "研发任务",
+      "required": true,
+      "priority": "p0",
+      "notes": "核心版本任务线，直接影响版本推进和上线风险。",
+      "status": "covered",
+      "discover_seen": false,
+      "message_count": 39,
+      "chat_ids": [
+        "external_web_bca8f11f98365cd0"
+      ],
+      "oldest_message_timestamp": "2026-04-06T19:27:41.342794+00:00",
+      "latest_message_timestamp": "2026-04-06T19:27:41.342794+00:00",
+      "latest_age_hours": 32.9,
+      "last_collection_finished_at": "2026-04-06T19:28:55.317192+00:00",
+      "last_collection_age_hours": 32.9,
+      "collection_fresh": false,
+      "last_collection_run": {
+        "run_id": "ac1777219bb947e3ba4af968a5b0696d",
+        "chat_id": "external_web_bca8f11f98365cd0",
+        "started_at": "2026-04-06T19:28:17.271503+00:00",
+        "finished_at": "2026-04-06T19:28:55.317192+00:00",
+        "status": "completed",
+        "error_message": ""
+      }
+    },
+    {
+      "title": "血战到底",
+      "aliases": [],
+      "category": "会议与经营",
+      "required": true,
+      "priority": "p0",
+      "notes": "关键会议结论和临时决策经常集中在这里。",
+      "status": "covered",
+      "discover_seen": false,
+      "message_count": 90,
+      "chat_ids": [
+        "external_web_8f1d770b453adcdf"
+      ],
+      "oldest_message_timestamp": "2026-01-05T15:20:00+00:00",
+      "latest_message_timestamp": "2026-04-06T19:10:40.888802+00:00",
+      "latest_age_hours": 33.2,
+      "last_collection_finished_at": "2026-04-06T19:14:02.671593+00:00",
+      "last_collection_age_hours": 33.1,
+      "collection_fresh": false,
+      "last_collection_run": {
+        "run_id": "6e3267011577497f9a2a997bd3e51945",
+        "chat_id": "external_web_8f1d770b453adcdf",
+        "started_at": "2026-04-06T19:11:08.260003+00:00",
+        "finished_at": "2026-04-06T19:14:02.671593+00:00",
+        "status": "completed",
+        "error_message": ""
+      }
+    },
+    {
+      "title": "AI翻译交流",
+      "aliases": [],
+      "category": "翻译项目",
+      "required": true,
+      "priority": "p1",
+      "notes": "Kater 相关翻译推进线，和表格任务串联有关。",
+      "status": "covered",
+      "discover_seen": false,
+      "message_count": 32,
+      "chat_ids": [
+        "external_web_ai_translation",
+        "external_web_9444faae87ac3647"
+      ],
+      "oldest_message_timestamp": "2026-04-01T01:57:00+00:00",
+      "latest_message_timestamp": "2026-04-06T23:52:59.095073+00:00",
+      "latest_age_hours": 28.5,
+      "last_collection_finished_at": "2026-04-06T23:53:49.648117+00:00",
+      "last_collection_age_hours": 28.5,
+      "collection_fresh": false,
+      "last_collection_run": {
+        "run_id": "f15e4d079bee4b958823ec78ebb3334e",
+        "chat_id": "external_web_ai_translation",
+        "started_at": "2026-04-06T23:53:26.090064+00:00",
+        "finished_at": "2026-04-06T23:53:49.648117+00:00",
+        "status": "completed",
+        "error_message": ""
+      }
+    },
+    {
+      "title": "AI Reforge Hackathon竞赛",
+      "aliases": [],
+      "category": "AI 探索",
+      "required": false,
+      "priority": "p2",
+      "notes": "探索性项目，默认纳入发现但不强制纳入 CEO 每日报告。",
+      "status": "covered",
+      "discover_seen": false,
+      "message_count": 46,
+      "chat_ids": [
+        "external_web_a366b3838b034a3b"
+      ],
+      "oldest_message_timestamp": "2026-03-30T02:42:00+00:00",
+      "latest_message_timestamp": "2026-04-06T19:22:24.578468+00:00",
+      "latest_age_hours": 33.0,
+      "last_collection_finished_at": "2026-04-06T19:23:19.764580+00:00",
+      "last_collection_age_hours": 33.0,
+      "collection_fresh": false,
+      "last_collection_run": {
+        "run_id": "ac76f3e719b7488db0a9a2438d0e5975",
+        "chat_id": "external_web_a366b3838b034a3b",
+        "started_at": "2026-04-06T19:22:51.917770+00:00",
+        "finished_at": "2026-04-06T19:23:19.764580+00:00",
+        "status": "completed",
+        "error_message": ""
+      }
+    },
+    {
+      "title": "测试",
+      "aliases": [],
+      "category": "测试",
+      "required": false,
+      "priority": "p2",
+      "notes": "群名过短，后续需要结合人工确认避免误匹配。",
+      "status": "covered",
+      "discover_seen": false,
+      "message_count": 19,
+      "chat_ids": [
+        "external_web_6aa8f49cc992dfd7"
+      ],
+      "oldest_message_timestamp": "2026-03-20T10:08:00+00:00",
+      "latest_message_timestamp": "2026-04-06T19:27:41.358848+00:00",
+      "latest_age_hours": 32.9,
+      "last_collection_finished_at": "2026-04-06T19:28:41.244229+00:00",
+      "last_collection_age_hours": 32.9,
+      "collection_fresh": false,
+      "last_collection_run": {
+        "run_id": "4f7c230b710b400386f613e57fa2352b",
+        "chat_id": "external_web_6aa8f49cc992dfd7",
+        "started_at": "2026-04-06T19:28:16.474274+00:00",
+        "finished_at": "2026-04-06T19:28:41.244229+00:00",
+        "status": "completed",
+        "error_message": ""
+      }
+    }
+  ],
+  "registry_path": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\config\\lark_group_registry.json",
+  "discover_output": "C:\\Users\\cyh\\Desktop\\交易所实习\\bydfi-audit-bot\\output\\lark_discover_latest.json",
+  "resolved_external_collector_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\external_group_collector.py",
+  "resolved_storage_state_path": "C:\\Users\\cyh\\Desktop\\BYDFI\\data\\playwright\\lark_storage_state.json"
+}

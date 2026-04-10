@@ -1,0 +1,641 @@
+{
+  "title": "日周报分析助手：群汇总分析（10人）",
+  "chatId": "external_web_725d8280a3bdef9f",
+  "startAt": "2026-04-05T04:47:29.666300+00:00",
+  "endAt": "2026-04-08T04:47:29.666300+00:00",
+  "peopleCount": 10,
+  "reportCount": 10,
+  "documentCount": 0,
+  "sourceDistribution": [
+    {
+      "key": "external_text_message",
+      "label": "文字汇报",
+      "value": 10,
+      "color": "#7cff5f"
+    }
+  ],
+  "riskStats": {
+    "delivered": 17,
+    "testing": 3,
+    "review": 0,
+    "developing": 4,
+    "blocked": 1
+  },
+  "dailyActivity": [
+    {
+      "day": "04-05",
+      "value": 8
+    },
+    {
+      "day": "04-06",
+      "value": 2
+    }
+  ],
+  "events": [
+    {
+      "time": "2026-04-05T04:25:00+00:00",
+      "reporter": "Thoren",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Thoren",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625126486785134304",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-05T08:44:00+00:00",
+      "reporter": "Abel",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Abel",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625193214344974045",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-05T09:38:00+00:00",
+      "reporter": "Ken",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Ken",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625207278764855003",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-05T13:29:00+00:00",
+      "reporter": "Kimi",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kimi",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625266791765282524",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-05T14:12:00+00:00",
+      "reporter": "Saber",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Saber",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625277797740580575",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-05T14:41:00+00:00",
+      "reporter": "Axel",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Axel",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625285258539192028",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-05T15:06:00+00:00",
+      "reporter": "Iven",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Iven",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625291740416593627",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-05T15:50:00+00:00",
+      "reporter": "Chuang",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Chuang",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625303213280857823",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T11:32:00+00:00",
+      "reporter": "Matt",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Matt",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625607618525974235",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-06T12:15:00+00:00",
+      "reporter": "Emma",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Emma",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625618872606920411",
+      "status": "parsed",
+      "error": ""
+    }
+  ],
+  "peopleCards": [
+    {
+      "reporterId": "f8e9bcaadf41",
+      "reporterName": "Thoren",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-05T04:25:00+00:00",
+      "latestTitle": "Thoren",
+      "latestAnchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625126486785134304",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 2,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-05T04:25:00+00:00",
+          "title": "Thoren",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625126486785134304"
+        }
+      ]
+    },
+    {
+      "reporterId": "744346004d55",
+      "reporterName": "Abel",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-05T08:44:00+00:00",
+      "latestTitle": "Abel",
+      "latestAnchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625193214344974045",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 3,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 1
+      },
+      "events": [
+        {
+          "time": "2026-04-05T08:44:00+00:00",
+          "title": "Abel",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625193214344974045"
+        }
+      ]
+    },
+    {
+      "reporterId": "b3cd90b170e6",
+      "reporterName": "Ken",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-05T09:38:00+00:00",
+      "latestTitle": "Ken",
+      "latestAnchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625207278764855003",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 3,
+        "testing": 2,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-05T09:38:00+00:00",
+          "title": "Ken",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625207278764855003"
+        }
+      ]
+    },
+    {
+      "reporterId": "83f10a44727f",
+      "reporterName": "Kimi",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-05T13:29:00+00:00",
+      "latestTitle": "Kimi",
+      "latestAnchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625266791765282524",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-05T13:29:00+00:00",
+          "title": "Kimi",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625266791765282524"
+        }
+      ]
+    },
+    {
+      "reporterId": "5f002f3dd83c",
+      "reporterName": "Saber",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-05T14:12:00+00:00",
+      "latestTitle": "Saber",
+      "latestAnchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625277797740580575",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-05T14:12:00+00:00",
+          "title": "Saber",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625277797740580575"
+        }
+      ]
+    },
+    {
+      "reporterId": "67edeb0e8369",
+      "reporterName": "Axel",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-05T14:41:00+00:00",
+      "latestTitle": "Axel",
+      "latestAnchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625285258539192028",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-05T14:41:00+00:00",
+          "title": "Axel",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625285258539192028"
+        }
+      ]
+    },
+    {
+      "reporterId": "121dcaeb9be3",
+      "reporterName": "Iven",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-05T15:06:00+00:00",
+      "latestTitle": "Iven",
+      "latestAnchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625291740416593627",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 9,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-05T15:06:00+00:00",
+          "title": "Iven",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625291740416593627"
+        }
+      ]
+    },
+    {
+      "reporterId": "800dbdd71207",
+      "reporterName": "Chuang",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-05T15:50:00+00:00",
+      "latestTitle": "Chuang",
+      "latestAnchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625303213280857823",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 1,
+        "review": 0,
+        "developing": 4,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-05T15:50:00+00:00",
+          "title": "Chuang",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625303213280857823"
+        }
+      ]
+    },
+    {
+      "reporterId": "84a4b19e19aa",
+      "reporterName": "Matt",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T11:32:00+00:00",
+      "latestTitle": "Matt",
+      "latestAnchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625607618525974235",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T11:32:00+00:00",
+          "title": "Matt",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625607618525974235"
+        }
+      ]
+    },
+    {
+      "reporterId": "d9dacb3ee168",
+      "reporterName": "Emma",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-06T12:15:00+00:00",
+      "latestTitle": "Emma",
+      "latestAnchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625618872606920411",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-06T12:15:00+00:00",
+          "title": "Emma",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625618872606920411"
+        }
+      ]
+    }
+  ],
+  "evidenceIndex": {
+    "msg:webmsg_external_web_725d8280a3bdef9f_7625126486785134304": {
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625126486785134304",
+      "messageId": "webmsg_external_web_725d8280a3bdef9f_7625126486785134304",
+      "chatId": "external_web_725d8280a3bdef9f",
+      "time": "2026-04-05T04:25:00+00:00",
+      "reporterName": "Thoren",
+      "senderId": "f8e9bcaadf41",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Thoren",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Thoren 【03.30～04.03】综合功能组产品本周周报—Thoren 本周工作： 1.UE资源位改版产品设计【UI设计中】 2.PNL分享优化产品设计【UI设计中】 3.card3.4需求产品设计【90%】 4.APP未登录首页优化【已评审】 5.card申请国家限制策略调整【已评审】 6.后台手机号绑定功能优化【已上线】 7.验证码邮件发送域名灰度切流【已上线】 8.跟进3.9.4版本任务开发 下周工作： 1.UE资源位改版产..."
+    },
+    "msg:webmsg_external_web_725d8280a3bdef9f_7625193214344974045": {
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625193214344974045",
+      "messageId": "webmsg_external_web_725d8280a3bdef9f_7625193214344974045",
+      "chatId": "external_web_725d8280a3bdef9f",
+      "time": "2026-04-05T08:44:00+00:00",
+      "reporterName": "Abel",
+      "senderId": "744346004d55",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Abel",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Abel Calm down 【3.30～4.3】测试周报 -- Abel O1 版本任务 3.9.4 APP端共28项 -- 40% 3.9.4 PC端共23项 -- 32% 3.9.4 后端共20项 -- 25% 3.9.4 Admin后台共12项 -- 10% O2 临时版本 永续止盈止损重构 -- 已上线 永续模拟盘 -- 待上线 O3 AI应用推进 claude接口自动化架构方案编写 -- 已完成 自动化测试框架搭建 -- 9..."
+    },
+    "msg:webmsg_external_web_725d8280a3bdef9f_7625207278764855003": {
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625207278764855003",
+      "messageId": "webmsg_external_web_725d8280a3bdef9f_7625207278764855003",
+      "chatId": "external_web_725d8280a3bdef9f",
+      "time": "2026-04-05T09:38:00+00:00",
+      "reporterName": "Ken",
+      "senderId": "b3cd90b170e6",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Ken",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Ken 【03.30～04.03] 永续周报-ken 1、业务需求 版本需求v3.9.4 - 开发进度90% OI风控重构开发 - 完成测试 永续下单强平价限制 - 待测试 永续合约模拟盘开发 - 完成上线文档 资费收取优化 - 开发自测 30% 止盈止损重构 - 已上线 2、技术需求 TODO-v3修改 - 待测试 技术任务6项 - 已上线 新版行情 v2.2上线 - 已完成 下周安排: 永续合约模拟盘上线 V3.9.4需求测试支持..."
+    },
+    "msg:webmsg_external_web_725d8280a3bdef9f_7625266791765282524": {
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625266791765282524",
+      "messageId": "webmsg_external_web_725d8280a3bdef9f_7625266791765282524",
+      "chatId": "external_web_725d8280a3bdef9f",
+      "time": "2026-04-05T13:29:00+00:00",
+      "reporterName": "Kimi",
+      "senderId": "83f10a44727f",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kimi",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kimi 【03/30～04/03】测试周报 - Kimi： - 币对接口添加缓存机制处理/private/trace/traded_symbols 添加缓存处理-100% - PWA任务-100% - 疯狂返利总金额查询优化-100% - 安全中心新增X绑定App端-60% - 首页icon 替换pc端-10% - App未登录首页优化-10% - 【C2C】token安全优化发布验证-100% 下周计划： - 安全中心新增X绑定Ap..."
+    },
+    "msg:webmsg_external_web_725d8280a3bdef9f_7625277797740580575": {
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625277797740580575",
+      "messageId": "webmsg_external_web_725d8280a3bdef9f_7625277797740580575",
+      "chatId": "external_web_725d8280a3bdef9f",
+      "time": "2026-04-05T14:12:00+00:00",
+      "reporterName": "Saber",
+      "senderId": "5f002f3dd83c",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Saber",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Saber 【03.30 - 04.03】招商产品周报-saber： 「活动1.4版本跟进」 需求实现方案确认与需求调整，100% 设计稿修改与评审，100% 新增阶梯活动新增一键删除功能，100% 优化抽奖记录时间展示，100% 「3.9.4版本需求」 新增活动报名通知邮件新增分类与迁移需求，100% 「活动1.5版本」 预测活动设计方向沟通与确认；100% 预测活动需求设计，40%； 复审新增KYC任务用户通知需求设计，80%； 版..."
+    },
+    "msg:webmsg_external_web_725d8280a3bdef9f_7625285258539192028": {
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625285258539192028",
+      "messageId": "webmsg_external_web_725d8280a3bdef9f_7625285258539192028",
+      "chatId": "external_web_725d8280a3bdef9f",
+      "time": "2026-04-05T14:41:00+00:00",
+      "reporterName": "Axel",
+      "senderId": "67edeb0e8369",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Axel",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Axel 前端PC开发 【03/30～04/03】招商代理活动PC周报 - Axel 活动中心 活动后台V.1.4- 主需求：交易员挑战赛(03.26-xx.xx） - 25/37项 58% 临时任务｜6周年活动落地页对应SEO元素显示- 2/2项 100% canonical指向带参数的页面自己 100% sitemap内单独加上6周年的活动页 100% 【临时任务】抽奖活动分享优化- 1/1项 100% 【临时任务】活动内容表格样式..."
+    },
+    "msg:webmsg_external_web_725d8280a3bdef9f_7625291740416593627": {
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625291740416593627",
+      "messageId": "webmsg_external_web_725d8280a3bdef9f_7625291740416593627",
+      "chatId": "external_web_725d8280a3bdef9f",
+      "time": "2026-04-05T15:06:00+00:00",
+      "reporterName": "Iven",
+      "senderId": "121dcaeb9be3",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Iven",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Iven 【03.30 - 04.03】本周周报： 3.9.4版本任务： 1.xxcard架构调整--一轮测试60% 2.VIP等级更新时间/取值调整--需求沟通 3.前端PC&app接入ott进行token认证--系统测试已完成，等合并后进行回归测试 4.card申请国家限制策略调整--需求沟通 临时任务： 1.websocket ott 方案替换token认证--后端已测试完成，已上线 2.用户VIP等级有不同的触发调整机制，中间部..."
+    },
+    "msg:webmsg_external_web_725d8280a3bdef9f_7625303213280857823": {
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625303213280857823",
+      "messageId": "webmsg_external_web_725d8280a3bdef9f_7625303213280857823",
+      "chatId": "external_web_725d8280a3bdef9f",
+      "time": "2026-04-05T15:50:00+00:00",
+      "reporterName": "Chuang",
+      "senderId": "800dbdd71207",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Chuang",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Chuang 【03.30 - 04.03】风控产品周报-chuang O1 产品工作： 客服系统1.3版本 KR1. 用户状态反溃（开发中） KR2. 数据埋点（开发中） KYC板块： KR1. KYC前端展示改变显示，以及后端流程联动优化（转测试） KR2. KYC优化：包含内嵌 SDK (APP 端、Web端)、标签回传后台、活体认证 (扫脸) (开发中) O2 风控工作： 模型相关工作： KR1，异常对冲检测（开发中） 下周工作..."
+    },
+    "msg:webmsg_external_web_725d8280a3bdef9f_7625607618525974235": {
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625607618525974235",
+      "messageId": "webmsg_external_web_725d8280a3bdef9f_7625607618525974235",
+      "chatId": "external_web_725d8280a3bdef9f",
+      "time": "2026-04-06T11:32:00+00:00",
+      "reporterName": "Matt",
+      "senderId": "84a4b19e19aa",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Matt",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Matt 【03.30-04.03】增长产品周报--Matt 本周工作： 一、邀请返佣 策划C方案，补充并确认部分规则 设计部分页面原型与交互 二、福利中心2.0 UI提交修改意见 下周计划： 完成邀请返佣设计方案 调研竞品P2P策略"
+    },
+    "msg:webmsg_external_web_725d8280a3bdef9f_7625618872606920411": {
+      "anchorId": "msg:webmsg_external_web_725d8280a3bdef9f_7625618872606920411",
+      "messageId": "webmsg_external_web_725d8280a3bdef9f_7625618872606920411",
+      "chatId": "external_web_725d8280a3bdef9f",
+      "time": "2026-04-06T12:15:00+00:00",
+      "reporterName": "Emma",
+      "senderId": "d9dacb3ee168",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Emma",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Emma 【3.30～4..3测试周报】 版本任务： 1.永续资金费率页面卡顿优化--测试完成待发布 2.个人中心-卡券中心的统计修改为卡券张数--测试完成待发布 3.模拟盘--测试完成待发布 4.补全品牌--测试完成待发布 ai扫描测试用例--100% 下周计划： 1.模拟盘灰度测试 2.版本任务跟进 3.尝试ai跑永续功能测试"
+    }
+  },
+  "summaryText": "BYDFi 产研跨源对账单 (Cross-Check Report)\n\n一、高危断链项（AI双向核查确权）\n当前未发现可直接确权的高危断链项。\n二、待核对项（证据不足，不下重判）\n事件1：「活动1.4版本跟进」\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_725d8280a3bdef9f_7625277797740580575\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件2：新增阶梯活动新增一键删除功能，100%\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_725d8280a3bdef9f_7625277797740580575\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件3：新增活动报名通知邮件新增分类与迁移需求，100%\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_725d8280a3bdef9f_7625277797740580575\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件4：「活动1.5版本」\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_725d8280a3bdef9f_7625277797740580575\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件5：预测活动设计方向沟通与确认；100%\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_725d8280a3bdef9f_7625277797740580575\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件6：预测活动需求设计，40%；\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_725d8280a3bdef9f_7625277797740580575\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件7：完成预测活动需求设计；\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_725d8280a3bdef9f_7625277797740580575\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件8：定期活动需求澄清；\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_725d8280a3bdef9f_7625277797740580575\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件9：【03/30～04/03】招商代理活动PC周报 - Axel\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_725d8280a3bdef9f_7625285258539192028\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件10：活动中心\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_725d8280a3bdef9f_7625285258539192028\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件11：活动后台V.1.4- 主需求：交易员挑战赛(03.26-xx.xx） - 25/37项 58%\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_725d8280a3bdef9f_7625285258539192028\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件12：临时任务｜6周年活动落地页对应SEO元素显示- 2/2项 100%\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_725d8280a3bdef9f_7625285258539192028\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n三、本周必须落地动作（最多3条）\n1. 请直接@产品负责人，本周内把“「活动1.4版本跟进」”写入需求池与版本进度表并锁定研发排期。\n2. 请直接@产品负责人，本周内把“新增阶梯活动新增一键删除功能，100%”写入需求池与版本进度表并锁定研发排期。\n3. 请直接@产品负责人，本周内把“新增活动报名通知邮件新增分类与迁移需求，100%”写入需求池与版本进度表并锁定研发排期。"
+}

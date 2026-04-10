@@ -1,0 +1,1743 @@
+{
+  "title": "日周报分析助手：群汇总分析（14人）",
+  "chatId": "external_web_268b46e9007e1874",
+  "startAt": "2026-04-05T04:46:40.827060+00:00",
+  "endAt": "2026-04-08T04:46:40.827060+00:00",
+  "peopleCount": 14,
+  "reportCount": 38,
+  "documentCount": 0,
+  "sourceDistribution": [
+    {
+      "key": "external_text_message",
+      "label": "文字汇报",
+      "value": 15,
+      "color": "#7cff5f"
+    },
+    {
+      "key": "external_document_message",
+      "label": "文档全文",
+      "value": 23,
+      "color": "#00f5c4"
+    }
+  ],
+  "riskStats": {
+    "delivered": 5,
+    "testing": 2,
+    "review": 0,
+    "developing": 3,
+    "blocked": 10
+  },
+  "dailyActivity": [
+    {
+      "day": "04-08",
+      "value": 38
+    }
+  ],
+  "events": [
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Thoren",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Thoren",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7625841784005922523",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Chuang",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Chuang",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7625877288369802973",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Lgnis",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Lgnis",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7625921411617443552",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Jung",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jung",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7625943488370069215",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Thoren",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Thoren",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7622981188637953758",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Thoren",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Thoren",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7624339367003229920",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Lorena",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Lorena",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7622886215548686048",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Martin",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Martin",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7622932827423657694",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Kevin",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kevin",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7621478011061161701",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Saber",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Saber",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7621363841175129826",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Saber",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Saber",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7621453705132412635",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Chuang",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Chuang",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7621460755858083550",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Thoren",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Thoren",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7620735699202445021",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Jung",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jung",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7621129392311291615",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Thoren",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Thoren",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7620371465229094624",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "LS",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "LS",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7620630304193072869",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Saber",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Saber",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7620630896906981088",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Jung",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jung",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618923392864456413",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Chuang",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Chuang",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7619147249646915293",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Thoren",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Thoren",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618869521671016156",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Thoren",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Thoren",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618906580389514971",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Jung",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Jung",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618775138636418786",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Kevin",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kevin",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618784983465692896",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Miya",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Miya",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618439496291340001",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Chuang",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Chuang",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618475397398712032",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Matt",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Matt",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618396800524816095",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Miya",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Miya",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618438002234134235",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Thoren",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Thoren",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7616657036721262304",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Miya",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Miya",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7617758566350343903",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Thoren",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Thoren",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7616308688420097756",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Thoren",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Thoren",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7616627241723711196",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Kevin",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kevin",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7615833745177710299",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Thoren",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Thoren",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7616207498940305119",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Lorena",
+      "sourceType": "external_document_message",
+      "sourceLabel": "文档全文",
+      "sourceColor": "#00f5c4",
+      "title": "Lorena",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7615547814688444126",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Kevin",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Kevin",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7615832389272522462",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Ella09:23",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Ella",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7626192998593760992",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Martin11:18",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Martin",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7626222632685342429",
+      "status": "parsed",
+      "error": ""
+    },
+    {
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporter": "Thoren12:36",
+      "sourceType": "external_text_message",
+      "sourceLabel": "文字汇报",
+      "sourceColor": "#7cff5f",
+      "title": "Thoren",
+      "documentKey": "",
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7626242752916770524",
+      "status": "parsed",
+      "error": ""
+    }
+  ],
+  "peopleCards": [
+    {
+      "reporterId": "f8e9bcaadf41",
+      "reporterName": "Thoren",
+      "reportCount": 11,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T04:46:40.827060+00:00",
+      "latestTitle": "Thoren",
+      "latestAnchorId": "msg:webmsg_external_web_268b46e9007e1874_7616207498940305119",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 4,
+          "color": "#7cff5f"
+        },
+        {
+          "label": "文档全文",
+          "value": 7,
+          "color": "#00f5c4"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Thoren",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7625841784005922523"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Thoren",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7622981188637953758"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Thoren",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7624339367003229920"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Thoren",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7620735699202445021"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Thoren",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7620371465229094624"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Thoren",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618869521671016156"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Thoren",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618906580389514971"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Thoren",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7616657036721262304"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Thoren",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7616308688420097756"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Thoren",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7616627241723711196"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Thoren",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7616207498940305119"
+        }
+      ]
+    },
+    {
+      "reporterId": "800dbdd71207",
+      "reporterName": "Chuang",
+      "reportCount": 4,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T04:46:40.827060+00:00",
+      "latestTitle": "Chuang",
+      "latestAnchorId": "msg:webmsg_external_web_268b46e9007e1874_7618475397398712032",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 4,
+          "color": "#00f5c4"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 4
+      },
+      "events": [
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Chuang",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7625877288369802973"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Chuang",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7621460755858083550"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Chuang",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7619147249646915293"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Chuang",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618475397398712032"
+        }
+      ]
+    },
+    {
+      "reporterId": "d242ebc91e81",
+      "reporterName": "Lgnis",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T04:46:40.827060+00:00",
+      "latestTitle": "Lgnis",
+      "latestAnchorId": "msg:webmsg_external_web_268b46e9007e1874_7625921411617443552",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Lgnis",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7625921411617443552"
+        }
+      ]
+    },
+    {
+      "reporterId": "dcaa444d77e2",
+      "reporterName": "Jung",
+      "reportCount": 4,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T04:46:40.827060+00:00",
+      "latestTitle": "Jung",
+      "latestAnchorId": "msg:webmsg_external_web_268b46e9007e1874_7618775138636418786",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 4,
+          "color": "#00f5c4"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 5
+      },
+      "events": [
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Jung",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7625943488370069215"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Jung",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7621129392311291615"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Jung",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618923392864456413"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Jung",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618775138636418786"
+        }
+      ]
+    },
+    {
+      "reporterId": "a86c261f64d7",
+      "reporterName": "Lorena",
+      "reportCount": 2,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T04:46:40.827060+00:00",
+      "latestTitle": "Lorena",
+      "latestAnchorId": "msg:webmsg_external_web_268b46e9007e1874_7615547814688444126",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        },
+        {
+          "label": "文档全文",
+          "value": 1,
+          "color": "#00f5c4"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Lorena",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7622886215548686048"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Lorena",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7615547814688444126"
+        }
+      ]
+    },
+    {
+      "reporterId": "39d3a2e969b3",
+      "reporterName": "Martin",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T04:46:40.827060+00:00",
+      "latestTitle": "Martin",
+      "latestAnchorId": "msg:webmsg_external_web_268b46e9007e1874_7622932827423657694",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 1,
+          "color": "#00f5c4"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Martin",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7622932827423657694"
+        }
+      ]
+    },
+    {
+      "reporterId": "0e4dd66217fc",
+      "reporterName": "Kevin",
+      "reportCount": 4,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T04:46:40.827060+00:00",
+      "latestTitle": "Kevin",
+      "latestAnchorId": "msg:webmsg_external_web_268b46e9007e1874_7615832389272522462",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 4,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Kevin",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7621478011061161701"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Kevin",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618784983465692896"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Kevin",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7615833745177710299"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Kevin",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7615832389272522462"
+        }
+      ]
+    },
+    {
+      "reporterId": "5f002f3dd83c",
+      "reporterName": "Saber",
+      "reportCount": 3,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T04:46:40.827060+00:00",
+      "latestTitle": "Saber",
+      "latestAnchorId": "msg:webmsg_external_web_268b46e9007e1874_7620630896906981088",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 2,
+          "color": "#00f5c4"
+        },
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Saber",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7621363841175129826"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Saber",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7621453705132412635"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Saber",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7620630896906981088"
+        }
+      ]
+    },
+    {
+      "reporterId": "e60e21bf756c",
+      "reporterName": "LS",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T04:46:40.827060+00:00",
+      "latestTitle": "LS",
+      "latestAnchorId": "msg:webmsg_external_web_268b46e9007e1874_7620630304193072869",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 1,
+          "color": "#00f5c4"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "LS",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7620630304193072869"
+        }
+      ]
+    },
+    {
+      "reporterId": "1f542ab39a9d",
+      "reporterName": "Miya",
+      "reportCount": 3,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T04:46:40.827060+00:00",
+      "latestTitle": "Miya",
+      "latestAnchorId": "msg:webmsg_external_web_268b46e9007e1874_7617758566350343903",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        },
+        {
+          "label": "文档全文",
+          "value": 2,
+          "color": "#00f5c4"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Miya",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618439496291340001"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Miya",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618438002234134235"
+        },
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Miya",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7617758566350343903"
+        }
+      ]
+    },
+    {
+      "reporterId": "84a4b19e19aa",
+      "reporterName": "Matt",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T04:46:40.827060+00:00",
+      "latestTitle": "Matt",
+      "latestAnchorId": "msg:webmsg_external_web_268b46e9007e1874_7618396800524816095",
+      "sourceMix": [
+        {
+          "label": "文档全文",
+          "value": 1,
+          "color": "#00f5c4"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Matt",
+          "sourceLabel": "文档全文",
+          "sourceColor": "#00f5c4",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618396800524816095"
+        }
+      ]
+    },
+    {
+      "reporterId": "60c9d0cca876",
+      "reporterName": "Ella09:23",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T04:46:40.827060+00:00",
+      "latestTitle": "Ella",
+      "latestAnchorId": "msg:webmsg_external_web_268b46e9007e1874_7626192998593760992",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Ella",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7626192998593760992"
+        }
+      ]
+    },
+    {
+      "reporterId": "76f4458045af",
+      "reporterName": "Martin11:18",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T04:46:40.827060+00:00",
+      "latestTitle": "Martin",
+      "latestAnchorId": "msg:webmsg_external_web_268b46e9007e1874_7626222632685342429",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Martin",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7626222632685342429"
+        }
+      ]
+    },
+    {
+      "reporterId": "9845eb988c31",
+      "reporterName": "Thoren12:36",
+      "reportCount": 1,
+      "documentCount": 0,
+      "latestTime": "2026-04-08T04:46:40.827060+00:00",
+      "latestTitle": "Thoren",
+      "latestAnchorId": "msg:webmsg_external_web_268b46e9007e1874_7626242752916770524",
+      "sourceMix": [
+        {
+          "label": "文字汇报",
+          "value": 1,
+          "color": "#7cff5f"
+        }
+      ],
+      "statusMix": {
+        "delivered": 0,
+        "testing": 0,
+        "review": 0,
+        "developing": 0,
+        "blocked": 0
+      },
+      "events": [
+        {
+          "time": "2026-04-08T04:46:40.827060+00:00",
+          "title": "Thoren",
+          "sourceLabel": "文字汇报",
+          "sourceColor": "#7cff5f",
+          "documentKey": "",
+          "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7626242752916770524"
+        }
+      ]
+    }
+  ],
+  "evidenceIndex": {
+    "msg:webmsg_external_web_268b46e9007e1874_7625841784005922523": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7625841784005922523",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7625841784005922523",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Thoren",
+      "senderId": "f8e9bcaadf41",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Thoren",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Thoren 10:40 【临时任务】风控后台-邮件发送失败新增错误原因 人员： 后端：@Lgnis 测试：@Shirley 期望上线时间：4.10 在风控后台-消息列表邮件发送失败在错误原因列新增实际错误原因展示 （已编辑） 展开"
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7625877288369802973": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7625877288369802973",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7625877288369802973",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Chuang",
+      "senderId": "800dbdd71207",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Chuang",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Chuang 12:58 【开发】风控临时需求总汇 一、包含风控后端、前端 二、需求说明：风控临时需求总汇----2.4项和2.5项 2.2.自助服务-法律与资安工单文案修改 2.3.币对盈亏一致性校验调整 三、人员情况： · 客服业务端：@Jack @Aria · 后端：@Flash · 测试：@David . 前端web：@Steve . 前端app：@Rui 你可阅读 https://bydfimoon.sg.larksuite...."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7625921411617443552": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7625921411617443552",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7625921411617443552",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Lgnis",
+      "senderId": "d242ebc91e81",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Lgnis",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Lgnis 15:49 【中心】接入谷歌验证码做备胎，替换原始的图片验证码 1.如果极验不生效时，使用谷歌验证码，如果谷歌验证码不启用，用原来的图片 “Cex版本进度表”的记录 后端：@Lgnis 前端：@Steve @Rui 测试：@Abel（已编辑） “Cex版本进度表”的记录 当前记录已开启高级权限 https://applink.feishu.cn/client/web_url/open?mode=sidebar-semi&mi..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7625943488370069215": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7625943488370069215",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7625943488370069215",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Jung",
+      "senderId": "dcaa444d77e2",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jung",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jung 17:15 【新增】多账号（未KYC）停止产生充币地址 原型链接：https://modao.cc/proto/Ej77MTZt58m32lQnWs8so/sharing?view_mode=read_only&screen=rbpVG5pz2EnRIlQEm #【多帐号停止产生充币地址】文件夹 需求文档：多帐号停止产生充币地址 优先级：P0 后端：@Lee APP：@Ryan PC：@Hugo 测试：@Shirley 跟随版..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7622981188637953758": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7622981188637953758",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7622981188637953758",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Thoren",
+      "senderId": "f8e9bcaadf41",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Thoren",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Thoren 3月30日 17:40 【临时任务】VIP等级更新时间/取值调整 后端：@Lgnis 测试：@Shirley cc@Iven 期望上线时间：跟最近的后端版本一起上 因资产快照时间变动导致的VIP等级更新时间从3小时延迟到19个小时，需调整资产余额取快照表的数据改成取0点资产表实时数据"
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7624339367003229920": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7624339367003229920",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7624339367003229920",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Thoren",
+      "senderId": "f8e9bcaadf41",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Thoren",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Thoren 4月3日 09:30 【优化】card申请国家限制策略调整 人员： APP：@Locgon web:@Hugo 后端：@key 测试：@Iven 期望上线时间：跟随4.20版本 需求文档：card申请国家限制策略调整 你可阅读 展开 https://bydfimoon.sg.larksuite.com/wiki/YGahwQumEiy1Sjkc31ylmUQ0gVh?from=from_copylink Lark云文档 T..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7622886215548686048": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7622886215548686048",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7622886215548686048",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Lorena",
+      "senderId": "a86c261f64d7",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Lorena",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Lorena 3月30日 11:31 【优化】活动页面的seo元素调整 元数据拆开，每个活动是自己单独的一套显示 canonical应该是指向带参数的页面自己，咱们实际没有/view的页面 sitemap内单独加上6周年的活动页 【工作人员】 前端：@Axel @Steve"
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7622932827423657694": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7622932827423657694",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7622932827423657694",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Martin",
+      "senderId": "39d3a2e969b3",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Martin",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Martin 3月30日 14:32 【优化】外部行情重构 文档：行情重构 外部行情重构 新增外部行情源 现货接口调用梳理 python升级3.14 【工作人员】 后端：@Sean 测试：@Noah @Iven （已编辑） 你可阅读 展开 https://psgu4di0f9uu.sg.larksuite.com/wiki/H24awJFtAiPdVXk0UF5l1jfMgH3?from=from_copylink Lark云文档 M..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7621478011061161701": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7621478011061161701",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7621478011061161701",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Kevin",
+      "senderId": "0e4dd66217fc",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kevin",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kevin 3月26日 16:27 【行情】旧版行情移除，不再兼容 更新内容：旧版行情不再兼容 行情：@Ace 现货：@Jacky @Lee @Leland 永续：@Ken @Travel @Raymy"
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7621363841175129826": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7621363841175129826",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7621363841175129826",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Saber",
+      "senderId": "5f002f3dd83c",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Saber",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Saber 3月26日 09:04 【迭代】活动中心V.1.4版本需求(含1.3.1版本) 需求主项： 「P0」新增「交易员挑战赛」活动类型； 风控后台：「运营活动-奖励领取总表」活动类型新增“交易员挑战赛”类型枚举； 新增任务类型： 「P2」关注推特； 「P0」moonx预测市场； 「P1」注册即报名扩展应用范围； 「P0」奖励类型新增空投券； 「P1」活动支持多选分组； 「P0」复合活动支持通过代理UID筛选； 「P0」定制活动支持..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7621453705132412635": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7621453705132412635",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7621453705132412635",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Saber",
+      "senderId": "5f002f3dd83c",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Saber",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Saber 3月26日 14:52 【临时任务】活动后台-奖励派发列表 人员 前端：@Axel 测试：@Felix 期望上线时间：3.26 改动点： 列表中新增“活动标题”字段显示："
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7621460755858083550": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7621460755858083550",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7621460755858083550",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Chuang",
+      "senderId": "800dbdd71207",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Chuang",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Chuang 3月26日 15:20 【新增】异常对冲及夸所对敲风控识别 一、包含后端、占星 二、需求说明： · 文档链接：异常对冲检测风控产品需求文档（PRD） 三、人员情况： · 风控业务端：@Jack @Aria @Yolanda · 风控后端：@Flash · 测试：@David 你可阅读 展开 https://bydfimoon.sg.larksuite.com/wiki/H5Grwk36YibqWTki2pBly9Srg3e..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7620735699202445021": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7620735699202445021",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7620735699202445021",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Thoren",
+      "senderId": "f8e9bcaadf41",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Thoren",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Thoren 3月24日 16:26 【临时任务】调整活动弹窗地区限制逻辑P0 人员 后端：@Lgnis 测试：@Shirley 期望上线时间：3.25 调整点： 之前 1.已登录按照 （按照KYC认证国家/手机定位国家区分） ，只要有一个命中地区就展示，否则不展示 2.未登录 -不区分国家 调整后 1.已登录按照 （KYC认证国家/访问IP区分） ，只要有一个命中配置的地区就展示，否则不展示 2.未登录 （按照访问IP区分） ，只要访..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7621129392311291615": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7621129392311291615",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7621129392311291615",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Jung",
+      "senderId": "dcaa444d77e2",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jung",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jung 3月25日 17:54 【优化】WEB端现货交易增加教学视频 文档：WEB端现货交易增加教学视频 人员： web：@Steve 测试：@Iven 你可阅读 展开 https://bydfimoon.sg.larksuite.com/wiki/Etqfw1zYNiqJXIkVIbwluFosg3c?from=from_copylink Lark云文档 J Jung的云文档 外部 搜索 与我分享 WEB端现货交易增加教学视频 BY..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7620371465229094624": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7620371465229094624",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7620371465229094624",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Thoren",
+      "senderId": "f8e9bcaadf41",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Thoren",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Thoren 3月23日 16:53 【临时更新】验证码邮件发送域名灰度切流 P0 人员： 后端：@Lgnis 测试：@Shirley 期望上线时间：3.27 cc@Fred 文档：验证码邮件发送域名灰度切流 你可阅读 展开 https://bydfimoon.sg.larksuite.com/wiki/XM7mwMMsJiGqUNk3lxwldYWfgvf?from=from_copylink Lark云文档 T Thoren的云文档..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7620630304193072869": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7620630304193072869",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7620630304193072869",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "LS",
+      "senderId": "e60e21bf756c",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "LS",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "LS 3月24日 09:37 PWA配置以及下载页面流程图需求排期确认 人员：@Ella @Abel @Steve 需求：PWA下载页流程图 参考其他家：https://www.pwanews.com/8493701671/8493701671_home.html 你可阅读 https://rjdx19yd9zo.sg.larksuite.com/wiki/JlG8wQyEVi4whDkA00nlMwaJgFb?v=1#doxlg5BY..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7620630896906981088": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7620630896906981088",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7620630896906981088",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Saber",
+      "senderId": "5f002f3dd83c",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Saber",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Saber 3月24日 09:39 【版本需求】消息中心新增“活动消息”分类 人员： 后端：@Lgnis @Neo 前端：@Steve @Locgon @Bobby 测试：@Blake 版本：3.9.4 cc@Renee 文档：活动系统管理方案（已编辑） 活动系统管理方案 你可阅读 展开 https://bydfimoon.sg.larksuite.com/wiki/WG9fwfpV0iqJfok1ddNlM2Cxg6c#share-U..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7618923392864456413": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618923392864456413",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7618923392864456413",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Jung",
+      "senderId": "dcaa444d77e2",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jung",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jung 3月19日 19:13 【优化】充值资金账单页面增加充值未到账找回入口 文档链接：充值资金记录页面增加充值未到账入口 版本：3.9.4 人员： APP：@Gary web：@Steve 测试：@Shirley（已编辑） 你可阅读 展开 https://bydfimoon.sg.larksuite.com/wiki/FX6iwYX1fiNyXLkjCnylZFybgNd?from=from_copylink Lark云文档 J..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7619147249646915293": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7619147249646915293",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7619147249646915293",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Chuang",
+      "senderId": "800dbdd71207",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Chuang",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Chuang 3月20日 09:42 【优化】客服中心系统1.3 一、包含后端、后台、前端 二、需求说明： · 文档链接：客服系统1.3 · 改动内容： 1、用户状态展示 2、客服中心自主服务：修改意见反馈1.0版本 3、神策数据埋点 三、人员情况： · 客服业务端：@Jack @Jarek @Yolanda @Aria · 测试：@David 前端：@Rui @Steve 后端：@Flash UI：@Mango 你可阅读 展开 htt..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7618869521671016156": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618869521671016156",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7618869521671016156",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Thoren",
+      "senderId": "f8e9bcaadf41",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Thoren",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Thoren 3月19日 15:44 【临时需求】后台手机号绑定功能优化 人员： 后台：@Bobby 测试:@Shirley 文档： 后台手机号绑定功能优化 你可阅读 展开 https://bydfimoon.sg.larksuite.com/wiki/AGIdwRRd4iWhOdkvJ7HlpX4rgQb?from=from_copylink Lark云文档 T Thoren的云文档 外部 搜索 与我分享 后台手机号绑定功能优化 BY..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7618906580389514971": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618906580389514971",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7618906580389514971",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Thoren",
+      "senderId": "f8e9bcaadf41",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Thoren",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Thoren 3月19日 18:08 新增邀请码校验机制 P0 APP:@Rui Web:@Steve 测试：@Abel ui：@Mango 版本：APP跟随4.20，WEB做好就上比较急 需求文档：新增邀请码校验机制（已编辑） 你可阅读 展开 https://bydfimoon.sg.larksuite.com/wiki/K3wYwd7jminzgWkOf8glc1idgUe?from=from_copylink Lark云文档 T..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7618775138636418786": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618775138636418786",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7618775138636418786",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Jung",
+      "senderId": "dcaa444d77e2",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Jung",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Jung 3月19日 09:38 【优化】快捷买卖币3.3 需求文档：快捷买卖币优化3.3 版本：3.9.4 人员： APP：@Ryan WEB：@Steve 后端：@Leland 测试：@Shirley 后台：@Bobby（已编辑） 你可阅读 展开 https://bydfimoon.sg.larksuite.com/wiki/WNikwpIfniIPCIk5y0sl3G6NgKh?from=from_copylink Lark云文档..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7618784983465692896": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618784983465692896",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7618784983465692896",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Kevin",
+      "senderId": "0e4dd66217fc",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kevin",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kevin 3月19日 10:16 【ws】用户流websocket改造 1、tio框架改为netty框架 2、token登录改为ott方案 “Cex版本进度表”的记录 后端：@Lgnis @Flash 前端：@Steve @Rui 测试：@Abel “Cex版本进度表”的记录 当前记录已开启高级权限 展开 https://applink.feishu.cn/client/web_url/open?mode=sidebar-semi&m..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7618439496291340001": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618439496291340001",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7618439496291340001",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Miya",
+      "senderId": "1f542ab39a9d",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Miya",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Miya 3月18日 11:56 【行情】桌面小组件埋点事件修改 APP：@Gary 测试：@Eric PRD：BYDFi埋点汇总表 你可阅读 展开 https://bydfimoon.sg.larksuite.com/sheets/WzRGs1eSxhS5ZutuwcwluY2Cgqc?from=from_copylink"
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7618475397398712032": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618475397398712032",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7618475397398712032",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Chuang",
+      "senderId": "800dbdd71207",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Chuang",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Chuang 3月18日 14:15 【开发】风控临时需求总汇 一、包含风控后端、后台、占星、前端 二、需求说明：风控临时需求总汇----2.2项和2.3项 2.2.KYC-全程sumsub流程 2.3.活体认证 (扫脸) 三、人员情况： · 客服业务端：@Jack @Jarek @Yolanda @Aria · 后端：@Flash · 测试：@David . 前端web：@Steve . 前端app：@Rui . UI:@Mango..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7618396800524816095": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618396800524816095",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7618396800524816095",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Matt",
+      "senderId": "84a4b19e19aa",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Matt",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Matt 3月18日 09:10 【迭代】福利中心2.0 福利中心结构性改变 UI优化 补充弹窗、优化交互等 部分按钮功能改变、新增按钮功能 UI：@Jeffrey APP：@Gary PC：@Lgnis 后端：@Steve 测试：@Shirley PRD：福利中心需求文档 你可阅读 展开 https://bydfimoon.sg.larksuite.com/docx/UwT9daOyho9nR3xVPCJlidZJg0g BYDFi..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7618438002234134235": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7618438002234134235",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7618438002234134235",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Miya",
+      "senderId": "1f542ab39a9d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Miya",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Miya 3月18日 11:50 【迭代】Openapi V1.3交互逻辑修改 测试：@Zohar APP：@Locgon PC :@Ethan UI：@Pear PRD：OpenAPI需求文档（已编辑） 你可阅读 https://rjdx19yd9zo.sg.larksuite.com/docx/IXIodYuY4oVYI5xBIGtlPzNEgte?from=from_copylink CodeForce Ella OpenAPI需..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7616657036721262304": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7616657036721262304",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7616657036721262304",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Thoren",
+      "senderId": "f8e9bcaadf41",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Thoren",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Thoren 3月13日 16:39 【更新P0】6周年活动海报替换 人员： APP：@Rui WEB：@Steve 测试：@Abel Ui：@Alan 期望上线时间：APP跟随 3.9.3（3.23）版本上，web端作为临时任务跟随6周年活动需求3.25一起上 需求： 1.APP端：替换欧美区未登录首页纽卡图片为6周年活动图 2.web端：替换首页纽卡图片为6周年活动图 （已编辑） 展开"
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7617758566350343903": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7617758566350343903",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7617758566350343903",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Miya",
+      "senderId": "1f542ab39a9d",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Miya",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Miya 3月16日 15:53 【迭代】安全中心V2.3 安全中心支持生物认证（APP、PC、后端） 2FA流程增加生物认证和验证码切换（APP、PC、后端） 登录账户增加通行密码（PC、后端） 注销账户确认P2P账户、法币账户和card账户（APP、PC、后端） 同一场景验证码支持不跨设备登录（APP、PC、后端） 限制接口登录密码和资金密码格式（后端） 注册成功1分钟免验证时间缩短为15S（后端） UI：@Pear 测试：@Shi..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7616308688420097756": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7616308688420097756",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7616308688420097756",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Thoren",
+      "senderId": "f8e9bcaadf41",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Thoren",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Thoren 3月12日 18:07 【优化】APP未登录首页优化 人员： APP：@Rui 测试：@Abel 后端：@Lgnis 管理后台：@Bobby Ui:@Alan 期望上线时间：3.9.4（4.20） 需求文档:APP未登录首页优化 你可阅读 展开 https://bydfimoon.sg.larksuite.com/wiki/BN3Cw2AFUiQfmikgF2HlwZR8gvb?from=from_copylink Lar..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7616627241723711196": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7616627241723711196",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7616627241723711196",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Thoren",
+      "senderId": "f8e9bcaadf41",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Thoren",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Thoren 3月13日 14:43 【临时任务】新闻媒体和合作伙伴新增P0 人员： 前端：@Steve 测试：@Abel Ui：@Alan 期望上线时间：3.27 文档：新闻媒体和合作伙伴新增3.13 ui：待出（预计3.20） 你可阅读 展开 https://bydfimoon.sg.larksuite.com/wiki/CJD8wAixqiX5CwkgF96ll4Vogrg?from=from_copylink Lark云文档 T..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7615833745177710299": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7615833745177710299",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7615833745177710299",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Kevin",
+      "senderId": "0e4dd66217fc",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kevin",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kevin 3月11日 11:24 【接口速度】P1-9: 现货/合约行情 API 响应波动大（250-400ms） URL：https://quote-v2.bydfi.pro/tickers?preHour=24 (现货 368ms) https://fquote-v2.bydfi.pro/tickers?preHour=24 (合约 323ms) 这两个接口返回所有交易对的 24 小时行情数据（价格、涨跌幅、成交量），被首页和行情..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7616207498940305119": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7616207498940305119",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7616207498940305119",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Thoren",
+      "senderId": "f8e9bcaadf41",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Thoren",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Thoren 3月12日 11:34 【迭代】安全中心新增X绑定 人员： APP：@Rui Web:@Steve 测试：@Abel 后端：@Flash Ui:@Alan 期望上线时间：3.9.4（4.20) 需求文档：安全中心新增X绑定 原型：https://modao.cc/proto/SJfhT6RRtbrl0vOpOBhuRh/sharing?view_mode=read_only&screen=rbpVDcDuculv6Go37..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7615547814688444126": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7615547814688444126",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7615547814688444126",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Lorena",
+      "senderId": "a86c261f64d7",
+      "sourceType": "external_document_message",
+      "messageType": "text",
+      "title": "Lorena",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Lorena 3月10日 16:54 SEO基础能力优化 P1 【PRD】：基础能力优化P1 人员： 前端：@Steve @LS @Nilu @Connor 后端：@Auber 测试：@Eric 你可阅读 https://bydfimoon.sg.larksuite.com/docx/GRI8dbjh6oq8tixE0K2lLx4Qgfd?from=from_copylink BYDFi Lorena 基础能力优化P1 外部 添加快捷方..."
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7615832389272522462": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7615832389272522462",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7615832389272522462",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Kevin",
+      "senderId": "0e4dd66217fc",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Kevin",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Kevin 3月11日 11:19 【优化】WS 首次连接失败：ws.bydfi.com 首次连接 error 502，需重连。 后端：@Ace 运维：@Jim @Crads http://ws.bydfi.com/"
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7626192998593760992": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7626192998593760992",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7626192998593760992",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Ella09:23",
+      "senderId": "60c9d0cca876",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Ella",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Ella 09:23 【迭代】临时需求：现金券的发放方式均改为自动发放，去掉待领取的步骤，不需要用户再手动领取（涉及端：后台人工派发、邀请好友活动派发、活动中心派发） 人员信息： 后端：@Lgnis @JZ 测试：@Blake"
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7626222632685342429": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7626222632685342429",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7626222632685342429",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Martin11:18",
+      "senderId": "76f4458045af",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Martin",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Martin 11:18 【新增】提供SEO币种列表上架&下架消息通知 1.提供给SEO 现货配置内币种列表的交易状态 上架&下架消息，实现自动化获取上下架的币对 然后同步进行内容更新 后端：@Lee 测试：@Iven（已编辑）"
+    },
+    "msg:webmsg_external_web_268b46e9007e1874_7626242752916770524": {
+      "anchorId": "msg:webmsg_external_web_268b46e9007e1874_7626242752916770524",
+      "messageId": "webmsg_external_web_268b46e9007e1874_7626242752916770524",
+      "chatId": "external_web_268b46e9007e1874",
+      "time": "2026-04-08T04:46:40.827060+00:00",
+      "reporterName": "Thoren12:36",
+      "senderId": "9845eb988c31",
+      "sourceType": "external_text_message",
+      "messageType": "text",
+      "title": "Thoren",
+      "sourceUrl": "",
+      "documentKey": "",
+      "status": "parsed",
+      "preview": "Thoren 12:36 【临时更新P0】pc端的头部导航栏这里调换站内信和下载按钮位置 人员： web：@Steve 测试：@Abel 期望上线时间：好了就上 需求：pc端【登录+未登录状态】的头部导航栏这里，固定的按钮把这个站内信的入口和下载的入口调换下 展开"
+    }
+  },
+  "summaryText": "BYDFi 产研跨源对账单 (Cross-Check Report)\n\n一、高危断链项（AI双向核查确权）\n当前未发现可直接确权的高危断链项。\n二、待核对项（证据不足，不下重判）\n事件1：用户通过多帐号参加活动进行套利、活动滥用或洗钱行为​\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_268b46e9007e1874_7625943488370069215\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件2：【优化】活动页面的seo元素调整\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_268b46e9007e1874_7622886215548686048\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件3：元数据拆开，每个活动是自己单独的一套显示\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_268b46e9007e1874_7622886215548686048\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件4：sitemap内单独加上6周年的活动页\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_268b46e9007e1874_7622886215548686048\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件5：【迭代】活动中心V.1.4版本需求(含1.3.1版本)\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_268b46e9007e1874_7621363841175129826\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件6：「P0」新增「交易员挑战赛」活动类型；\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_268b46e9007e1874_7621363841175129826\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件7：风控后台：「运营活动-奖励领取总表」活动类型新增“交易员挑战赛”类型枚举；\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_268b46e9007e1874_7621363841175129826\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件8：「P0」奖励类型新增空投券；\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_268b46e9007e1874_7621363841175129826\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件9：「P1」活动支持多选分组；\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_268b46e9007e1874_7621363841175129826\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件10：「P0」复合活动支持通过代理UID筛选；\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_268b46e9007e1874_7621363841175129826\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件11：「P0」定制活动支持“申请审核派奖”模式；\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_268b46e9007e1874_7621363841175129826\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n事件12：「P0」已下架的活动调整下架后修改任务参数后再上线；\n缺失证据：研发/计划侧证据不足（待核对）\n已知业务锚点：msg:webmsg_external_web_268b46e9007e1874_7621363841175129826\n需要谁补：产品负责人、技术负责人、项目经理（补 owner、ETA、验收口径）。\n\n三、本周必须落地动作（最多3条）\n1. 请直接@产品负责人，本周内把“用户通过多帐号参加活动进行套利、活动滥用或洗钱行”写入需求池与版本进度表并锁定研发排期。\n2. 请直接@产品负责人，本周内把“【优化】活动页面的seo元素调整”写入需求池与版本进度表并锁定研发排期。\n3. 请直接@产品负责人，本周内把“元数据拆开，每个活动是自己单独的一套显示”写入需求池与版本进度表并锁定研发排期。"
+}
